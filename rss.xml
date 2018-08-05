@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Aug 2018 11:44:22 +0200</pubDate>
+    <pubDate>Sun, 05 Aug 2018 12:26:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 1–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes-seats.png"
+        length="223935"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 12:26:10 +0200</pubDate>
+      <dc:date>2018-08-05T12:26:10.945318+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes-coalitions-seats.png"
+        length="164162"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 12:26:10 +0200</pubDate>
+      <dc:date>2018-08-05T12:26:10.945318+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.png"
         length="273497"
         type="image/png"/>
-      <pubDate>Sun, 05 Aug 2018 11:31:51 +0200</pubDate>
-      <dc:date>2018-08-05T11:31:51.469459+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 12:26:10 +0200</pubDate>
+      <dc:date>2018-08-05T12:26:10.945318+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 16 May 2018 – Voting Intentions</title>
@@ -26,9 +46,19 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-05-16-RedC.png"
         length="271866"
         type="image/png"/>
-      <pubDate>Sun, 05 Aug 2018 11:44:22 +0200</pubDate>
-      <dc:date>2018-08-05T11:44:22.911436+02:00</dc:date>
+      <pubDate>Sun, 05 Aug 2018 11:51:13 +0200</pubDate>
+      <dc:date>2018-08-05T11:51:13.656363+02:00</dc:date>
     </item>
-    <dc:date>2018-08-05T11:44:22.911436+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Millward Brown for The Sunday Independent, 30 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-04-30-MillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 31.4–37.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 24.6–30.2%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 19.8–24.9%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-04-30-MillwardBrown.png"
+        length="237677"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 12:24:00 +0200</pubDate>
+      <dc:date>2018-08-05T12:24:00.433404+02:00</dc:date>
+    </item>
+    <dc:date>2018-08-05T12:26:10.945318+02:00</dc:date>
   </channel>
 </rss>
