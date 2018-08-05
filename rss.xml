@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 05 Aug 2018 11:44:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 31.6–37.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 18.9–24.1%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 19.8–25.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.2%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 3.0–5.6%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 6.8–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-07-17-BehaviourandAttitudes.png"
+        length="273497"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 11:31:51 +0200</pubDate>
+      <dc:date>2018-08-05T11:31:51.469459+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 16 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-05-16-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 31.0–36.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 22.3–27.7%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 13.9–18.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 5.9–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-05-16-RedC.png"
+        length="271866"
+        type="image/png"/>
+      <pubDate>Sun, 05 Aug 2018 11:44:22 +0200</pubDate>
+      <dc:date>2018-08-05T11:44:22.911436+02:00</dc:date>
+    </item>
+    <dc:date>2018-08-05T11:44:22.911436+02:00</dc:date>
+  </channel>
+</rss>
