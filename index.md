@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–37% <br> 4–7 | 20–29% <br> 1–4 | 1–10% <br> 0–1 | 14–25% <br> 1–4 | 2–7% <br> 0 | 1–4% <br> 0–1 | 1–4% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 31–37% <br> 4–7 | 20–29% <br> 1–4 | 1–10% <br> 0–1 | 14–25% <br> 2–4 | 2–7% <br> 0 | 1–4% <br> 0–1 | 1–4% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 0–2% <br> 0 |
 | [17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 32–38% <br> 4–7 | 19–24% <br> 1–4 | 7–10% <br> 0–1 | 20–25% <br> 3–4 | 2–4% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 31–37% <br> 4–6 | 22–28% <br> 4 | 6–9% <br> 0–1 | 14–18% <br> 1–3 | 5–8% <br> 0 | 2–4% <br> 0–1 | 1–3% <br> 0 | 3–5% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 31–37% <br> 5–6 | 25–30% <br> 4 | 1–3% <br> 0 | 20–25% <br> 3–4 | 4–7% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A |
