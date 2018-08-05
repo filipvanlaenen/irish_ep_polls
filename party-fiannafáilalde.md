@@ -50,7 +50,7 @@ Last result: **1** seats (General Election of 23 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
-| [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 4 |
+| [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 3–4 |
 | [30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 4 | 4 | 4 | 4 | 4 |
 
 ### Probability Mass Function

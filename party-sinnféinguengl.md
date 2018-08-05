@@ -48,7 +48,7 @@ Last result: **3** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 2–4 | 2–4 | 1–4 |
 | [17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -61,10 +61,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 0.8% | 97% |  |
-| 3 | 34% | 96% | Last Result |
-| 4 | 62% | 62% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 5% | 98% |  |
+| 3 | 30% | 93% | Last Result |
+| 4 | 63% | 63% | Median |
 | 5 | 0% | 0% |  |
 
 
