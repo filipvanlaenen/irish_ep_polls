@@ -1,4 +1,4 @@
-# Opinion Poll by Millward Brown for The Sunday Independent, 30 April 2018
+# Opinion Poll by Millward Brown for The Sunday Independent, 19–30 April 2018
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -186,7 +186,7 @@
 
 + **Polling firm:** Millward Brown
 + **Commissioner(s):** The Sunday Independent
-+ **Fieldwork period:** 30 April 2018
++ **Fieldwork period:** 19–30 April 2018
 
 ### Calculations
 

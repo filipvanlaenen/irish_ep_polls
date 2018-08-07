@@ -11,9 +11,22 @@ Last result: **19.8%** (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.3% | 1.5–9.0% | 1.4–9.5% | 1.2–9.8% | 1.0–10.6% |
-| [17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.4% | 7.3–9.7% | 7.0–10.0% | 6.8–10.3% | 6.3–11.0% |
-| [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
-| [30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
+| [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.4% | 7.3–9.7% | 7.0–10.0% | 6.8–10.3% | 6.3–11.0% |
+| [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7.4% | 6.4–8.6% | 6.1–9.0% | 5.9–9.3% | 5.4–9.9% |
+| [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.2% | N/A | N/A | N/A | N/A |
+| [19–30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
+| [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
+| [16–17 April 2018](2018-04-17-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 7.4% | N/A | N/A | N/A | N/A |
+| [5–17 April 2018](2018-04-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.1% | 7.0–9.3% | 6.7–9.7% | 6.5–10.0% | 6.0–10.7% |
+| [15–22 March 2018](2018-03-22-RedC.html) | Red C <br> The Sunday Business Post | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
+| [6–13 March 2018](2018-03-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.0% | N/A | N/A | N/A | N/A |
+| [15–22 February 2018](2018-02-22-RedC.html) | Red C <br> The Sunday Business Post | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [6–14 February 2018](2018-02-14-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 8.6% | N/A | N/A | N/A | N/A |
+| [1–13 February 2018](2018-02-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7.3% | N/A | N/A | N/A | N/A |
+| [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 7.4% | 6.4–8.6% | 6.1–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 9.0% | N/A | N/A | N/A | N/A |
+| [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7.4% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -53,9 +66,22 @@ Last result: **3** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 0 | 0 | 0 | 0 | 0 |
+| [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [19–30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 0 | 0 | 0 | 0 | 0 |
+| [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 1 | 1 |
+| [16–17 April 2018](2018-04-17-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [5–17 April 2018](2018-04-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–22 March 2018](2018-03-22-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 1 | 0–1 |
+| [6–13 March 2018](2018-03-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [15–22 February 2018](2018-02-22-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–14 February 2018](2018-02-14-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
+| [1–13 February 2018](2018-02-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 
 ### Probability Mass Function
 
