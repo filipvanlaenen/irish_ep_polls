@@ -67,12 +67,12 @@ Last result: **1** seats (General Election of 23 May 2014)
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 3–4 |
 | [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [19–30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 4 | 4 | 4 | 4 | 4 |
-| [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4–5 | 4–5 |
 | [16–17 April 2018](2018-04-17-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
 | [5–17 April 2018](2018-04-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 3–4 |
 | [15–22 March 2018](2018-03-22-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 4 |
 | [6–13 March 2018](2018-03-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
-| [15–22 February 2018](2018-02-22-RedC.html) | Red C <br> The Sunday Business Post | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [15–22 February 2018](2018-02-22-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [6–14 February 2018](2018-02-14-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
 | [1–13 February 2018](2018-02-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 3–5 |
