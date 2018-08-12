@@ -69,7 +69,7 @@ Last result: **3** seats (General Election of 23 May 2014)
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 1 | 1 |
 | [16–17 April 2018](2018-04-17-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

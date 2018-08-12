@@ -76,7 +76,7 @@ Last result: **3** seats (General Election of 23 May 2014)
 | [6–14 February 2018](2018-02-14-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [1–13 February 2018](2018-02-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 
 ### Probability Mass Function
