@@ -390,6 +390,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Fine Gael (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-fg.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 8% | 100% | Last Result |
@@ -399,6 +401,8 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 0% |  |
 
 ### Fianna Fáil (ALDE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ff.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -410,11 +414,15 @@ Only polls for which at least the sample size has been published are included in
 
 ### Green Party (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-gp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Labour Party (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -423,3 +431,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 3.44%
