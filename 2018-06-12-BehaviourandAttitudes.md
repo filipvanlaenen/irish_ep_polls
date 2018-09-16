@@ -172,6 +172,8 @@
 
 ### Fine Gael (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-06-12-BehaviourandAttitudes-coalitions-seats-pmf-fg.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 22% | 100% | Last Result |
@@ -180,6 +182,8 @@
 | 7 | 0% | 0% | Majority |
 
 ### Fianna Fáil (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-06-12-BehaviourandAttitudes-coalitions-seats-pmf-ff.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -191,11 +195,15 @@
 
 ### Green Party (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-06-12-BehaviourandAttitudes-coalitions-seats-pmf-gp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Labour Party (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-06-12-BehaviourandAttitudes-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

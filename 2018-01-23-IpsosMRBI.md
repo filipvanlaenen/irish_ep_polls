@@ -164,6 +164,8 @@
 
 ### Fine Gael (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-01-23-IpsosMRBI-coalitions-seats-pmf-fg.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 19% | 100% | Last Result |
@@ -173,6 +175,8 @@
 | 8 | 0% | 0% |  |
 
 ### Fianna Fáil (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-01-23-IpsosMRBI-coalitions-seats-pmf-ff.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -184,6 +188,8 @@
 
 ### Green Party (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-01-23-IpsosMRBI-coalitions-seats-pmf-gp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 99.8% | 100% | Last Result, Median |
@@ -191,6 +197,8 @@
 | 2 | 0% | 0% |  |
 
 ### Labour Party (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-01-23-IpsosMRBI-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
