@@ -10,10 +10,10 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.7–23.2% | 19.3–23.7% | 18.9–24.1% | 18.1–25.0% |
+| N/A | [Poll Average](average.html) | 22.7% | 20.3–25.2% | 19.7–25.8% | 19.3–26.4% | 18.4–27.4% |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24.9% | 23.2–26.8% | 22.6–27.3% | 22.2–27.8% | 21.4–28.7% |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
-| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 24.0% | N/A | N/A | N/A | N/A |
+| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 24.0% | 22.3–25.8% | 21.8–26.4% | 21.4–26.8% | 20.6–27.7% |
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.4% | 19.7–23.2% | 19.3–23.7% | 18.9–24.1% | 18.1–25.0% |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24.0% | 22.2–25.8% | 21.7–26.4% | 21.3–26.8% | 20.5–27.7% |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
@@ -37,18 +37,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.9% |  |
-| 18.5–19.5% | 6% | 98.6% |  |
-| 19.5–20.5% | 18% | 92% |  |
-| 20.5–21.5% | 28% | 74% | Median |
-| 21.5–22.5% | 26% | 46% | Last Result |
-| 22.5–23.5% | 14% | 20% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 1.0% | 1.2% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.3% |  |
+| 19.5–20.5% | 9% | 96% |  |
+| 20.5–21.5% | 16% | 87% |  |
+| 21.5–22.5% | 18% | 71% | Last Result |
+| 22.5–23.5% | 18% | 53% | Median |
+| 23.5–24.5% | 17% | 35% |  |
+| 24.5–25.5% | 11% | 18% |  |
+| 25.5–26.5% | 5% | 7% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -59,10 +60,10 @@ Last result: **1** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 3–4 | 3–4 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 3–4 | 2–4 |
-| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail |  |  |  |  |  |
+| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4 | 4 | 4 | 4 |
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 3–4 |
@@ -88,10 +89,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% | Last Result |
-| 2 | 17% | 82% |  |
-| 3 | 18% | 65% | Median |
-| 4 | 47% | 47% |  |
+| 1 | 9% | 100% | Last Result |
+| 2 | 8% | 91% |  |
+| 3 | 9% | 82% |  |
+| 4 | 74% | 74% | Median |
 | 5 | 0% | 0% |  |
 
 
