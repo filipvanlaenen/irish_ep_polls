@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 32–38% <br> 4–7 | 19–24% <br> 1–4 | 7–10% <br> 0–1 | 20–25% <br> 3–4 | 2–4% <br> 0 | 0–2% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 27–37% <br> 4–7 | 19–26% <br> 1–4 | 7–16% <br> 0–1 | 17–25% <br> 3–4 | 2–8% <br> 0 | 0–2% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29–35% <br> 4–6 | 22–28% <br> 3–4 | 5–8% <br> 0–1 | 17–23% <br> 3–4 | 4–7% <br> 0 | 2–4% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 30–36% <br> 5–7 | 20–25% <br> 3–4 | 9–13% <br> 1 | 12–16% <br> 1–3 | 5–8% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 |
-| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 26–32% <br> 4–5 | 21–27% <br> 4 | 12–16% <br> 1 | 17–22% <br> 3–4 | 5–8% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
