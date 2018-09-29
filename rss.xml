@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Sep 2018 22:56:28 +0200</pubDate>
+    <pubDate>Fri, 28 Sep 2018 20:57:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 6–18 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-09-18-BehaviourandAttitudes.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-09-26T15:03:52.652051+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 15–24 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks-seats.png"
+        length="142857"
+        type="image/png"/>
+      <pubDate>Fri, 28 Sep 2018 20:57:22 +0200</pubDate>
+      <dc:date>2018-09-28T20:57:22.766408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 15–24 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks-coalitions-seats.png"
+        length="90628"
+        type="image/png"/>
+      <pubDate>Fri, 28 Sep 2018 20:57:22 +0200</pubDate>
+      <dc:date>2018-09-28T20:57:22.766408+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 15–24 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 26.2–32.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 21.4–26.8%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 16.6–21.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 4.7–7.8%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 11.8–16.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-08-24-IrelandThinks.png"
         length="251897"
         type="image/png"/>
-      <pubDate>Thu, 27 Sep 2018 22:56:28 +0200</pubDate>
-      <dc:date>2018-09-27T22:56:28.386607+02:00</dc:date>
+      <pubDate>Fri, 28 Sep 2018 20:57:22 +0200</pubDate>
+      <dc:date>2018-09-28T20:57:22.766408+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 July 2018 – Seat Projections for the Parties</title>
@@ -559,6 +579,6 @@
       <pubDate>Fri, 10 Aug 2018 10:08:11 +0200</pubDate>
       <dc:date>2018-08-10T10:08:11.304022+02:00</dc:date>
     </item>
-    <dc:date>2018-09-27T22:56:28.386607+02:00</dc:date>
+    <dc:date>2018-09-28T20:57:22.766408+02:00</dc:date>
   </channel>
 </rss>
