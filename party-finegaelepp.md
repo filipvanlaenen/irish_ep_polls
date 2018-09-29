@@ -10,7 +10,7 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.8% | 27.8–35.9% | 27.1–36.6% | 26.6–37.2% | 25.7–38.3% |
+| N/A | [Poll Average](average.html) | 31.6% | 28.2–34.3% | 27.5–35.0% | 26.9–35.6% | 25.9–36.6% |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.8% | 29.9–33.8% | 29.4–34.4% | 28.9–34.9% | 28.0–35.8% |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 33.3% | 31.4–35.3% | 30.9–35.8% | 30.4–36.3% | 29.6–37.2% |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 29.0% | 27.1–30.9% | 26.6–31.5% | 26.2–32.0% | 25.3–32.9% |
@@ -40,23 +40,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% | Last Result |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.4% | 100% |  |
-| 25.5–26.5% | 2% | 99.6% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 11% | 92% |  |
-| 28.5–29.5% | 13% | 81% |  |
-| 29.5–30.5% | 10% | 68% |  |
-| 30.5–31.5% | 6% | 57% |  |
-| 31.5–32.5% | 5% | 51% | Median |
-| 32.5–33.5% | 8% | 46% |  |
-| 33.5–34.5% | 12% | 38% |  |
-| 34.5–35.5% | 12% | 26% |  |
-| 35.5–36.5% | 8% | 14% |  |
-| 36.5–37.5% | 4% | 5% |  |
-| 37.5–38.5% | 1.2% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.3% |  |
-| 39.5–40.5% | 0% | 0% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.2% | 99.7% |  |
+| 26.5–27.5% | 4% | 98% |  |
+| 27.5–28.5% | 8% | 95% |  |
+| 28.5–29.5% | 11% | 87% |  |
+| 29.5–30.5% | 12% | 76% |  |
+| 30.5–31.5% | 14% | 64% |  |
+| 31.5–32.5% | 16% | 50% | Median |
+| 32.5–33.5% | 15% | 34% |  |
+| 33.5–34.5% | 11% | 19% |  |
+| 34.5–35.5% | 6% | 8% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.5% | 0.6% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,10 +65,10 @@ Last result: **4** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–7 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -96,10 +94,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 54% | 100% | Last Result, Median |
-| 5 | 20% | 46% |  |
-| 6 | 9% | 27% |  |
-| 7 | 18% | 18% | Majority |
+| 4 | 34% | 100% | Last Result |
+| 5 | 36% | 66% | Median |
+| 6 | 18% | 31% |  |
+| 7 | 12% | 12% | Majority |
 | 8 | 0% | 0% |  |
 
 
