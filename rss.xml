@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Sep 2018 20:57:22 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 19:49:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 10–12 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-10-12-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 30.7–36.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 22.9–27.8%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 21.9–26.8%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 3.9–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-10-12-IpsosMRBI.png"
+        length="252990"
+        type="image/png"/>
+      <pubDate>Sat, 20 Oct 2018 19:49:34 +0200</pubDate>
+      <dc:date>2018-10-20T19:49:34.308462+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Paddy Power, 3–10 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-10-10-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 29.1–34.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 24.2–29.7%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 8.8–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2018-10-10-RedC.png"
+        length="276738"
+        type="image/png"/>
+      <pubDate>Sat, 20 Oct 2018 18:29:53 +0200</pubDate>
+      <dc:date>2018-10-20T18:29:53.034717+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 6–18 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2018-09-18-BehaviourandAttitudes.html#seats</link>
@@ -579,6 +599,6 @@
       <pubDate>Fri, 10 Aug 2018 10:08:11 +0200</pubDate>
       <dc:date>2018-08-10T10:08:11.304022+02:00</dc:date>
     </item>
-    <dc:date>2018-09-28T20:57:22.766408+02:00</dc:date>
+    <dc:date>2018-10-20T19:49:34.308462+02:00</dc:date>
   </channel>
 </rss>
