@@ -10,7 +10,9 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.6% | 28.2–34.3% | 27.5–35.0% | 26.9–35.6% | 25.9–36.6% |
+| N/A | [Poll Average](average.html) | 31.7% | 28.6–34.2% | 27.7–34.8% | 27.1–35.3% | 26.0–36.3% |
+| [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 33.3% | 31.6–35.1% | 31.1–35.6% | 30.7–36.1% | 29.9–36.9% |
+| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.8% | 29.9–33.8% | 29.4–34.4% | 28.9–34.9% | 28.0–35.8% |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 33.3% | 31.4–35.3% | 30.9–35.8% | 30.4–36.3% | 29.6–37.2% |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 29.0% | 27.1–30.9% | 26.6–31.5% | 26.2–32.0% | 25.3–32.9% |
@@ -41,20 +43,19 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.2% | 99.7% |  |
-| 26.5–27.5% | 4% | 98% |  |
-| 27.5–28.5% | 8% | 95% |  |
-| 28.5–29.5% | 11% | 87% |  |
-| 29.5–30.5% | 12% | 76% |  |
-| 30.5–31.5% | 14% | 64% |  |
-| 31.5–32.5% | 16% | 50% | Median |
-| 32.5–33.5% | 15% | 34% |  |
-| 33.5–34.5% | 11% | 19% |  |
-| 34.5–35.5% | 6% | 8% |  |
-| 35.5–36.5% | 2% | 3% |  |
-| 36.5–37.5% | 0.5% | 0.6% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.9% | 99.8% |  |
+| 26.5–27.5% | 3% | 98.9% |  |
+| 27.5–28.5% | 6% | 96% |  |
+| 28.5–29.5% | 9% | 90% |  |
+| 29.5–30.5% | 12% | 81% |  |
+| 30.5–31.5% | 16% | 69% |  |
+| 31.5–32.5% | 19% | 53% | Median |
+| 32.5–33.5% | 17% | 35% |  |
+| 33.5–34.5% | 11% | 18% |  |
+| 34.5–35.5% | 5% | 7% |  |
+| 35.5–36.5% | 1.5% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.3% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,7 +66,9 @@ Last result: **4** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 5 | 5 | 5 | 5 |
+| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -94,10 +97,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 34% | 100% | Last Result |
-| 5 | 36% | 66% | Median |
-| 6 | 18% | 31% |  |
-| 7 | 12% | 12% | Majority |
+| 4 | 25% | 100% | Last Result |
+| 5 | 59% | 75% | Median |
+| 6 | 14% | 16% |  |
+| 7 | 2% | 2% | Majority |
 | 8 | 0% | 0% |  |
 
 

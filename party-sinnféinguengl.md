@@ -10,7 +10,9 @@ Last result: **19.5%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 13.6–20.9% | 13.0–21.5% | 12.6–22.0% | 11.9–22.9% |
+| N/A | [Poll Average](average.html) | 19.5% | 13.8–24.6% | 13.1–25.3% | 12.7–25.9% | 11.9–26.9% |
+| [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 24.2% | 22.7–25.9% | 22.3–26.4% | 21.9–26.8% | 21.2–27.6% |
+| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.9% | 18.3–21.6% | 17.8–22.1% | 17.5–22.6% | 16.7–23.4% |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 19.0% | 17.4–20.7% | 17.0–21.2% | 16.6–21.6% | 15.9–22.5% |
@@ -40,19 +42,23 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.2% | 100% |  |
 | 11.5–12.5% | 2% | 99.8% |  |
-| 12.5–13.5% | 8% | 98% |  |
-| 13.5–14.5% | 12% | 90% |  |
-| 14.5–15.5% | 8% | 79% |  |
-| 15.5–16.5% | 4% | 70% |  |
-| 16.5–17.5% | 5% | 66% |  |
-| 17.5–18.5% | 11% | 62% |  |
-| 18.5–19.5% | 18% | 50% | Median |
-| 19.5–20.5% | 17% | 32% | Last Result |
-| 20.5–21.5% | 10% | 15% |  |
-| 21.5–22.5% | 4% | 5% |  |
-| 22.5–23.5% | 0.8% | 1.0% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 12.5–13.5% | 6% | 98% |  |
+| 13.5–14.5% | 9% | 92% |  |
+| 14.5–15.5% | 6% | 83% |  |
+| 15.5–16.5% | 3% | 77% |  |
+| 16.5–17.5% | 3% | 75% |  |
+| 17.5–18.5% | 9% | 71% |  |
+| 18.5–19.5% | 14% | 63% | Median |
+| 19.5–20.5% | 13% | 49% | Last Result |
+| 20.5–21.5% | 8% | 36% |  |
+| 21.5–22.5% | 4% | 28% |  |
+| 22.5–23.5% | 6% | 24% |  |
+| 23.5–24.5% | 8% | 18% |  |
+| 24.5–25.5% | 6% | 10% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 0.8% | 0.9% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,7 +69,9 @@ Last result: **3** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -92,10 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 16% | 100% |  |
-| 2 | 17% | 84% |  |
-| 3 | 32% | 68% | Last Result, Median |
-| 4 | 36% | 36% |  |
+| 1 | 2% | 100% |  |
+| 2 | 23% | 98% |  |
+| 3 | 27% | 75% | Last Result, Median |
+| 4 | 48% | 48% |  |
 | 5 | 0% | 0% |  |
 
 
