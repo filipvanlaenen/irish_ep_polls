@@ -69,9 +69,9 @@ Last result: **3** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 23% | 98% |  |
-| 3 | 27% | 75% | Last Result, Median |
+| 1 | 6% | 100% |  |
+| 2 | 17% | 94% |  |
+| 3 | 28% | 77% | Last Result, Median |
 | 4 | 48% | 48% |  |
 | 5 | 0% | 0% |  |
 
