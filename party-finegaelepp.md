@@ -10,7 +10,10 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.7% | 28.6–34.2% | 27.7–34.8% | 27.1–35.3% | 26.0–36.3% |
+| N/A | [Poll Average](average.html) | 32.5% | 28.6–35.3% | 27.7–35.7% | 27.1–36.1% | 26.0–36.7% |
+| [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 34.9% | 33.9–36.0% | 33.6–36.3% | 33.3–36.5% | 32.9–37.0% |
+| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 32.9% | 31.0–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
+| [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.5% | 29.6–33.5% | 29.1–34.1% | 28.6–34.6% | 27.7–35.5% |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 33.3% | 31.6–35.1% | 31.1–35.6% | 30.7–36.1% | 29.9–36.9% |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.8% | 29.9–33.8% | 29.4–34.4% | 28.9–34.9% | 28.0–35.8% |
@@ -46,16 +49,17 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0.9% | 99.8% |  |
 | 26.5–27.5% | 3% | 98.9% |  |
 | 27.5–28.5% | 6% | 96% |  |
-| 28.5–29.5% | 9% | 90% |  |
-| 29.5–30.5% | 12% | 81% |  |
-| 30.5–31.5% | 16% | 69% |  |
-| 31.5–32.5% | 19% | 53% | Median |
-| 32.5–33.5% | 17% | 35% |  |
-| 33.5–34.5% | 11% | 18% |  |
-| 34.5–35.5% | 5% | 7% |  |
-| 35.5–36.5% | 1.5% | 2% |  |
-| 36.5–37.5% | 0.3% | 0.3% |  |
+| 28.5–29.5% | 8% | 90% |  |
+| 29.5–30.5% | 10% | 82% |  |
+| 30.5–31.5% | 11% | 72% |  |
+| 31.5–32.5% | 12% | 61% |  |
+| 32.5–33.5% | 12% | 50% | Median |
+| 33.5–34.5% | 15% | 37% |  |
+| 34.5–35.5% | 15% | 22% |  |
+| 35.5–36.5% | 6% | 7% |  |
+| 36.5–37.5% | 0.8% | 0.8% |  |
 | 37.5–38.5% | 0% | 0% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,7 +70,10 @@ Last result: **4** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 5 | 5 | 5 | 5 |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -97,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 26% | 100% | Last Result |
-| 5 | 58% | 74% | Median |
-| 6 | 13% | 16% |  |
-| 7 | 3% | 3% | Majority |
+| 4 | 33% | 100% | Last Result |
+| 5 | 38% | 67% | Median |
+| 6 | 15% | 29% |  |
+| 7 | 14% | 14% | Majority |
 | 8 | 0% | 0% |  |
 
 
