@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 27–35% <br> 4–7 | 22–29% <br> 3–4 | 4–15% <br> 0–1 | 13–26% <br> 1–4 | 3–7% <br> 0 | 1–4% <br> 0–1 | 1–4% <br> 0 | 1–5% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 27–36% <br> 4–7 | 21–29% <br> 3–4 | 4–15% <br> 0–1 | 14–26% <br> 1–4 | 3–8% <br> 0 | 1–4% <br> 0–1 | 1–4% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 |
+| [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 33–37% <br> 6–7 | 21–23% <br> 4 | 8–10% <br> 1 | 14–16% <br> 1–2 | 6–8% <br> 0 | 2–3% <br> 0 | 3–5% <br> 0 | 1% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 |
+| [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29–35% <br> 4–6 | 25–30% <br> 4 | 6–9% <br> 0–1 | 17–22% <br> 3–4 | 5–8% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 31–36% <br> 5 | 23–28% <br> 3–4 | 4–6% <br> 0 | 22–27% <br> 3–4 | 3–5% <br> 0 | 2–4% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 29–35% <br> 5–7 | 24–30% <br> 4–5 | 9–13% <br> 1 | 12–16% <br> 1–3 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29–35% <br> 4–6 | 22–28% <br> 3–4 | 5–8% <br> 0–1 | 17–23% <br> 3–4 | 4–7% <br> 0 | 2–4% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 26–32% <br> 4–5 | 21–27% <br> 4 | 12–16% <br> 1 | 17–22% <br> 3–4 | 5–8% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 |
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
