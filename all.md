@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 33–37% <br> 6–7 | 21–23% <br> 3–4 | 8–10% <br> 1 | 14–16% <br> 1–2 | 6–8% <br> 0 | 2–3% <br> 0 | 3–5% <br> 0–1 | 1% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 |
-| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 30–36% <br> 5–7 | 22–28% <br> 4 | 8–12% <br> 1 | 13–17% <br> 1–3 | 4–7% <br> 0 | 0–1% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 30–36% <br> 4–7 | 22–28% <br> 4 | 8–12% <br> 1 | 13–17% <br> 1–3 | 4–7% <br> 0 | 0–1% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29–35% <br> 4–6 | 25–30% <br> 4 | 6–9% <br> 0–1 | 17–22% <br> 3–4 | 5–8% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 31–36% <br> 5 | 23–28% <br> 3–4 | 4–6% <br> 0 | 22–27% <br> 3–4 | 3–5% <br> 0 | 2–4% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 29–35% <br> 5–7 | 24–30% <br> 4–5 | 9–13% <br> 1 | 12–16% <br> 1–3 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
