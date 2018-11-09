@@ -72,7 +72,7 @@ Last result: **4** seats (General Election of 23 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 5 | 5 | 5 | 5 |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
