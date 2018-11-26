@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 4 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 4 | 4 |4–5 |4–5 |4–5 |
 | <a href="#fianna-fáil-(alde)">Fianna Fáil (ALDE)</a> | 1 | 4 | 4 |4 |4 |4 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#independents-(*)">Independents (*)</a> | 3 | 1 | 1 |1 |1 |1 |
@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 87% | 100% | Last Result, Median |
-| 5 | 12% | 13% |  |
+| 4 | 90% | 100% | Last Result, Median |
+| 5 | 10% | 10% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -61,7 +61,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
+| 3 | 0% | 100% |  |
 | 4 | 99.9% | 99.9% | Median |
 | 5 | 0% | 0% |  |
 
@@ -73,9 +73,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 15% | 99.7% | Last Result |
-| 4 | 85% | 85% | Median |
+| 2 | 0.5% | 100% |  |
+| 3 | 11% | 99.5% | Last Result |
+| 4 | 88% | 88% | Median |
 | 5 | 0% | 0% |  |
 
 ### Independents (*)
@@ -143,7 +143,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fine Gael (EPP) | 4 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Fine Gael (EPP) | 4 | 4 | 0% | 4 | 4–5 | 4–5 | 4–5 |
 | Fianna Fáil (ALDE) | 1 | 4 | 0% | 4 | 4 | 4 | 4 |
 | Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
@@ -154,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 87% | 100% | Last Result, Median |
-| 5 | 12% | 13% |  |
+| 4 | 90% | 100% | Last Result, Median |
+| 5 | 10% | 10% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% | Majority |
 
@@ -167,7 +167,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
+| 3 | 0% | 100% |  |
 | 4 | 99.9% | 99.9% | Median |
 | 5 | 0% | 0% |  |
 
@@ -201,6 +201,6 @@
 ### Calculations
 
 + **Sample size:** 942
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.52%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.29%
 

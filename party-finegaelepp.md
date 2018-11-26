@@ -71,14 +71,14 @@ Last result: **4** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
-| [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 5 | 5 | 5 | 5 |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -104,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 34% | 100% | Last Result |
-| 5 | 37% | 66% | Median |
-| 6 | 15% | 30% |  |
-| 7 | 14% | 14% | Majority |
+| 4 | 33% | 100% | Last Result |
+| 5 | 38% | 67% | Median |
+| 6 | 18% | 29% |  |
+| 7 | 10% | 10% | Majority |
 | 8 | 0% | 0% |  |
 
 
