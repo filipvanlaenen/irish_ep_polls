@@ -10,7 +10,9 @@ Last result: **19.5%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.2% | 14.8–24.6% | 14.5–25.3% | 14.2–25.9% | 13.8–26.9% |
+| N/A | [Poll Average](average.html) | 22.7% | 12.4–25.2% | 11.9–25.8% | 11.5–26.2% | 10.8–27.1% |
+| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
+| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.0% | 21.3–24.9% | 20.8–25.4% | 20.3–25.8% | 19.6–26.8% |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 15.0% | 14.2–15.8% | 14.0–16.0% | 13.8–16.2% | 13.5–16.6% |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.2% | 17.7–21.0% | 17.2–21.5% | 16.8–21.9% | 16.1–22.8% |
@@ -42,23 +44,26 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 6% | 99.8% |  |
-| 14.5–15.5% | 15% | 94% |  |
-| 15.5–16.5% | 5% | 79% |  |
-| 16.5–17.5% | 4% | 74% |  |
-| 17.5–18.5% | 11% | 70% |  |
-| 18.5–19.5% | 15% | 59% | Median |
-| 19.5–20.5% | 12% | 44% | Last Result |
-| 20.5–21.5% | 6% | 32% |  |
-| 21.5–22.5% | 3% | 27% |  |
-| 22.5–23.5% | 5% | 23% |  |
-| 23.5–24.5% | 8% | 18% |  |
-| 24.5–25.5% | 6% | 10% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.8% | 0.9% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.3% | 100% |  |
+| 10.5–11.5% | 3% | 99.7% |  |
+| 11.5–12.5% | 9% | 97% |  |
+| 12.5–13.5% | 12% | 88% |  |
+| 13.5–14.5% | 7% | 76% |  |
+| 14.5–15.5% | 2% | 69% |  |
+| 15.5–16.5% | 0.3% | 67% |  |
+| 16.5–17.5% | 0% | 67% |  |
+| 17.5–18.5% | 0% | 67% |  |
+| 18.5–19.5% | 0.2% | 67% |  |
+| 19.5–20.5% | 1.0% | 67% | Last Result |
+| 20.5–21.5% | 4% | 65% |  |
+| 21.5–22.5% | 10% | 62% |  |
+| 22.5–23.5% | 16% | 52% | Median |
+| 23.5–24.5% | 18% | 36% |  |
+| 24.5–25.5% | 12% | 18% |  |
+| 25.5–26.5% | 5% | 6% |  |
+| 26.5–27.5% | 1.2% | 1.4% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -71,6 +76,8 @@ Last result: **3** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -104,10 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 15% | 90% |  |
-| 3 | 14% | 75% | Last Result |
-| 4 | 61% | 61% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 3% | 71% |  |
+| 3 | 7% | 67% | Last Result |
+| 4 | 60% | 60% | Median |
 | 5 | 0% | 0% |  |
 
 

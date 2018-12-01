@@ -10,7 +10,9 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.6% | 21.7–27.9% | 21.3–28.7% | 21.0–29.4% | 20.5–30.5% |
+| N/A | [Poll Average](average.html) | 26.4% | 24.4–28.5% | 23.8–29.1% | 23.4–29.6% | 22.6–30.6% |
+| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 26.9% | 25.1–28.8% | 24.7–29.3% | 24.2–29.7% | 23.4–30.7% |
+| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27.0% | 25.1–28.9% | 24.6–29.5% | 24.2–29.9% | 23.3–30.9% |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 21.9% | 21.0–22.9% | 20.8–23.1% | 20.6–23.4% | 20.2–23.8% |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27.4% | 25.6–29.4% | 25.1–29.9% | 24.6–30.4% | 23.8–31.3% |
@@ -42,18 +44,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.6% | 100% |  |
-| 20.5–21.5% | 7% | 99.3% |  |
-| 21.5–22.5% | 16% | 92% | Last Result |
-| 22.5–23.5% | 12% | 76% |  |
-| 23.5–24.5% | 13% | 64% |  |
-| 24.5–25.5% | 15% | 51% | Median |
-| 25.5–26.5% | 13% | 37% |  |
-| 26.5–27.5% | 10% | 23% |  |
-| 27.5–28.5% | 7% | 13% |  |
-| 28.5–29.5% | 4% | 6% |  |
-| 29.5–30.5% | 1.5% | 2% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.4% | 100% | Last Result |
+| 22.5–23.5% | 3% | 99.5% |  |
+| 23.5–24.5% | 9% | 97% |  |
+| 24.5–25.5% | 18% | 88% |  |
+| 25.5–26.5% | 24% | 70% | Median |
+| 26.5–27.5% | 22% | 46% |  |
+| 27.5–28.5% | 15% | 24% |  |
+| 28.5–29.5% | 7% | 9% |  |
+| 29.5–30.5% | 2% | 3% |  |
 | 30.5–31.5% | 0.4% | 0.5% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
@@ -67,7 +67,9 @@ Last result: **1** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 3–4 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4 | 4 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
@@ -102,9 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.1% | 100% |  |
-| 3 | 9% | 99.9% |  |
-| 4 | 91% | 91% | Median |
-| 5 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 11% | 100% |  |
+| 4 | 80% | 89% | Median |
+| 5 | 9% | 9% |  |
+| 6 | 0% | 0% |  |
 
 
