@@ -73,7 +73,7 @@ Last result: **4** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
-| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
@@ -108,10 +108,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 11% | 100% | Last Result |
-| 5 | 56% | 89% | Median |
-| 6 | 12% | 33% |  |
-| 7 | 20% | 20% | Majority |
+| 4 | 15% | 100% | Last Result |
+| 5 | 53% | 85% | Median |
+| 6 | 11% | 32% |  |
+| 7 | 22% | 22% | Majority |
 | 8 | 0% | 0% |  |
 
 
