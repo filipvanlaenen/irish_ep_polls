@@ -79,7 +79,7 @@ Last result: **3** seats (General Election of 23 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [6–18 December 2018](2018-12-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
-| [1–13 December 2018](2018-12-13-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–13 December 2018](2018-12-13-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 3–4 | 3–4 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -116,8 +116,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 20% | 100% |  |
-| 2 | 6% | 80% |  |
-| 3 | 22% | 73% | Last Result |
+| 2 | 7% | 80% |  |
+| 3 | 20% | 72% | Last Result |
 | 4 | 52% | 52% | Median |
 | 5 | 0% | 0% |  |
 
