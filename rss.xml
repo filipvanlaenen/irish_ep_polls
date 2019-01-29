@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Jan 2019 20:48:19 +0100</pubDate>
+    <pubDate>Mon, 28 Jan 2019 21:03:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC-seats.png"
+        length="176889"
+        type="image/png"/>
+      <pubDate>Mon, 28 Jan 2019 21:03:22 +0100</pubDate>
+      <dc:date>2019-01-28T21:03:22.469524+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC-coalitions-seats.png"
+        length="133275"
+        type="image/png"/>
+      <pubDate>Mon, 28 Jan 2019 21:03:22 +0100</pubDate>
+      <dc:date>2019-01-28T21:03:22.469524+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-01-24-RedC.png"
         length="277839"
         type="image/png"/>
-      <pubDate>Mon, 28 Jan 2019 20:48:19 +0100</pubDate>
-      <dc:date>2019-01-28T20:48:19.151618+01:00</dc:date>
+      <pubDate>Mon, 28 Jan 2019 21:03:22 +0100</pubDate>
+      <dc:date>2019-01-28T21:03:22.469524+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 January 2019 – Voting Intentions</title>
@@ -879,6 +899,6 @@
       <pubDate>Fri, 10 Aug 2018 10:08:11 +0200</pubDate>
       <dc:date>2018-08-10T10:08:11.304022+02:00</dc:date>
     </item>
-    <dc:date>2019-01-28T20:48:19.151618+01:00</dc:date>
+    <dc:date>2019-01-28T21:03:22.469524+01:00</dc:date>
   </channel>
 </rss>
