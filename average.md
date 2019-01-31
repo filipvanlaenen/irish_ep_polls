@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 28–35% <br> 4–7 | 20–29% <br> 3–4 | 4–13% <br> 0–1 | 12–23% <br> 1–4 | 3–8% <br> 0 | 1–5% <br> 0–1 | 1–5% <br> 0 | 2–6% <br> 0 | 0–1% <br> 0 | 1–4% <br> 0 |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 29–35% <br> 5–7 | 20–25% <br> 3–4 | 10–14% <br> 1 | 11–15% <br> 1–2 | 5–8% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0–1 | 4–7% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
-| [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27–33% <br> 4 | 23–29% <br> 4 | 9–13% <br> 1 | 17–23% <br> 3–4 | 3–5% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
+| [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27–33% <br> 4–5 | 23–29% <br> 4 | 9–13% <br> 1 | 17–23% <br> 3–4 | 3–5% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [14–21 December 2018](2018-12-21-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 29–34% <br> 4–6 | 21–25% <br> 3–4 | 9–12% <br> 1 | 14–18% <br> 2–3 | 6–8% <br> 0 | 3–5% <br> 1 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
 | [1–13 December 2018](2018-12-13-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 29–35% <br> 5–6 | 24–30% <br> 4 | 4–7% <br> 0 | 19–24% <br> 3–4 | 4–7% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -265,8 +265,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 37% | 100% | Last Result |
-| 5 | 40% | 63% | Median |
+| 4 | 36% | 100% | Last Result |
+| 5 | 40% | 64% | Median |
 | 6 | 15% | 24% |  |
 | 7 | 9% | 9% | Majority |
 | 8 | 0% | 0% |  |
@@ -309,8 +309,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 14% | 100% |  |
 | 2 | 23% | 86% |  |
-| 3 | 20% | 62% | Last Result, Median |
-| 4 | 42% | 42% |  |
+| 3 | 19% | 62% | Last Result, Median |
+| 4 | 43% | 43% |  |
 | 5 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -345,8 +345,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 39% | 39% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -400,8 +400,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 37% | 100% | Last Result |
-| 5 | 40% | 63% | Median |
+| 4 | 36% | 100% | Last Result |
+| 5 | 40% | 64% | Median |
 | 6 | 15% | 24% |  |
 | 7 | 9% | 9% | Majority |
 | 8 | 0% | 0% |  |
@@ -444,5 +444,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,359,296
-+ **Error estimate:** 2.09%
++ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Error estimate:** 2.12%
