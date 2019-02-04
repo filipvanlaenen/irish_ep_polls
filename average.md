@@ -266,8 +266,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 36% | 100% | Last Result |
-| 5 | 40% | 64% | Median |
-| 6 | 15% | 24% |  |
+| 5 | 41% | 64% | Median |
+| 6 | 14% | 24% |  |
 | 7 | 9% | 9% | Majority |
 | 8 | 0% | 0% |  |
 
@@ -282,7 +282,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% | Last Result |
 | 2 | 0.2% | 100% |  |
 | 3 | 3% | 99.8% |  |
-| 4 | 96% | 96% | Median |
+| 4 | 97% | 97% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -347,7 +347,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 63% | 100% | Last Result, Median |
 | 1 | 37% | 37% |  |
-| 2 | 0.1% | 0.1% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Social Democrats (*)
@@ -401,8 +401,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 36% | 100% | Last Result |
-| 5 | 40% | 64% | Median |
-| 6 | 15% | 24% |  |
+| 5 | 41% | 64% | Median |
+| 6 | 14% | 24% |  |
 | 7 | 9% | 9% | Majority |
 | 8 | 0% | 0% |  |
 
@@ -415,7 +415,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% | Last Result |
 | 2 | 0.2% | 100% |  |
 | 3 | 3% | 99.8% |  |
-| 4 | 96% | 96% | Median |
+| 4 | 97% | 97% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -443,6 +443,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.12%
