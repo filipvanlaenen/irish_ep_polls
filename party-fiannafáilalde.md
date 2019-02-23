@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.3% | 21.4–28.0% | 20.9–28.8% | 20.4–29.3% | 19.6–30.4% |
+| N/A | [Poll Average](average.html) | 24.2% | 21.4–28.0% | 20.9–28.7% | 20.4–29.3% | 19.6–30.4% |
+| [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 25.7% | 23.9–27.6% | 23.4–28.2% | 23.0–28.7% | 22.1–29.6% |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 26.0% | 24.2–28.0% | 23.7–28.5% | 23.3–29.0% | 22.4–29.9% |
 | [14–21 December 2018](2018-12-21-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 22.6% | 21.2–24.0% | 20.9–24.4% | 20.6–24.7% | 19.9–25.4% |
@@ -53,16 +54,16 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0.4% | 100% |  |
 | 19.5–20.5% | 2% | 99.5% |  |
 | 20.5–21.5% | 9% | 97% |  |
-| 21.5–22.5% | 16% | 89% | Last Result |
-| 22.5–23.5% | 15% | 73% |  |
-| 23.5–24.5% | 10% | 58% | Median |
-| 24.5–25.5% | 9% | 48% |  |
-| 25.5–26.5% | 12% | 38% |  |
-| 26.5–27.5% | 12% | 27% |  |
-| 27.5–28.5% | 8% | 15% |  |
+| 21.5–22.5% | 16% | 88% | Last Result |
+| 22.5–23.5% | 16% | 73% |  |
+| 23.5–24.5% | 11% | 57% | Median |
+| 24.5–25.5% | 10% | 46% |  |
+| 25.5–26.5% | 12% | 36% |  |
+| 26.5–27.5% | 11% | 25% |  |
+| 27.5–28.5% | 8% | 14% |  |
 | 28.5–29.5% | 4% | 6% |  |
-| 29.5–30.5% | 1.5% | 2% |  |
-| 30.5–31.5% | 0.4% | 0.4% |  |
+| 29.5–30.5% | 1.4% | 2% |  |
+| 30.5–31.5% | 0.3% | 0.4% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -76,6 +77,7 @@ Last result: **1** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–4 | 3–4 |
+| [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 3–4 | 2–4 |
 | [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
 | [14–21 December 2018](2018-12-21-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 4 | 3–4 | 3–4 | 3–4 |
