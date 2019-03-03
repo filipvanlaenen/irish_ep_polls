@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Feb 2019 14:47:35 +0100</pubDate>
+    <pubDate>Sun, 03 Mar 2019 11:39:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 14–20 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-02-20-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 28.1–33.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 21.4–26.6%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 15.7–20.5%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents (*): 10.4–14.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-02-20-RedC.png"
+        length="272890"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 11:39:18 +0100</pubDate>
+      <dc:date>2019-03-03T11:39:18.52224+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 31 January–12 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-02-12-BehaviourandAttitudes.html</link>
@@ -949,6 +959,6 @@
       <pubDate>Fri, 10 Aug 2018 10:08:11 +0200</pubDate>
       <dc:date>2018-08-10T10:08:11.304022+02:00</dc:date>
     </item>
-    <dc:date>2019-02-23T14:47:35.067286+01:00</dc:date>
+    <dc:date>2019-03-03T11:39:18.52224+01:00</dc:date>
   </channel>
 </rss>
