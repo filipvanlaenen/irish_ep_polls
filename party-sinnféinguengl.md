@@ -10,7 +10,8 @@ Last result: **19.5%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 12.9–21.6% | 12.3–22.4% | 11.8–23.0% | 11.1–24.1% |
+| N/A | [Poll Average](average.html) | 18.0% | 15.4–21.6% | 14.9–22.4% | 14.6–23.0% | 13.9–24.1% |
+| [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 17.8% | 16.3–19.5% | 15.8–20.0% | 15.5–20.4% | 14.7–21.3% |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
 | [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 20.0% | 18.3–21.7% | 17.9–22.3% | 17.5–22.7% | 16.7–23.6% |
@@ -50,19 +51,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.4% | 99.9% |  |
-| 11.5–12.5% | 6% | 98% |  |
-| 12.5–13.5% | 9% | 93% |  |
-| 13.5–14.5% | 9% | 84% |  |
-| 14.5–15.5% | 11% | 75% |  |
-| 15.5–16.5% | 13% | 64% |  |
-| 16.5–17.5% | 11% | 51% | Median |
-| 17.5–18.5% | 9% | 41% |  |
-| 18.5–19.5% | 7% | 32% |  |
-| 19.5–20.5% | 7% | 25% | Last Result |
-| 20.5–21.5% | 8% | 18% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 2% | 99.8% |  |
+| 14.5–15.5% | 9% | 98% |  |
+| 15.5–16.5% | 15% | 89% |  |
+| 16.5–17.5% | 16% | 74% |  |
+| 17.5–18.5% | 17% | 57% | Median |
+| 18.5–19.5% | 13% | 40% |  |
+| 19.5–20.5% | 9% | 28% | Last Result |
+| 20.5–21.5% | 8% | 19% |  |
 | 21.5–22.5% | 6% | 10% |  |
 | 22.5–23.5% | 3% | 4% |  |
 | 23.5–24.5% | 1.0% | 1.2% |  |
@@ -78,7 +76,8 @@ Last result: **3** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 4 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 2–4 | 2–4 |
 | [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -120,10 +119,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 26% | 86% |  |
-| 3 | 30% | 59% | Last Result, Median |
-| 4 | 29% | 29% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 16% | 99.5% |  |
+| 3 | 30% | 83% | Last Result |
+| 4 | 53% | 53% | Median |
 | 5 | 0% | 0% |  |
 
 
