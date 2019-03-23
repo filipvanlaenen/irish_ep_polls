@@ -11,6 +11,8 @@ Last result: **19.5%** (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 15.4–21.6% | 14.9–22.4% | 14.6–23.0% | 13.9–24.1% |
+| [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.2% | 17.7–21.0% | 17.2–21.5% | 16.8–21.9% | 16.1–22.8% |
+| [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
 | [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 17.8% | 16.3–19.5% | 15.8–20.0% | 15.5–20.4% | 14.7–21.3% |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
@@ -77,6 +79,8 @@ Last result: **3** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3–4 | 2–4 |
+| [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
