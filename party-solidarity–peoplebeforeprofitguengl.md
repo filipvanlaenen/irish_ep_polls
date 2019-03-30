@@ -10,7 +10,7 @@ Last result: **1.5%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.8–4.1% | 0.7–4.4% | 0.6–4.7% | 0.5–5.1% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–4.0% | 0.7–4.3% | 0.6–4.6% | 0.4–5.0% |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -53,13 +53,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.4% | 100% |  |
-| 0.5–1.5% | 47% | 98.6% |  |
-| 1.5–2.5% | 22% | 52% | Last Result, Median |
-| 2.5–3.5% | 9% | 29% |  |
-| 3.5–4.5% | 17% | 21% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 55% | 98% | Median |
+| 1.5–2.5% | 21% | 44% | Last Result |
+| 2.5–3.5% | 6% | 23% |  |
+| 3.5–4.5% | 14% | 16% |  |
 | 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -116,8 +116,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 28% | 28% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 36% | 36% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

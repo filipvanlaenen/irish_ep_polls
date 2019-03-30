@@ -10,7 +10,7 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.1% | 28.9–33.2% | 28.2–33.9% | 27.7–34.5% | 26.6–35.6% |
+| N/A | [Poll Average](average.html) | 31.2% | 29.2–33.3% | 28.7–33.9% | 28.2–34.5% | 27.3–35.6% |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.5% | 29.6–33.5% | 29.1–34.1% | 28.6–34.6% | 27.7–35.5% |
 | [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.7% | 26.7–33.5% |
 | [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
@@ -56,16 +56,16 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% | Last Result |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.4% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.6% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 11% | 93% |  |
-| 29.5–30.5% | 19% | 82% |  |
-| 30.5–31.5% | 24% | 63% | Median |
-| 31.5–32.5% | 20% | 40% |  |
-| 32.5–33.5% | 12% | 19% |  |
-| 33.5–34.5% | 5% | 7% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 0.8% | 99.9% |  |
+| 27.5–28.5% | 3% | 99.1% |  |
+| 28.5–29.5% | 10% | 96% |  |
+| 29.5–30.5% | 19% | 86% |  |
+| 30.5–31.5% | 25% | 67% | Median |
+| 31.5–32.5% | 22% | 42% |  |
+| 32.5–33.5% | 13% | 20% |  |
+| 33.5–34.5% | 5% | 8% |  |
 | 34.5–35.5% | 2% | 2% |  |
 | 35.5–36.5% | 0.4% | 0.5% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
@@ -125,10 +125,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 47% | 100% | Last Result |
-| 5 | 46% | 53% | Median |
-| 6 | 7% | 7% |  |
-| 7 | 0.1% | 0.1% | Majority |
-| 8 | 0% | 0% |  |
+| 4 | 42% | 100% | Last Result |
+| 5 | 53% | 58% | Median |
+| 6 | 5% | 5% |  |
+| 7 | 0% | 0% | Majority |
 
 
