@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Mar 2019 09:55:23 +0100</pubDate>
+    <pubDate>Wed, 03 Apr 2019 15:04:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 February–12 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-03-12-BehaviourandAttitudes.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-03-12-BehaviourandAttitudes.png"
         length="273114"
         type="image/png"/>
-      <pubDate>Sat, 23 Mar 2019 09:50:39 +0100</pubDate>
-      <dc:date>2019-03-23T09:50:39.614007+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:04:05 +0200</pubDate>
+      <dc:date>2019-04-03T15:04:05.084737+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 4–5 March 2019 – Voting Intentions</title>
@@ -1019,6 +1019,6 @@
       <pubDate>Fri, 10 Aug 2018 10:08:11 +0200</pubDate>
       <dc:date>2018-08-10T10:08:11.304022+02:00</dc:date>
     </item>
-    <dc:date>2019-03-23T09:55:23.967223+01:00</dc:date>
+    <dc:date>2019-04-03T15:04:05.084737+02:00</dc:date>
   </channel>
 </rss>
