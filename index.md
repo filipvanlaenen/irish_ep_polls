@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 28–34% <br> 4–7 | 22–28% <br> 4 | 9–14% <br> 1 | 12–23% <br> 1–4 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 1–4% <br> 0 | 0–1% <br> 0 | 0–4% <br> 0 |
-| [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 28–34% <br> 4–7 | 22–28% <br> 4–5 | 10–14% <br> 1 | 11–15% <br> 1–3 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 |
+| [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 28–34% <br> 5–7 | 22–28% <br> 4–5 | 10–14% <br> 1 | 11–15% <br> 1–3 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29–35% <br> 4–6 | 23–28% <br> 4 | 8–12% <br> 1 | 17–22% <br> 2–4 | 4–7% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 27–33% <br> 4 | 22–27% <br> 3–4 | 9–13% <br> 1 | 19–23% <br> 3–4 | 5–7% <br> 0 | 1–3% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
