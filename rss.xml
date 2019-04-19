@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Apr 2019 21:24:43 +0200</pubDate>
+    <pubDate>Fri, 19 Apr 2019 14:42:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 21–28 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-03-28-RedC.html</link>
@@ -16,9 +16,29 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-03-28-RedC.png"
         length="277210"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 21:24:43 +0200</pubDate>
-      <dc:date>2019-04-05T21:24:43.986174+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 14:20:30 +0200</pubDate>
+      <dc:date>2019-04-19T14:20:30.327112+02:00</dc:date>
     </item>
-    <dc:date>2019-04-05T21:24:43.986174+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 February–12 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-03-12-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 28.6–34.6%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 22.7–28.3%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 16.8–21.9%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 1.3–3.2%&lt;/li&gt;&lt;li&gt;Independents (*): 8.2–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-03-12-BehaviourandAttitudes.png"
+        length="273114"
+        type="image/png"/>
+      <pubDate>Fri, 19 Apr 2019 14:32:01 +0200</pubDate>
+      <dc:date>2019-04-19T14:32:01.786064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 4–5 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-03-05-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 27.5–32.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 21.7–26.5%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 18.8–23.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 4.8–7.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Independents (*): 9.0–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-03-05-IpsosMRBI.png"
+        length="255530"
+        type="image/png"/>
+      <pubDate>Fri, 19 Apr 2019 14:42:54 +0200</pubDate>
+      <dc:date>2019-04-19T14:42:54.368117+02:00</dc:date>
+    </item>
+    <dc:date>2019-04-19T14:42:54.368117+02:00</dc:date>
   </channel>
 </rss>
