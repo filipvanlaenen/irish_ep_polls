@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Apr 2019 10:30:56 +0200</pubDate>
+    <pubDate>Mon, 22 Apr 2019 11:31:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.png"
         length="271775"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 10:24:15 +0200</pubDate>
-      <dc:date>2019-04-21T10:24:15.829814+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 21:17:29 +0200</pubDate>
+      <dc:date>2019-04-21T21:17:29.821571+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 April 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-04-16-BehaviourandAttitudes.png"
         length="280350"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 10:30:56 +0200</pubDate>
-      <dc:date>2019-04-21T10:30:56.416989+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 21:38:46 +0200</pubDate>
+      <dc:date>2019-04-21T21:38:46.844803+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 21–28 March 2019 – Voting Intentions</title>
@@ -56,9 +56,9 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-03-05-IpsosMRBI.png"
         length="255530"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 14:42:54 +0200</pubDate>
-      <dc:date>2019-04-19T14:42:54.368117+02:00</dc:date>
+      <pubDate>Mon, 22 Apr 2019 11:31:38 +0200</pubDate>
+      <dc:date>2019-04-22T11:31:38.198832+02:00</dc:date>
     </item>
-    <dc:date>2019-04-21T10:30:56.416989+02:00</dc:date>
+    <dc:date>2019-04-22T11:31:38.198832+02:00</dc:date>
   </channel>
 </rss>
