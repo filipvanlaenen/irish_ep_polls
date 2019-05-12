@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 12 May 2019 16:34:50 +0200</pubDate>
+    <pubDate>Sun, 12 May 2019 18:23:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC-seats.png"
+        length="181005"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 18:23:27 +0200</pubDate>
+      <dc:date>2019-05-12T18:23:27.327651+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC-coalitions-seats.png"
+        length="114331"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 18:23:27 +0200</pubDate>
+      <dc:date>2019-05-12T18:23:27.327651+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.png"
         length="257323"
         type="image/png"/>
-      <pubDate>Sun, 12 May 2019 16:34:50 +0200</pubDate>
-      <dc:date>2019-05-12T16:34:50.040643+02:00</dc:date>
+      <pubDate>Sun, 12 May 2019 18:23:27 +0200</pubDate>
+      <dc:date>2019-05-12T18:23:27.327651+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 April 2019 – Seat Projections for the Parties</title>
@@ -99,6 +119,6 @@
       <pubDate>Wed, 01 May 2019 19:47:00 +0200</pubDate>
       <dc:date>2019-05-01T19:47:00.827976+02:00</dc:date>
     </item>
-    <dc:date>2019-05-12T16:34:50.040643+02:00</dc:date>
+    <dc:date>2019-05-12T18:23:27.327651+02:00</dc:date>
   </channel>
 </rss>
