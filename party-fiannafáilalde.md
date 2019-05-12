@@ -10,8 +10,8 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 23.0–30.6% | 22.5–31.2% | 22.0–31.8% | 21.2–32.8% |
-| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 25.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 25.9% | 23.3–30.1% | 22.7–30.8% | 22.2–31.5% | 21.4–32.6% |
+| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29.3% | 27.4–31.2% | 26.9–31.8% | 26.4–32.3% | 25.6–33.2% |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 25.4% | 23.6–27.3% | 23.1–27.8% | 22.7–28.3% | 21.9–29.2% |
@@ -56,21 +56,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.9% | 99.9% |  |
-| 21.5–22.5% | 5% | 99.0% | Last Result |
-| 22.5–23.5% | 12% | 94% |  |
-| 23.5–24.5% | 16% | 83% |  |
-| 24.5–25.5% | 11% | 67% |  |
-| 25.5–26.5% | 6% | 55% | Median |
-| 26.5–27.5% | 5% | 50% |  |
-| 27.5–28.5% | 10% | 44% |  |
-| 28.5–29.5% | 13% | 35% |  |
-| 29.5–30.5% | 11% | 21% |  |
-| 30.5–31.5% | 7% | 10% |  |
-| 31.5–32.5% | 3% | 3% |  |
-| 32.5–33.5% | 0.7% | 0.8% |  |
+| 20.5–21.5% | 0.6% | 99.9% |  |
+| 21.5–22.5% | 3% | 99.3% | Last Result |
+| 22.5–23.5% | 10% | 96% |  |
+| 23.5–24.5% | 16% | 86% |  |
+| 24.5–25.5% | 16% | 71% |  |
+| 25.5–26.5% | 13% | 54% | Median |
+| 26.5–27.5% | 9% | 42% |  |
+| 27.5–28.5% | 9% | 32% |  |
+| 28.5–29.5% | 9% | 24% |  |
+| 29.5–30.5% | 8% | 14% |  |
+| 30.5–31.5% | 4% | 7% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -84,7 +83,7 @@ Last result: **1** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 3–5 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -132,10 +131,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 11% | 100% |  |
-| 3 | 34% | 89% |  |
-| 4 | 55% | 55% | Median |
-| 5 | 0.3% | 0.3% |  |
+| 2 | 14% | 100% |  |
+| 3 | 34% | 86% |  |
+| 4 | 52% | 52% | Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% | Majority |
 
 

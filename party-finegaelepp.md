@@ -10,8 +10,8 @@ Last result: **22.3%** (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.2% | 26.9–31.3% | 26.3–31.8% | 25.8–32.3% | 24.9–33.2% |
-| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 40.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 30.3% | 27.4–41.0% | 26.7–41.8% | 26.1–42.5% | 25.1–43.6% |
+| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 40.2% | 38.2–42.2% | 37.7–42.8% | 37.2–43.3% | 36.3–44.2% |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.2% | 26.4–30.1% | 25.8–30.7% | 25.4–31.2% | 24.5–32.1% |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 31.5% | 29.6–33.5% | 29.1–34.1% | 28.6–34.6% | 27.7–35.5% |
@@ -59,17 +59,28 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% | Last Result |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 1.3% | 99.7% |  |
-| 25.5–26.5% | 5% | 98% |  |
-| 26.5–27.5% | 11% | 94% |  |
-| 27.5–28.5% | 18% | 82% |  |
-| 28.5–29.5% | 23% | 64% | Median |
-| 29.5–30.5% | 21% | 41% |  |
-| 30.5–31.5% | 13% | 20% |  |
-| 31.5–32.5% | 5% | 7% |  |
-| 32.5–33.5% | 1.3% | 2% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.9% | 99.8% |  |
+| 25.5–26.5% | 3% | 98.9% |  |
+| 26.5–27.5% | 8% | 96% |  |
+| 27.5–28.5% | 12% | 88% |  |
+| 28.5–29.5% | 15% | 76% |  |
+| 29.5–30.5% | 14% | 61% | Median |
+| 30.5–31.5% | 9% | 47% |  |
+| 31.5–32.5% | 4% | 38% |  |
+| 32.5–33.5% | 0.9% | 34% |  |
+| 33.5–34.5% | 0.1% | 33% |  |
+| 34.5–35.5% | 0% | 33% |  |
+| 35.5–36.5% | 0.2% | 33% |  |
+| 36.5–37.5% | 1.1% | 33% |  |
+| 37.5–38.5% | 3% | 32% |  |
+| 38.5–39.5% | 6% | 29% |  |
+| 39.5–40.5% | 8% | 22% |  |
+| 40.5–41.5% | 7% | 14% |  |
+| 41.5–42.5% | 4% | 7% |  |
+| 42.5–43.5% | 2% | 2% |  |
+| 43.5–44.5% | 0.5% | 0.5% |  |
+| 44.5–45.5% | 0.1% | 0.1% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -80,8 +91,8 @@ Last result: **4** seats (General Election of 23 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5 | 5 | 4–5 | 4–5 |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -128,9 +139,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 50% | 100% | Median |
-| 4 | 49% | 50% | Last Result |
-| 5 | 0.9% | 0.9% |  |
-| 6 | 0% | 0% | Majority |
+| 3 | 34% | 100% |  |
+| 4 | 33% | 66% | Last Result, Median |
+| 5 | 28% | 34% |  |
+| 6 | 6% | 6% | Majority |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 
