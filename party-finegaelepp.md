@@ -11,6 +11,7 @@ Last result: **22.3%** (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30.3% | 27.4–41.0% | 26.7–41.8% | 26.1–42.5% | 25.1–43.6% |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 34.7% | N/A | N/A | N/A | N/A |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 40.2% | 38.2–42.2% | 37.7–42.8% | 37.2–43.3% | 36.3–44.2% |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.2% | 26.4–30.1% | 25.8–30.7% | 25.4–31.2% | 24.5–32.1% |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
@@ -92,6 +93,7 @@ Last result: **4** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5 | 5 | 4–5 | 4–5 |
