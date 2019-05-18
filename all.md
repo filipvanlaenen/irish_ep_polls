@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2014 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 37–43% <br> 5–6 | 23–28% <br> 2–4 | 0–1% <br> 0 | 17–22% <br> 2–3 | 4–6% <br> 0 | 0–1% <br> 0 | 4–6% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 25–31% <br> 3–4 | 26–32% <br> 4 | 7–10% <br> 0–1 | 19–24% <br> 2–3 | 3–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 28–34% <br> 4–5 | 22–28% <br> 3–4 | 10–14% <br> 1 | 11–15% <br> 0–2 | 4–7% <br> 0 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 |
