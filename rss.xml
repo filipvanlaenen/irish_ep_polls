@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 12 May 2019 18:23:27 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 06:59:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 6–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-05-08-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 32.4–37.2%&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 28.8–33.5%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 17.2–21.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 7.1–9.9%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.8–6.0%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents (*): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-05-08-IpsosMRBI.png"
+        length="251253"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 06:59:35 +0200</pubDate>
+      <dc:date>2019-05-20T06:59:35.101641+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-04-17-RedC.html#seats</link>
@@ -119,6 +129,6 @@
       <pubDate>Wed, 01 May 2019 19:47:00 +0200</pubDate>
       <dc:date>2019-05-01T19:47:00.827976+02:00</dc:date>
     </item>
-    <dc:date>2019-05-12T18:23:27.327651+02:00</dc:date>
+    <dc:date>2019-05-20T06:59:35.101641+02:00</dc:date>
   </channel>
 </rss>
