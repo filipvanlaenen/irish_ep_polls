@@ -11,7 +11,7 @@ Last result: **22.3%** (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.9% | 23.3–30.1% | 22.7–30.8% | 22.2–31.5% | 21.4–32.6% |
-| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 31.1% | N/A | N/A | N/A | N/A |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 31.1% | 29.6–32.7% | 29.2–33.2% | 28.8–33.5% | 28.1–34.3% |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29.3% | 27.4–31.2% | 26.9–31.8% | 26.4–32.3% | 25.6–33.2% |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
@@ -84,7 +84,7 @@ Last result: **1** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 4 | 4 | 4 | 4 |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 3–5 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 3–4 | 3–4 | 3–4 |

@@ -11,7 +11,7 @@ Last result: **19.8%** (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 0.3–11.2% | 0.2–11.7% | 0.2–12.0% | 0.1–12.7% |
-| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0.3% | N/A | N/A | N/A | N/A |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.3% | 7.2–9.5% | 6.9–9.9% | 6.6–10.2% | 6.2–10.8% |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -89,7 +89,7 @@ Last result: **3** seats (General Election of 23 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 1 | 1–2 |
