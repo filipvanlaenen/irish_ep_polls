@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 May 2019 03:36:01 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 22:48:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 1–22 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (*): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks-seats.png"
+        length="215410"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 22:48:16 +0200</pubDate>
+      <dc:date>2019-05-23T22:48:16.88754+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 1–22 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks-coalitions-seats.png"
+        length="175874"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 22:48:16 +0200</pubDate>
+      <dc:date>2019-05-23T22:48:16.88754+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 1–22 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-05-22-IrelandThinks.png"
         length="260595"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 03:36:01 +0200</pubDate>
-      <dc:date>2019-05-23T03:36:01.772372+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 22:48:16 +0200</pubDate>
+      <dc:date>2019-05-23T22:48:16.88754+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 6–8 May 2019 – Seat Projections for the Parties</title>
@@ -159,6 +179,6 @@
       <pubDate>Wed, 01 May 2019 19:47:00 +0200</pubDate>
       <dc:date>2019-05-01T19:47:00.827976+02:00</dc:date>
     </item>
-    <dc:date>2019-05-23T03:36:01.772372+02:00</dc:date>
+    <dc:date>2019-05-23T22:48:16.88754+02:00</dc:date>
   </channel>
 </rss>
