@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil (ALDE) | 22.3% | 28.3% | 26.5–30.3% |25.9–30.9% |25.5–31.4% |24.6–32.3% |
+| Fianna Fáil (RE) | 22.3% | 28.3% | 26.5–30.3% |25.9–30.9% |25.5–31.4% |24.6–32.3% |
 | Fine Gael (EPP) | 22.3% | 23.2% | 21.5–25.1% |21.0–25.6% |20.6–26.1% |19.8–27.0% |
 | Sinn Féin (GUE/NGL) | 19.5% | 12.1% | 10.8–13.6% |10.4–14.0% |10.1–14.4% |9.5–15.2% |
 | Green Party (Greens/EFA) | 4.9% | 11.1% | 9.9–12.6% |9.5–13.0% |9.2–13.3% |8.7–14.1% |
@@ -32,7 +32,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fianna-fáil-(alde)">Fianna Fáil (ALDE)</a> | 1 | 4 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 1 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
@@ -44,11 +44,11 @@
 | <a href="#social-democrats-(*)">Social Democrats (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#renua-ireland-(*)">Renua Ireland (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Fianna Fáil (ALDE)
+### Fianna Fáil (RE)
 
-*For a full overview of the results for this party, see the [Fianna Fáil (ALDE)](party-fiannafáilalde.html) page.*
+*For a full overview of the results for this party, see the [Fianna Fáil (RE)](party-fiannafáilre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-seats-pmf-fiannafáilalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-seats-pmf-fiannafáilre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -183,12 +183,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil (ALDE) | 1 | 4 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Fianna Fáil (RE) | 1 | 4 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael (EPP) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Green Party (Greens/EFA) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Fianna Fáil (ALDE)
+### Fianna Fáil (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-coalitions-seats-pmf-ff.png "Seats Probability Mass Function")
 
