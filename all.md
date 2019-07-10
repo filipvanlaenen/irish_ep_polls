@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **GP:** Green Party (Greens/EFA)
 + **IA:** Independent Alliance (*)
 + **RI:** Renua Ireland (*)
-+ **SD:** Social Democrats (*)
++ **SD:** Social Democrats (S&D)
 + **I4C:** Independents 4 Change (GUE/NGL)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
