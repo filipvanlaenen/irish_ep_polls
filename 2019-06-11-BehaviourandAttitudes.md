@@ -19,7 +19,7 @@
 | Independents 4 Change (GUE/NGL) | 0.0% | 4.1% | 3.4–5.1% |3.2–5.4% |3.0–5.6% |2.7–6.1% |
 | Independent Alliance (*) | 0.0% | 3.0% | 2.4–3.9% |2.2–4.1% |2.1–4.3% |1.8–4.8% |
 | Solidarity–People Before Profit (GUE/NGL) | 1.5% | 2.0% | 1.5–2.7% |1.4–3.0% |1.3–3.1% |1.1–3.5% |
-| Social Democrats (*) | 0.0% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
+| Social Democrats (S&D) | 0.0% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
 | Renua Ireland (*) | 0.0% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -36,12 +36,12 @@
 | <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 1 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#independents-(*)">Independents (*)</a> | 3 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#independents-(*)">Independents (*)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#independents-4-change-(gue/ngl)">Independents 4 Change (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#independent-alliance-(*)">Independent Alliance (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#solidarity–people-before-profit-(gue/ngl)">Solidarity–People Before Profit (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#social-democrats-(*)">Social Democrats (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#social-democrats-(s&d)">Social Democrats (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#renua-ireland-(*)">Renua Ireland (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fianna Fáil (RE)
@@ -55,9 +55,9 @@
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 54% | 100% | Median |
-| 5 | 45% | 46% |  |
-| 6 | 0.2% | 0.2% | Majority |
+| 4 | 62% | 100% | Median |
+| 5 | 38% | 38% |  |
+| 6 | 0.1% | 0.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -69,9 +69,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 49% | 99.9% |  |
-| 4 | 32% | 51% | Last Result, Median |
-| 5 | 19% | 19% |  |
+| 3 | 28% | 99.9% |  |
+| 4 | 40% | 71% | Last Result, Median |
+| 5 | 32% | 32% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Sinn Féin (GUE/NGL)
@@ -82,9 +82,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% |  |
-| 1 | 37% | 63% | Median |
-| 2 | 25% | 25% |  |
+| 0 | 45% | 100% |  |
+| 1 | 40% | 55% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -97,8 +97,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 95% | 99.9% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 91% | 99.9% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 ### Independents (*)
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 91% | 91% | Median |
+| 0 | 19% | 100% |  |
+| 1 | 81% | 81% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -154,11 +154,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Social Democrats (*)
+### Social Democrats (S&D)
 
-*For a full overview of the results for this party, see the [Social Democrats (*)](party-socialdemocrats.html) page.*
+*For a full overview of the results for this party, see the [Social Democrats (S&D)](party-socialdemocratssd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-seats-pmf-socialdemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-seats-pmf-socialdemocratssd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -183,10 +183,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil (RE) | 1 | 4 | 0.2% | 4–5 | 4–5 | 4–5 | 4–5 |
+| Fianna Fáil (RE) | 1 | 4 | 0.1% | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael (EPP) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Green Party (Greens/EFA) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Labour Party (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Labour Party (S&D) – Social Democrats (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Fianna Fáil (RE)
 
@@ -197,9 +197,9 @@
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 54% | 100% | Median |
-| 5 | 45% | 46% |  |
-| 6 | 0.2% | 0.2% | Majority |
+| 4 | 62% | 100% | Median |
+| 5 | 38% | 38% |  |
+| 6 | 0.1% | 0.1% | Majority |
 | 7 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -209,9 +209,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 49% | 99.9% |  |
-| 4 | 32% | 51% | Last Result, Median |
-| 5 | 19% | 19% |  |
+| 3 | 28% | 99.9% |  |
+| 4 | 40% | 71% | Last Result, Median |
+| 5 | 32% | 32% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Green Party (Greens/EFA)
@@ -221,13 +221,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 95% | 99.9% | Median |
-| 2 | 5% | 5% |  |
+| 1 | 91% | 99.9% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
-### Labour Party (S&D)
+### Labour Party (S&D) – Social Democrats (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-11-BehaviourandAttitudes-coalitions-seats-pmf-lab–sd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -245,6 +245,6 @@
 ### Calculations
 
 + **Sample size:** 900
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.29%
++ **Simulations done:** 524,288
++ **Error estimate:** 3.92%
 
