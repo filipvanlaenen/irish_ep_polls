@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% | 2.7–6.1% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.1% | 2.8–5.5% | 2.6–5.7% | 2.3–6.3% |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.4% | 3.7–5.5% | 3.5–5.7% | 3.3–6.0% | 2.9–6.5% |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.1% | 3.4–5.1% | 3.2–5.3% | 3.0–5.6% | 2.7–6.1% |
@@ -24,12 +24,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 16% | 99.8% |  |
-| 3.5–4.5% | 55% | 83% | Median |
-| 4.5–5.5% | 25% | 28% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 29% | 98% |  |
+| 3.5–4.5% | 43% | 69% | Median |
+| 4.5–5.5% | 22% | 26% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 

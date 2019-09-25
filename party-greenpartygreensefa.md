@@ -10,7 +10,7 @@ Last result: **4.9%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.2–8.4% | 5.9–8.8% | 5.7–9.1% | 5.2–9.7% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.0–8.8% | 4.7–9.2% | 4.4–9.5% | 4.0–10.2% |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.6% | 4.7–6.7% | 4.4–7.0% | 4.2–7.3% | 3.9–7.8% |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7.2% | 6.2–8.4% | 5.9–8.8% | 5.7–9.1% | 5.2–9.7% |
@@ -22,14 +22,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% | Last Result |
-| 5.5–6.5% | 19% | 98% |  |
-| 6.5–7.5% | 43% | 80% | Median |
-| 7.5–8.5% | 29% | 37% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 20% | 97% | Last Result |
+| 5.5–6.5% | 22% | 77% |  |
+| 6.5–7.5% | 18% | 55% | Median |
+| 7.5–8.5% | 23% | 37% |  |
+| 8.5–9.5% | 12% | 14% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,8 +56,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 
