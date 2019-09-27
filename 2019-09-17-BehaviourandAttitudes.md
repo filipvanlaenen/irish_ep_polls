@@ -57,8 +57,8 @@
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 99.8% | 100% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 4 | 99.9% | 100% | Median |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Fine Gael (EPP)
@@ -69,8 +69,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 99.7% | 99.8% | Last Result, Median |
+| 3 | 0.3% | 100% |  |
+| 4 | 99.7% | 99.7% | Last Result, Median |
 | 5 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -81,8 +81,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 99.9% | 100% | Last Result, Median |
-| 4 | 0.1% | 0.1% |  |
+| 3 | 99.8% | 100% | Last Result, Median |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -191,8 +191,8 @@
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 99.8% | 100% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 4 | 99.9% | 100% | Median |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Fine Gael (EPP)
@@ -201,8 +201,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 99.7% | 99.8% | Last Result, Median |
+| 3 | 0.3% | 100% |  |
+| 4 | 99.7% | 99.7% | Last Result, Median |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -233,6 +233,6 @@
 ### Calculations
 
 + **Sample size:** 900
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.36%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.27%
 
