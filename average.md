@@ -330,7 +330,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 42% | 98.8% |  |
 | 2 | 7% | 57% |  |
 | 3 | 50% | 50% | Last Result, Median |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -470,6 +471,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,179,648
-+ **Error estimate:** 2.36%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.45%
