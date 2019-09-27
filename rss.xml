@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 11:34:04 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2019 10:26:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes-seats.png"
+        length="140512"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 10:26:50 +0200</pubDate>
+      <dc:date>2019-09-27T10:26:50.535869+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes-coalitions-seats.png"
+        length="76268"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 10:26:50 +0200</pubDate>
+      <dc:date>2019-09-27T10:26:50.535869+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.png"
         length="294692"
         type="image/png"/>
-      <pubDate>Tue, 24 Sep 2019 07:38:19 +0200</pubDate>
-      <dc:date>2019-09-24T07:38:19.266932+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 10:26:50 +0200</pubDate>
+      <dc:date>2019-09-27T10:26:50.535869+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 5–12 September 2019 – Seat Projections for the Parties</title>
@@ -109,6 +129,6 @@
       <pubDate>Thu, 11 Jul 2019 17:58:12 +0200</pubDate>
       <dc:date>2019-07-11T17:58:12.642523+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T11:34:04.289052+02:00</dc:date>
+    <dc:date>2019-09-27T10:26:50.535869+02:00</dc:date>
   </channel>
 </rss>
