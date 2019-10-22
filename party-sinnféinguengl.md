@@ -10,7 +10,7 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 12.7–23.2% | 12.3–23.8% | 11.9–24.4% | 11.3–25.4% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.1–22.8% | 12.6–23.5% | 12.1–24.1% | 11.4–25.1% |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 22.0% | 20.3–23.9% | 19.8–24.4% | 19.4–24.8% | 18.6–25.7% |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
@@ -23,23 +23,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.0% | 99.9% |  |
-| 11.5–12.5% | 6% | 98.9% |  |
-| 12.5–13.5% | 16% | 93% |  |
-| 13.5–14.5% | 17% | 77% |  |
-| 14.5–15.5% | 8% | 60% |  |
-| 15.5–16.5% | 2% | 52% |  |
-| 16.5–17.5% | 0.3% | 50% |  |
-| 17.5–18.5% | 0.2% | 50% | Median |
-| 18.5–19.5% | 1.4% | 50% |  |
-| 19.5–20.5% | 5% | 48% | Last Result |
-| 20.5–21.5% | 11% | 43% |  |
-| 21.5–22.5% | 14% | 32% |  |
-| 22.5–23.5% | 11% | 18% |  |
-| 23.5–24.5% | 5% | 7% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.4% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.7% | 100% |  |
+| 11.5–12.5% | 4% | 99.3% |  |
+| 12.5–13.5% | 11% | 95% |  |
+| 13.5–14.5% | 14% | 84% |  |
+| 14.5–15.5% | 15% | 70% |  |
+| 15.5–16.5% | 13% | 55% | Median |
+| 16.5–17.5% | 6% | 41% |  |
+| 17.5–18.5% | 2% | 35% |  |
+| 18.5–19.5% | 1.1% | 33% |  |
+| 19.5–20.5% | 3% | 32% | Last Result |
+| 20.5–21.5% | 8% | 29% |  |
+| 21.5–22.5% | 9% | 21% |  |
+| 22.5–23.5% | 7% | 12% |  |
+| 23.5–24.5% | 3% | 5% |  |
+| 24.5–25.5% | 1.0% | 1.3% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -51,8 +51,8 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
+| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3 | 3 |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -66,10 +66,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 42% | 98.8% |  |
-| 2 | 7% | 57% |  |
-| 3 | 50% | 50% | Last Result, Median |
+| 0 | 0.8% | 100% |  |
+| 1 | 37% | 99.2% |  |
+| 2 | 28% | 63% | Median |
+| 3 | 35% | 35% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
