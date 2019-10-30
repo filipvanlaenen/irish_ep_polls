@@ -52,7 +52,7 @@ Last result: **1** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 4–5 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 4 | 4 | 4 | 4–5 | 4–5 |
 | [3–15 October 2019](2019-10-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 3–4 |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 4 | 4 | 4 | 3–4 |
@@ -71,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.7% | 100% |  |
-| 4 | 98% | 99.3% | Median |
-| 5 | 1.1% | 1.1% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 98% | 99.7% | Median |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% | Majority |
 
 
