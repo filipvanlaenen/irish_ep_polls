@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 27–39% <br> 4–6 | 26–34% <br> 4 | 0–2% <br> 0 | 12–24% <br> 0–3 | 3–8% <br> 0 | 1–4% <br> 0 | 5–10% <br> 0–1 | 1–6% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0–1 | 0–1% <br> 0 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 34–40% <br> 5–7 | 25–31% <br> 4–5 | 0–1% <br> 0 | 11–15% <br> 0–2 | 4–6% <br> 0 | 1–2% <br> 0 | 7–10% <br> 0–1 | 4–6% <br> 0 | N/A <br> N/A | 2–3% <br> 0–1 | 0–1% <br> 0 |
-| [3–15 October 2019](2019-10-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 29–35% <br> 4–5 | 28–34% <br> 4 | 0–1% <br> 0 | 15–20% <br> 2–3 | 4–7% <br> 0 | 2–5% <br> 0 | 5–8% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 |
+| [3–15 October 2019](2019-10-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 29–35% <br> 4–5 | 28–34% <br> 4–5 | 0–1% <br> 0 | 15–20% <br> 1–3 | 4–7% <br> 0 | 2–5% <br> 0 | 5–8% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 30–35% <br> 4–5 | 26–31% <br> 4 | 1–2% <br> 0 | 14–18% <br> 1–3 | 5–8% <br> 0–1 | 1–2% <br> 0 | 7–11% <br> 0–1 | 1–2% <br> 0 | 2–3% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 26–32% <br> 4 | 29–35% <br> 4 | 0–1% <br> 0 | 19–25% <br> 3 | 2–5% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0 | 3–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -312,9 +312,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.3% | 100% |  |
-| 4 | 98% | 99.7% | Median |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 98% | 99.8% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Independents (*)
@@ -339,9 +339,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 24% | 95% |  |
-| 2 | 26% | 71% | Median |
-| 3 | 44% | 45% | Last Result |
+| 1 | 25% | 95% |  |
+| 2 | 26% | 70% | Median |
+| 3 | 44% | 44% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -456,9 +456,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 0.3% | 100% |  |
-| 4 | 98% | 99.7% | Median |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 98% | 99.8% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Green Party (Greens/EFA)
@@ -485,6 +485,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
-+ **Error estimate:** 4.27%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.65%
