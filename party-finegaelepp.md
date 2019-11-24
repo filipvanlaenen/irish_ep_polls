@@ -10,9 +10,9 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.8% | 31.5–38.6% | 30.9–39.3% | 30.4–39.8% | 29.5–40.9% |
+| N/A | [Poll Average](average.html) | 33.3% | 30.8–38.1% | 30.2–38.9% | 29.7–39.5% | 28.7–40.7% |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 37.3% | 35.4–39.3% | 34.8–39.9% | 34.4–40.3% | 33.4–41.3% |
-| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 32.0% | N/A | N/A | N/A | N/A |
+| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 32.0% | 30.1–34.0% | 29.5–34.6% | 29.0–35.1% | 28.1–36.1% |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 32.6% | 30.9–34.4% | 30.4–34.9% | 30.0–35.3% | 29.2–36.2% |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.7% | 26.8–30.7% | 26.3–31.2% | 25.8–31.7% | 24.9–32.7% |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
@@ -31,21 +31,21 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.5% | 99.9% |  |
-| 29.5–30.5% | 3% | 99.5% |  |
-| 30.5–31.5% | 8% | 97% |  |
-| 31.5–32.5% | 14% | 89% |  |
-| 32.5–33.5% | 14% | 76% |  |
-| 33.5–34.5% | 10% | 62% |  |
-| 34.5–35.5% | 7% | 52% | Median |
-| 35.5–36.5% | 10% | 45% |  |
-| 36.5–37.5% | 13% | 35% |  |
-| 37.5–38.5% | 11% | 22% |  |
-| 38.5–39.5% | 7% | 11% |  |
-| 39.5–40.5% | 3% | 4% |  |
-| 40.5–41.5% | 0.8% | 0.9% |  |
-| 41.5–42.5% | 0.1% | 0.2% |  |
+| 27.5–28.5% | 0.4% | 99.9% |  |
+| 28.5–29.5% | 2% | 99.6% |  |
+| 29.5–30.5% | 6% | 98% |  |
+| 30.5–31.5% | 12% | 92% |  |
+| 31.5–32.5% | 17% | 80% |  |
+| 32.5–33.5% | 16% | 63% | Median |
+| 33.5–34.5% | 10% | 47% |  |
+| 34.5–35.5% | 6% | 37% |  |
+| 35.5–36.5% | 7% | 30% |  |
+| 36.5–37.5% | 9% | 23% |  |
+| 37.5–38.5% | 8% | 15% |  |
+| 38.5–39.5% | 5% | 7% |  |
+| 39.5–40.5% | 2% | 2% |  |
+| 40.5–41.5% | 0.5% | 0.6% |  |
+| 41.5–42.5% | 0.1% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
 
@@ -57,9 +57,9 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 5 | 5 | 4–5 | 4–5 |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5 | 5 | 5 | 5–6 |
@@ -74,10 +74,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% | Last Result |
-| 5 | 68% | 98% | Median |
-| 6 | 27% | 30% | Majority |
-| 7 | 3% | 3% |  |
+| 4 | 22% | 100% | Last Result |
+| 5 | 58% | 78% | Median |
+| 6 | 18% | 20% | Majority |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 
