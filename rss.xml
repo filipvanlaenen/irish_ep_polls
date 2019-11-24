@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Oct 2019 19:46:57 +0100</pubDate>
+    <pubDate>Sun, 24 Nov 2019 14:42:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-10-24-RedC.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Mon, 28 Oct 2019 19:46:57 +0100</pubDate>
       <dc:date>2019-10-28T19:46:57.29858+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-10-15-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 29.0–35.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 28.0–34.0%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 15.3–20.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 4.2–7.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.3–4.7%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.2–8.5%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents (*): 0.1–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-10-15-BehaviourandAttitudes.png"
+        length="283050"
+        type="image/png"/>
+      <pubDate>Sun, 24 Nov 2019 14:42:14 +0100</pubDate>
+      <dc:date>2019-11-24T14:42:14.016392+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 11–13 October 2019 – Seat Projections for the Parties</title>
@@ -189,6 +199,6 @@
       <pubDate>Thu, 11 Jul 2019 17:58:12 +0200</pubDate>
       <dc:date>2019-07-11T17:58:12.642523+02:00</dc:date>
     </item>
-    <dc:date>2019-10-28T19:46:57.29858+01:00</dc:date>
+    <dc:date>2019-11-24T14:42:14.016392+01:00</dc:date>
   </channel>
 </rss>
