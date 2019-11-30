@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Nov 2019 14:42:14 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 16:57:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-10-24-RedC.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-10-15-BehaviourandAttitudes.png"
         length="283050"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 14:42:14 +0100</pubDate>
-      <dc:date>2019-11-24T14:42:14.016392+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 16:57:55 +0100</pubDate>
+      <dc:date>2019-11-30T16:57:55.814331+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 11–13 October 2019 – Seat Projections for the Parties</title>
@@ -199,6 +199,6 @@
       <pubDate>Thu, 11 Jul 2019 17:58:12 +0200</pubDate>
       <dc:date>2019-07-11T17:58:12.642523+02:00</dc:date>
     </item>
-    <dc:date>2019-11-24T14:42:14.016392+01:00</dc:date>
+    <dc:date>2019-11-30T16:57:55.814331+01:00</dc:date>
   </channel>
 </rss>
