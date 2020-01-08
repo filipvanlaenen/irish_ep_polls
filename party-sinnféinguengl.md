@@ -64,7 +64,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3 | 3 |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
