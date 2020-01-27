@@ -1,4 +1,4 @@
-# Opinion Poll by Behaviour and Attitudes, 4–14 January 2020
+# Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–14 January 2020
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -238,7 +238,7 @@
 ### Opinion Poll
 
 + **Polling firm:** Behaviour and Attitudes
-+ **Commissioner(s):** —
++ **Commissioner(s):** The Sunday Times
 + **Fieldwork period:** 4–14 January 2020
 
 ### Calculations

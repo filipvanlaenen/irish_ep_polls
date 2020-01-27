@@ -10,7 +10,9 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 21.6–32.7% | 21.0–33.4% | 20.5–33.9% | 19.5–34.8% |
+| N/A | [Poll Average](average.html) | 23.2% | 21.3–25.3% | 20.8–25.9% | 20.3–26.5% | 19.5–27.5% |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 24.5% | 22.8–26.4% | 22.3–26.9% | 21.9–27.4% | 21.1–28.3% |
+| [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.3% |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 22.3% | 20.6–24.1% | 20.1–24.6% | 19.7–25.1% | 18.9–25.9% |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 32.3% | 30.8–33.8% | 30.4–34.3% | 30.0–34.7% | 29.3–35.4% |
@@ -31,26 +33,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
 | 18.5–19.5% | 0.5% | 99.9% |  |
-| 19.5–20.5% | 2% | 99.5% |  |
-| 20.5–21.5% | 7% | 97% |  |
-| 21.5–22.5% | 13% | 90% | Last Result |
-| 22.5–23.5% | 14% | 77% |  |
-| 23.5–24.5% | 9% | 63% |  |
-| 24.5–25.5% | 3% | 54% |  |
-| 25.5–26.5% | 0.9% | 51% | Median |
-| 26.5–27.5% | 1.0% | 50% |  |
-| 27.5–28.5% | 3% | 49% |  |
-| 28.5–29.5% | 6% | 46% |  |
-| 29.5–30.5% | 8% | 41% |  |
-| 30.5–31.5% | 10% | 32% |  |
-| 31.5–32.5% | 11% | 22% |  |
-| 32.5–33.5% | 8% | 12% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.7% | 0.8% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 19.5–20.5% | 3% | 99.4% |  |
+| 20.5–21.5% | 10% | 96% |  |
+| 21.5–22.5% | 20% | 86% | Last Result |
+| 22.5–23.5% | 25% | 66% | Median |
+| 23.5–24.5% | 21% | 41% |  |
+| 24.5–25.5% | 12% | 20% |  |
+| 25.5–26.5% | 5% | 8% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.4% | 0.5% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -61,7 +56,9 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -84,11 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 15% | 100% |  |
-| 3 | 28% | 85% |  |
-| 4 | 13% | 58% | Last Result, Median |
-| 5 | 43% | 45% |  |
-| 6 | 2% | 2% | Majority |
-| 7 | 0% | 0% |  |
+| 2 | 23% | 100% |  |
+| 3 | 64% | 77% | Median |
+| 4 | 13% | 13% | Last Result |
+| 5 | 0% | 0% |  |
 
 

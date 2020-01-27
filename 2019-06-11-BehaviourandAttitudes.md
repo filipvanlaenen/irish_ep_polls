@@ -28,6 +28,8 @@
 
 ![Graph with seats not yet produced](2019-06-11-BehaviourandAttitudes-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-06-11-BehaviourandAttitudes-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
