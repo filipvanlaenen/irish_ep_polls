@@ -15,7 +15,7 @@ Last result: **19.8%** (General Election of 24 May 2019)
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 8.6% | 7.6–9.7% | 7.3–10.0% | 7.1–10.3% | 6.7–10.9% |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
+| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–1.0% | 0.1–1.2% |
@@ -69,7 +69,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 1 | 0–1 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0 | 0 | 0 | 0 | 0 |
+| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
