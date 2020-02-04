@@ -10,7 +10,10 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 18.6–23.1% | 18.0–23.7% | 17.5–24.3% | 16.6–25.3% |
+| N/A | [Poll Average](average.html) | 21.8% | 19.9–23.7% | 19.4–24.2% | 19.0–24.7% | 18.2–25.6% |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 25.0% | N/A | N/A | N/A | N/A |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 24.5% | N/A | N/A | N/A | N/A |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 23.7% | N/A | N/A | N/A | N/A |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 22.3% | 20.6–24.1% | 20.1–24.6% | 19.7–25.1% | 19.0–26.0% |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
@@ -33,19 +36,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 2% | 99.5% |  |
-| 17.5–18.5% | 7% | 97% |  |
-| 18.5–19.5% | 12% | 90% |  |
-| 19.5–20.5% | 18% | 78% | Last Result |
-| 20.5–21.5% | 23% | 60% | Median |
-| 21.5–22.5% | 19% | 37% |  |
-| 22.5–23.5% | 11% | 18% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 1.3% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.0% | 99.9% |  |
+| 18.5–19.5% | 5% | 98.9% |  |
+| 19.5–20.5% | 14% | 94% | Last Result |
+| 20.5–21.5% | 24% | 80% |  |
+| 21.5–22.5% | 26% | 56% | Median |
+| 22.5–23.5% | 18% | 30% |  |
+| 23.5–24.5% | 9% | 12% |  |
+| 24.5–25.5% | 3% | 3% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,7 +59,10 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times |  |  |  |  |  |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 3 | 3 | 3 | 2–3 | 2–3 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 3 | 3 | 3 | 3–4 |
@@ -82,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 95% | 98% | Last Result, Median |
-| 4 | 3% | 3% |  |
+| 3 | 93% | 98% | Last Result, Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 

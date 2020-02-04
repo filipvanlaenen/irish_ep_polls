@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0.0% | N/A | N/A | N/A | N/A |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 0.0% | N/A | N/A | N/A | N/A |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,6 +52,9 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times |  |  |  |  |  |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail |  |  |  |  |  |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
