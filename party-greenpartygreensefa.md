@@ -11,7 +11,7 @@ Last result: **4.9%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.5% | 7.2–12.1% | 6.8–12.6% | 6.5–13.0% | 6.0–13.7% |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 9.0% | N/A | N/A | N/A | N/A |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 9.0% | N/A | N/A | N/A | N/A |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 8.0% | N/A | N/A | N/A | N/A |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 7.1% | N/A | N/A | N/A | N/A |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 11.3% | N/A | N/A | N/A | N/A |
@@ -60,7 +60,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin |  |  |  |  |  |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin |  |  |  |  |  |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times |  |  |  |  |  |
