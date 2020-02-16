@@ -6,102 +6,94 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-31T06:42:41.669839+01:00</updated>
+  <updated>2020-02-07T06:41:24.412785+01:00</updated>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 21.9–27.4%, 2–4 seats</li><li>Fianna Fáil (RE): 27.2–33.1%, 4 seats</li><li>Sinn Féin (GUE/NGL): 19.7–25.1%, 2–4 seats</li><li>Labour Party (S&amp;D): 5.3–8.5%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.6–2.0%, 0 seats</li><li>Social Democrats (S&amp;D): 2.3–4.6%, 0–1 seats</li><li>Green Party (Greens/EFA): 9.3–13.3%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 14.9–19.4%, 2–3 seats</li><li>Fianna Fáil (RE): 19.6–24.6%, 3–4 seats</li><li>Sinn Féin (GUE/NGL): 22.5–27.7%, 4–6 seats</li><li>Labour Party (S&amp;D): 4.7–7.5%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 3.9–6.5%, 0 seats</li><li>Social Democrats (S&amp;D): 2.1–4.2%, 0–1 seats</li><li>Green Party (Greens/EFA): 7.5–10.9%, 0–1 seats</li><li>Independent Alliance (*): 0.6–1.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.7–5.0%, 0 seats</li><li>Independents (*): 6.4–9.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-02-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-02-Survation.html"/>
+    <title>Opinion Poll by Survation for Sinn Féin, 27 January–2 February 2020</title>
+    <updated>2020-02-07T06:41:24.412785+01:00</updated>
+    <dc:date>2020-02-07T06:41:24.412785+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 17.8–22.4%, 3–4 seats</li><li>Fianna Fáil (RE): 20.7–25.5%, 4 seats</li><li>Sinn Féin (GUE/NGL): 22.6–27.5%, 3–5 seats</li><li>Labour Party (S&amp;D): 3.0–5.3%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.0%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.6–9.7%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 3.9–6.4%, 0 seats</li><li>Independents (*): 9.0–12.5%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-01-IpsosMRBI.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-01-IpsosMRBI.html"/>
+    <title>Opinion Poll by Ipsos MRBI for The Irish Times, 30 January–1 February 2020</title>
+    <updated>2020-02-04T21:24:09.188133+01:00</updated>
+    <dc:date>2020-02-04T21:24:09.188133+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 19.0–24.1%, 3–4 seats</li><li>Fianna Fáil (RE): 21.9–27.3%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 21.9–27.3%, 3–6 seats</li><li>Labour Party (S&amp;D): 3.9–6.6%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%, 0 seats</li><li>Social Democrats (S&amp;D): 2.2–4.4%, 0–1 seats</li><li>Green Party (Greens/EFA): 5.7–8.9%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 3.0–5.5%, 0 seats</li><li>Independents (*): 7.2–10.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-30-RedC.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-30-RedC.html"/>
+    <title>Opinion Poll by Red C for The Sunday Business Post, 25–30 January 2020</title>
+    <updated>2020-02-03T06:30:47.086424+01:00</updated>
+    <dc:date>2020-02-03T06:30:47.086424+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 19.0–24.1%, 2–5 seats</li><li>Fianna Fáil (RE): 23.3–28.7%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 21.2–26.4%, 3–5 seats</li><li>Labour Party (S&amp;D): 4.3–7.2%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 4.3–7.2%, 0 seats</li><li>Social Democrats (S&amp;D): 4.3–7.2%, 1–2 seats</li><li>Green Party (Greens/EFA): 9.5–13.4%, 0–2 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-30-Panelbase.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-30-Panelbase.html"/>
+    <title>Opinion Poll by Panelbase for The Times, 24–30 January 2020</title>
+    <updated>2020-02-01T11:24:09.822484+01:00</updated>
+    <dc:date>2020-02-01T11:24:09.822484+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 21.9–27.4%, 2–5 seats</li><li>Fianna Fáil (RE): 27.2–33.1%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 19.7–25.1%, 3–4 seats</li><li>Labour Party (S&amp;D): 5.3–8.5%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.6–2.0%, 0 seats</li><li>Social Democrats (S&amp;D): 2.3–4.6%, 0–1 seats</li><li>Green Party (Greens/EFA): 9.3–13.3%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-25-IrelandThinks.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-25-IrelandThinks.html"/>
     <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 1–25 January 2020</title>
-    <updated>2020-01-26T16:46:59.827325+01:00</updated>
-    <dc:date>2020-01-26T16:46:59.827325+01:00</dc:date>
+    <updated>2020-01-26T17:24:09.502297+01:00</updated>
+    <dc:date>2020-01-26T17:24:09.502297+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.5–25.7%, 2–3 seats</li><li>Fianna Fáil (RE): 23.4–28.8%, 4 seats</li><li>Sinn Féin (GUE/NGL): 16.7–21.6%, 2–3 seats</li><li>Labour Party (S&amp;D): 2.9–5.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 2.1–4.3%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.5–9.9%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.6–6.2%, 0 seats</li><li>Independents (*): 8.2–11.9%, 1 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.5–25.7%, 3–4 seats</li><li>Fianna Fáil (RE): 23.4–28.8%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 16.7–21.6%, 3 seats</li><li>Labour Party (S&amp;D): 2.9–5.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 2.1–4.3%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.5–9.9%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 3.6–6.2%, 0 seats</li><li>Independents (*): 8.2–11.9%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-23-RedC.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-23-RedC.html"/>
     <title>Opinion Poll by Red C for The Sunday Business Post, 16–23 January 2020</title>
-    <updated>2020-01-26T16:24:11.38197+01:00</updated>
-    <dc:date>2020-01-26T16:24:11.38197+01:00</dc:date>
+    <updated>2020-01-26T18:24:11.39623+01:00</updated>
+    <dc:date>2020-01-26T18:24:11.39623+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.7–25.5%, 3–4 seats</li><li>Fianna Fáil (RE): 22.6–27.5%, 4 seats</li><li>Sinn Féin (GUE/NGL): 18.8–23.4%, 3 seats</li><li>Labour Party (S&amp;D): 3.9–6.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.0%, 0 seats</li><li>Green Party (Greens/EFA): 6.6–9.7%, 0 seats</li><li>Independent Alliance (*): 0.6–1.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.1–5.4%, 0 seats</li><li>Independents (*): 7.1–10.3%, 0–1 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.7–25.5%, 3–5 seats</li><li>Fianna Fáil (RE): 22.6–27.5%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 18.8–23.4%, 3–4 seats</li><li>Labour Party (S&amp;D): 3.9–6.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.0%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.6–9.7%, 0–1 seats</li><li>Independent Alliance (*): 0.6–1.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.1–5.4%, 0 seats</li><li>Independents (*): 7.1–10.3%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-18-IpsosMRBI.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-18-IpsosMRBI.html"/>
     <title>Opinion Poll by Ipsos MRBI for The Irish Times, 16–18 January 2020</title>
-    <updated>2020-01-21T20:24:08.150682+01:00</updated>
-    <dc:date>2020-01-21T20:24:08.150682+01:00</dc:date>
+    <updated>2020-01-21T21:24:08.841237+01:00</updated>
+    <dc:date>2020-01-21T21:24:08.841237+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 19.7–25.1%, 2–4 seats</li><li>Fianna Fáil (RE): 32.7–38.8%, 4–6 seats</li><li>Sinn Féin (GUE/NGL): 18.7–23.9%, 3–4 seats</li><li>Labour Party (S&amp;D): 3.3–5.9%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.5–3.4%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 6.3–9.8%, 0 seats</li><li>Renua Ireland (*): 0.6–2.0%, 0 seats</li><li>Independent Alliance (*): 2.4–4.7%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 19.7–25.1%, 3–4 seats</li><li>Fianna Fáil (RE): 32.7–38.8%, 5–7 seats</li><li>Sinn Féin (GUE/NGL): 18.7–23.9%, 3–4 seats</li><li>Labour Party (S&amp;D): 3.3–5.9%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.5–3.4%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 6.3–9.8%, 0–1 seats</li><li>Renua Ireland (*): 0.6–2.0%, 0 seats</li><li>Independent Alliance (*): 2.4–4.7%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-01-14-BehaviourandAttitudes.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-01-14-BehaviourandAttitudes.html"/>
     <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–14 January 2020</title>
-    <updated>2020-01-19T11:24:08.890106+01:00</updated>
-    <dc:date>2020-01-19T11:24:08.890106+01:00</dc:date>
+    <updated>2020-01-19T12:24:07.939372+01:00</updated>
+    <dc:date>2020-01-19T12:24:07.939372+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 30.0–34.7%, 4–5 seats</li><li>Fianna Fáil (RE): 26.7–31.1%, 4 seats</li><li>Sinn Féin (GUE/NGL): 15.5–19.2%, 1–3 seats</li><li>Labour Party (S&amp;D): 4.7–7.0%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.7–4.5%, 0 seats</li><li>Social Democrats (S&amp;D): 2.7–4.5%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.8–9.5%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.7%, 0 seats</li><li>Independents (*): 0.1–0.7%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 30.0–34.7%, 5 seats</li><li>Fianna Fáil (RE): 26.7–31.1%, 4 seats</li><li>Sinn Féin (GUE/NGL): 15.5–19.2%, 3 seats</li><li>Labour Party (S&amp;D): 4.7–7.0%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.7–4.5%, 0 seats</li><li>Social Democrats (S&amp;D): 2.7–4.5%, 0–1 seats</li><li>Green Party (Greens/EFA): 6.8–9.5%, 0–1 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.7%, 0 seats</li><li>Independents (*): 0.1–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-12-24-IrelandThinks.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-12-24-IrelandThinks.html"/>
     <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 24 December 2019</title>
-    <updated>2020-01-31T06:42:41.669839+01:00</updated>
-    <dc:date>2020-01-31T06:42:41.669839+01:00</dc:date>
+    <updated>2020-01-31T06:42:33.589721+01:00</updated>
+    <dc:date>2020-01-31T06:42:33.589721+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 26.2–32.1%, 4 seats</li><li>Fianna Fáil (RE): 26.2–32.1%, 4 seats</li><li>Sinn Féin (GUE/NGL): 19.1–24.3%, 3 seats</li><li>Labour Party (S&amp;D): 5.1–8.3%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.3–4.5%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 5.1–8.3%, 0 seats</li><li>Independent Alliance (*): 1.4–3.3%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 26.2–32.1%, 5 seats</li><li>Fianna Fáil (RE): 26.2–32.1%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 19.1–24.3%, 3 seats</li><li>Labour Party (S&amp;D): 5.1–8.3%, 0–1 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.3–4.5%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 5.1–8.3%, 0–1 seats</li><li>Independent Alliance (*): 1.4–3.3%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-12-17-BehaviourandAttitudes.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-12-17-BehaviourandAttitudes.html"/>
     <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 December 2019</title>
-    <updated>2020-01-18T18:24:06.495298+01:00</updated>
-    <dc:date>2020-01-18T18:24:06.495298+01:00</dc:date>
+    <updated>2020-01-19T09:24:14.411334+01:00</updated>
+    <dc:date>2020-01-19T09:24:14.411334+01:00</dc:date>
   </entry>
   <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 27.2–32.9%, 5–6 seats</li><li>Fianna Fáil (RE): 21.4–26.7%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 9.2–13.1%, 0–1 seats</li><li>Labour Party (S&amp;D): 4.7–7.7%, 0–1 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.1%, 0–1 seats</li><li>Green Party (Greens/EFA): 5.6–8.8%, 0–1 seats</li><li>Independent Alliance (*): 2.9–5.4%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.3–5.9%, 0 seats</li><li>Independents (*): 7.7–11.3%, 0–1 seats</li></ul></div></content>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 27.2–32.9%, 5–7 seats</li><li>Fianna Fáil (RE): 21.4–26.7%, 4–6 seats</li><li>Sinn Féin (GUE/NGL): 9.2–13.1%, 0–3 seats</li><li>Labour Party (S&amp;D): 4.7–7.7%, 0–1 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.1%, 0–1 seats</li><li>Green Party (Greens/EFA): 5.6–8.8%, 0–1 seats</li><li>Independent Alliance (*): 2.9–5.4%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.3–5.9%, 0 seats</li><li>Independents (*): 7.7–11.3%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-11-21-RedC.html</id>
     <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-11-21-RedC.html"/>
     <title>Opinion Poll by Red C for The Sunday Business Post, 14–21 November 2019</title>
-    <updated>2020-01-18T19:24:11.156122+01:00</updated>
-    <dc:date>2020-01-18T19:24:11.156122+01:00</dc:date>
+    <updated>2020-01-19T09:24:10.971203+01:00</updated>
+    <dc:date>2020-01-19T09:24:10.971203+01:00</dc:date>
   </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 29.0–35.1%, 4–5 seats</li><li>Fianna Fáil (RE): 28.0–34.0%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 15.3–20.3%, 1–3 seats</li><li>Labour Party (S&amp;D): 4.2–7.3%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.3–4.7%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 5.2–8.5%, 0 seats</li><li>Independent Alliance (*): 1.4–3.4%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.8%, 0 seats</li><li>Independents (*): 0.1–0.8%, 0 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-10-15-BehaviourandAttitudes.html</id>
-    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-10-15-BehaviourandAttitudes.html"/>
-    <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 October 2019</title>
-    <updated>2020-01-08T19:50:04.22745+01:00</updated>
-    <dc:date>2020-01-08T19:50:04.22745+01:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 25.8–31.7%, 4 seats</li><li>Fianna Fáil (RE): 29.0–35.1%, 4 seats</li><li>Sinn Féin (GUE/NGL): 19.4–24.8%, 3 seats</li><li>Labour Party (S&amp;D): 2.3–4.7%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.6–2.0%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 4.2–7.3%, 0 seats</li><li>Renua Ireland (*): 0.6–2.0%, 0 seats</li><li>Independent Alliance (*): 3.3–6.0%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.8%, 0 seats</li><li>Independents (*): 0.1–0.8%, 0 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.html</id>
-    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-09-17-BehaviourandAttitudes.html"/>
-    <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 September 2019</title>
-    <updated>2019-09-27T10:26:50.535869+02:00</updated>
-    <dc:date>2019-09-27T10:26:50.535869+02:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 30.1–36.0%, 5 seats</li><li>Fianna Fáil (RE): 29.0–34.8%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 11.6–15.9%, 1–2 seats</li><li>Labour Party (S&amp;D): 5.4–8.5%, 0–1 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.6–2.0%, 0 seats</li><li>Social Democrats (S&amp;D): 0.6–2.0%, 0 seats</li><li>Green Party (Greens/EFA): 6.5–9.9%, 0–1 seats</li><li>Renua Ireland (*): 0.1–0.9%, 0 seats</li><li>Independent Alliance (*): 2.4–4.7%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 0.1–0.9%, 0 seats</li><li>Independents (*): 0.1–0.9%, 0 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-09-12-RedC.html</id>
-    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-09-12-RedC.html"/>
-    <title>Opinion Poll by Red C for The Sunday Business Post, 5–12 September 2019</title>
-    <updated>2019-09-24T11:34:04.289052+02:00</updated>
-    <dc:date>2019-09-24T11:34:04.289052+02:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 23.8–29.5%, 4–5 seats</li><li>Fianna Fáil (RE): 27.7–33.7%, 4–6 seats</li><li>Sinn Féin (GUE/NGL): 12.1–16.7%, 1–3 seats</li><li>Labour Party (S&amp;D): 3.8–6.7%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 0.5–1.9%, 0 seats</li><li>Green Party (Greens/EFA): 5.7–9.1%, 0–1 seats</li><li>Renua Ireland (*): 0.5–1.9%, 0 seats</li><li>Independent Alliance (*): 3.0–5.6%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 1.7–3.8%, 0 seats</li><li>Independents (*): 4.1–7.1%, 0 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-07-16-BehaviourandAttitudes.html</id>
-    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-07-16-BehaviourandAttitudes.html"/>
-    <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 July 2019</title>
-    <updated>2019-07-23T13:29:24.44031+02:00</updated>
-    <dc:date>2019-07-23T13:29:24.44031+02:00</dc:date>
-  </entry>
-  <entry>
-    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.6–26.1%, 3–5 seats</li><li>Fianna Fáil (RE): 25.5–31.4%, 4–5 seats</li><li>Sinn Féin (GUE/NGL): 10.1–14.4%, 0–2 seats</li><li>Labour Party (S&amp;D): 3.7–6.6%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%, 0 seats</li><li>Social Democrats (S&amp;D): 0.5–1.9%, 0 seats</li><li>Green Party (Greens/EFA): 9.2–13.3%, 1–2 seats</li><li>Renua Ireland (*): 0.5–1.9%, 0 seats</li><li>Independent Alliance (*): 2.1–4.3%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 3.0–5.6%, 0 seats</li><li>Independents (*): 7.0–10.7%, 0–1 seats</li></ul></div></content>
-    <id>https://filipvanlaenen.github.io/irish_ep_polls/2019-06-11-BehaviourandAttitudes.html</id>
-    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2019-06-11-BehaviourandAttitudes.html"/>
-    <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 31 May–11 June 2019</title>
-    <updated>2019-07-11T17:58:12.642523+02:00</updated>
-    <dc:date>2019-07-11T17:58:12.642523+02:00</dc:date>
-  </entry>
-  <dc:date>2020-01-31T06:42:41.669839+01:00</dc:date>
+  <dc:date>2020-02-07T06:41:24.412785+01:00</dc:date>
 </feed>
