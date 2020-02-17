@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.4% |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
-| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | N/A | N/A | N/A | N/A |
+| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 
 ### Probability Mass Function
 
@@ -76,7 +76,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
-| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

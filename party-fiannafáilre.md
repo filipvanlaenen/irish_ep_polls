@@ -90,7 +90,7 @@ Last result: **1** seats (General Election of 24 May 2019)
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 4–6 |
-| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 6 |
+| [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 
 ### Probability Mass Function
 
