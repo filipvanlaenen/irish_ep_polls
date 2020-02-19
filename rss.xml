@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 18 Feb 2020 17:03:14 +0100</pubDate>
+    <pubDate>Wed, 19 Feb 2020 09:25:22 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation for Sinn Féin, 27 January–2 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-02-Survation.html#seats</link>
@@ -356,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-10-24-RedC.png"
         length="288670"
         type="image/png"/>
-      <pubDate>Tue, 04 Feb 2020 06:55:57 +0100</pubDate>
-      <dc:date>2020-02-04T06:55:57.884609+01:00</dc:date>
+      <pubDate>Wed, 19 Feb 2020 09:25:22 +0100</pubDate>
+      <dc:date>2020-02-19T09:25:22.33288+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 October 2019 – Voting Intentions</title>
@@ -419,6 +419,6 @@
       <pubDate>Mon, 17 Feb 2020 16:58:17 +0100</pubDate>
       <dc:date>2020-02-17T16:58:17.636177+01:00</dc:date>
     </item>
-    <dc:date>2020-02-18T17:03:14.422258+01:00</dc:date>
+    <dc:date>2020-02-19T09:25:22.33288+01:00</dc:date>
   </channel>
 </rss>
