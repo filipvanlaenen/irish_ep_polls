@@ -10,7 +10,9 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.3% | 17.4–24.5% | 16.5–25.4% | 15.9–26.1% | 15.0–27.3% |
+| N/A | [Poll Average](average.html) | 20.4% | 16.8–22.6% | 16.1–23.1% | 15.6–23.6% | 14.8–24.6% |
+| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.1% | N/A | N/A | N/A | N/A |
+| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18.0% | N/A | N/A | N/A | N/A |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.3–20.2% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
@@ -38,23 +40,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 1.2% | 99.8% |  |
-| 15.5–16.5% | 4% | 98.6% |  |
-| 16.5–17.5% | 6% | 95% |  |
-| 17.5–18.5% | 6% | 89% |  |
-| 18.5–19.5% | 8% | 83% |  |
-| 19.5–20.5% | 13% | 75% |  |
-| 20.5–21.5% | 17% | 62% | Median |
-| 21.5–22.5% | 16% | 45% | Last Result |
-| 22.5–23.5% | 12% | 29% |  |
-| 23.5–24.5% | 8% | 18% |  |
-| 24.5–25.5% | 5% | 10% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 1.1% | 1.4% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 6% | 98% |  |
+| 16.5–17.5% | 9% | 92% |  |
+| 17.5–18.5% | 9% | 83% |  |
+| 18.5–19.5% | 11% | 75% |  |
+| 19.5–20.5% | 17% | 64% | Median |
+| 20.5–21.5% | 20% | 46% |  |
+| 21.5–22.5% | 15% | 26% | Last Result |
+| 22.5–23.5% | 7% | 10% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,7 +64,9 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -94,10 +95,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 28% | 100% |  |
-| 3 | 45% | 71% | Median |
-| 4 | 16% | 26% | Last Result |
-| 5 | 10% | 10% |  |
+| 2 | 41% | 100% |  |
+| 3 | 47% | 59% | Median |
+| 4 | 11% | 12% | Last Result |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 
