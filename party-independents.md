@@ -10,9 +10,9 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 0.3–10.9% | 0.2–11.4% | 0.2–11.8% | 0.1–12.6% |
+| N/A | [Poll Average](average.html) | 8.5% | 0.4–10.7% | 0.3–11.3% | 0.2–11.7% | 0.1–12.5% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.4–10.0% | 5.9–10.6% |
-| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.7% | N/A | N/A | N/A | N/A |
+| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.7% | 7.6–10.0% | 7.3–10.4% | 7.0–10.7% | 6.5–11.4% |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.3% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 10.6% | 9.5–11.8% | 9.2–12.1% | 9.0–12.5% | 8.5–13.1% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 8.8% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
@@ -39,20 +39,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 5% | 80% |  |
-| 1.5–2.5% | 0% | 75% |  |
-| 2.5–3.5% | 0% | 75% |  |
-| 3.5–4.5% | 0% | 75% |  |
-| 4.5–5.5% | 0% | 75% |  |
-| 5.5–6.5% | 0.9% | 75% |  |
-| 6.5–7.5% | 8% | 74% |  |
-| 7.5–8.5% | 19% | 66% | Median |
-| 8.5–9.5% | 18% | 47% |  |
-| 9.5–10.5% | 14% | 29% |  |
-| 10.5–11.5% | 10% | 14% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 4% | 84% |  |
+| 1.5–2.5% | 0% | 80% |  |
+| 2.5–3.5% | 0% | 80% |  |
+| 3.5–4.5% | 0% | 80% |  |
+| 4.5–5.5% | 0% | 80% |  |
+| 5.5–6.5% | 0.8% | 80% |  |
+| 6.5–7.5% | 8% | 79% |  |
+| 7.5–8.5% | 22% | 71% |  |
+| 8.5–9.5% | 22% | 49% | Median |
+| 9.5–10.5% | 15% | 27% |  |
+| 10.5–11.5% | 9% | 12% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -72,7 +72,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 1 | 1 | 1 | 1 | 1 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -101,8 +101,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% |  |
-| 1 | 62% | 62% | Median |
+| 0 | 37% | 100% |  |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
