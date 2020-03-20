@@ -1,4 +1,4 @@
-# Opinion Poll by Behaviour and Attitudes for The Sunday Times, 25 February 2020
+# Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–25 February 2020
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -10,15 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sinn Féin (GUE/NGL) | 19.5% | 35.0% | 33.0–37.1% |32.4–37.7% |31.9–38.2% |31.0–39.2% |
-| Fianna Fáil (RE) | 22.3% | 20.0% | 18.4–21.8% |17.9–22.3% |17.5–22.7% |16.8–23.6% |
-| Fine Gael (EPP) | 22.3% | 18.0% | 16.4–19.7% |16.0–20.2% |15.6–20.7% |14.9–21.5% |
-| Independents (*) | 19.8% | 8.7% | 7.6–10.0% |7.3–10.4% |7.0–10.7% |6.5–11.4% |
-| Green Party (Greens/EFA) | 4.9% | 6.0% | 5.1–7.1% |4.8–7.5% |4.6–7.8% |4.2–8.3% |
-| Independents 4 Change (GUE/NGL) | 0.0% | 4.0% | 3.3–5.0% |3.1–5.2% |2.9–5.5% |2.6–6.0% |
-| Labour Party (S&D) | 5.3% | 3.0% | 2.4–3.9% |2.2–4.1% |2.1–4.3% |1.8–4.8% |
-| Social Democrats (S&D) | 0.0% | 3.0% | 2.4–3.9% |2.2–4.1% |2.1–4.3% |1.8–4.8% |
-| Solidarity–People Before Profit (GUE/NGL) | 1.5% | 2.0% | 1.5–2.7% |1.4–3.0% |1.3–3.1% |1.1–3.5% |
+| Sinn Féin (GUE/NGL) | 19.5% | 35.0% | 33.0–37.1% |32.5–37.6% |32.0–38.2% |31.0–39.2% |
+| Fianna Fáil (RE) | 22.3% | 20.0% | 18.3–21.7% |17.9–22.2% |17.5–22.7% |16.7–23.5% |
+| Fine Gael (EPP) | 22.3% | 18.0% | 16.4–19.7% |16.0–20.2% |15.6–20.6% |14.9–21.5% |
+| Independents (*) | 19.8% | 8.6% | 7.5–9.9% |7.2–10.3% |7.0–10.6% |6.5–11.3% |
+| Green Party (Greens/EFA) | 4.9% | 6.0% | 5.1–7.1% |4.8–7.5% |4.6–7.7% |4.2–8.3% |
+| Independents 4 Change (GUE/NGL) | 0.0% | 4.0% | 3.3–5.0% |3.1–5.3% |2.9–5.5% |2.6–6.0% |
+| Labour Party (S&D) | 5.3% | 3.1% | 2.4–3.9% |2.3–4.2% |2.1–4.4% |1.9–4.8% |
+| Social Democrats (S&D) | 0.0% | 3.1% | 2.4–3.9% |2.3–4.2% |2.1–4.4% |1.9–4.8% |
+| Solidarity–People Before Profit (GUE/NGL) | 1.5% | 2.0% | 1.5–2.7% |1.4–2.9% |1.2–3.1% |1.1–3.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -32,11 +32,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 6 | 6 |6 |6–7 |6–8 |
-| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 3 | 3–4 |3–4 |2–4 |2–4 |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 6 | 6 |6–7 |6–7 |6–8 |
+| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 4 | 3–4 |3–4 |2–4 |2–4 |
 | <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#independents-(*)">Independents (*)</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#independents-(*)">Independents (*)</a> | 3 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#independents-4-change-(gue/ngl)">Independents 4 Change (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#social-democrats-(s&d)">Social Democrats (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -52,11 +52,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 95% | 99.8% | Median |
-| 7 | 4% | 5% | Majority |
-| 8 | 0.6% | 0.6% |  |
-| 9 | 0.1% | 0.1% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 94% | 99.8% | Median |
+| 7 | 5% | 6% | Majority |
+| 8 | 0.8% | 1.0% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -68,9 +68,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% | Last Result |
-| 2 | 4% | 99.9% |  |
-| 3 | 62% | 96% | Median |
-| 4 | 34% | 34% |  |
+| 2 | 5% | 99.9% |  |
+| 3 | 40% | 95% |  |
+| 4 | 55% | 55% | Median |
 | 5 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -81,8 +81,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 61% | 100% | Median |
-| 3 | 39% | 39% |  |
+| 2 | 81% | 100% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0.1% | 0.1% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -94,8 +94,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% |  |
-| 1 | 66% | 66% | Median |
+| 0 | 57% | 100% | Median |
+| 1 | 43% | 43% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -107,8 +107,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Independents 4 Change (GUE/NGL)
@@ -139,8 +139,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
 | 2 | 0% | 0% |  |
 
 ### Solidarity–People Before Profit (GUE/NGL)
@@ -162,10 +162,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil (RE) | 1 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| Fianna Fáil (RE) | 1 | 4 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
 | Fine Gael (EPP) | 4 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Labour Party (S&D) – Social Democrats (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Fianna Fáil (RE)
 
@@ -174,9 +174,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% | Last Result |
-| 2 | 4% | 99.9% |  |
-| 3 | 62% | 96% | Median |
-| 4 | 34% | 34% |  |
+| 2 | 5% | 99.9% |  |
+| 3 | 40% | 95% |  |
+| 4 | 55% | 55% | Median |
 | 5 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -185,8 +185,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 61% | 100% | Median |
-| 3 | 39% | 39% |  |
+| 2 | 81% | 100% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0.1% | 0.1% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -196,8 +196,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
 | 2 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -206,8 +206,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -217,11 +217,11 @@
 
 + **Polling firm:** Behaviour and Attitudes
 + **Commissioner(s):** The Sunday Times
-+ **Fieldwork period:** 25 February 2020
++ **Fieldwork period:** 17–25 February 2020
 
 ### Calculations
 
-+ **Sample size:** 900
++ **Sample size:** 917
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 1.51%
++ **Error estimate:** 2.36%
 
