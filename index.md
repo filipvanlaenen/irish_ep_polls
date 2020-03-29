@@ -1,12 +1,13 @@
 # Overview
 
-The table below lists the most recent polls (less than 16 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 3–4 | 17–22% <br> 2–4 | 6–10% <br> 0–1 | 32–38% <br> 6–7 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 3–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 16–23% <br> 2–4 | 15–21% <br> 1–4 | 6–10% <br> 0–1 | 32–38% <br> 6–8 | 2–4% <br> 0 | 2–4% <br> 0 | 5–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–6% <br> 0–1 | 2–5% <br> 0 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19–24% <br> 3–4 | 17–22% <br> 2–4 | 6–10% <br> 0–1 | 32–38% <br> 6–7 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 |
+| [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 16–20% <br> 2–3 | 15–19% <br> 1–4 | 5–8% <br> 0–1 | 32–38% <br> 5–8 | 2–4% <br> 0 | 2–4% <br> 0 | 7–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 2–4% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
