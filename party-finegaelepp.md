@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.0–22.2% | 16.5–22.9% | 16.1–23.4% | 15.4–24.3% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.4–22.9% | 18.9–23.4% | 18.5–23.8% | 17.8–24.7% |
+| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 34.7% | N/A | N/A | N/A | N/A |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.1% | 19.4–22.9% | 18.9–23.4% | 18.5–23.8% | 17.8–24.7% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18.0% | 16.4–19.7% | 16.0–20.2% | 15.6–20.6% | 14.9–21.5% |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 18.0% | 16.5–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
@@ -40,19 +41,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 0.7% | 99.9% |  |
-| 15.5–16.5% | 4% | 99.2% |  |
-| 16.5–17.5% | 12% | 95% |  |
-| 17.5–18.5% | 17% | 83% |  |
-| 18.5–19.5% | 16% | 65% | Median |
-| 19.5–20.5% | 15% | 49% |  |
-| 20.5–21.5% | 15% | 34% |  |
-| 21.5–22.5% | 11% | 19% | Last Result |
-| 22.5–23.5% | 5% | 7% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.3% | 0.3% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.3% | 100% |  |
+| 17.5–18.5% | 2% | 99.7% |  |
+| 18.5–19.5% | 10% | 97% |  |
+| 19.5–20.5% | 22% | 88% |  |
+| 20.5–21.5% | 29% | 66% | Median |
+| 21.5–22.5% | 23% | 37% | Last Result |
+| 22.5–23.5% | 10% | 14% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 0.6% | 0.7% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,7 +63,8 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 2 | 2 | 2–3 | 2–3 | 2–4 |
@@ -95,10 +96,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 47% | 100% |  |
-| 3 | 47% | 53% | Median |
-| 4 | 6% | 7% | Last Result |
-| 5 | 0.8% | 0.8% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 88% | 99.9% | Median |
+| 4 | 11% | 12% | Last Result |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
