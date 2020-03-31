@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 3–4 | 17–22% <br> 2–4 | 6–10% <br> 0–1 | 32–38% <br> 6–7 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 3–5% <br> 0 |
-| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 19–37% <br> 3–7 | 16–21% <br> 2–4 | 3–10% <br> 0–1 | 26–38% <br> 3–7 | 2–4% <br> 0 | 1–4% <br> 0 | 4–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0–1 | 1–5% <br> 0 |
+| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 32–38% <br> 5–7 | 16–21% <br> 2–4 | 2–5% <br> 0 | 26–31% <br> 3–6 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19–24% <br> 3–4 | 17–22% <br> 2–4 | 6–10% <br> 0–1 | 32–38% <br> 6–7 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
