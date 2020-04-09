@@ -10,10 +10,10 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.7% | 27.4–36.3% | 26.8–37.0% | 26.3–37.6% | 25.4–38.7% |
-| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 28.6% | 26.8–30.5% | 26.3–31.0% | 25.9–31.5% | 25.0–32.4% |
-| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.0% | 33.0–37.1% | 32.4–37.6% | 31.9–38.1% | 31.0–39.1% |
-| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.0% | 33.0–37.1% | 32.5–37.6% | 32.0–38.2% | 31.0–39.2% |
+| N/A | [Poll Average](average.html) | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.7% | 24.5–31.6% |
+| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 28.0% | 26.2–29.8% | 25.8–30.3% | 25.3–30.7% | 24.5–31.6% |
+| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.3% | N/A | N/A | N/A | N/A |
+| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.0% | N/A | N/A | N/A | N/A |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 35.0% | 33.1–36.9% | 32.6–37.5% | 32.2–38.0% | 31.3–38.9% |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.8–28.6% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
@@ -45,24 +45,17 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.6% | 99.9% |  |
-| 25.5–26.5% | 3% | 99.3% |  |
-| 26.5–27.5% | 8% | 97% |  |
-| 27.5–28.5% | 13% | 89% |  |
-| 28.5–29.5% | 13% | 76% |  |
-| 29.5–30.5% | 8% | 63% |  |
-| 30.5–31.5% | 4% | 55% |  |
-| 31.5–32.5% | 3% | 50% | Median |
-| 32.5–33.5% | 6% | 47% |  |
-| 33.5–34.5% | 11% | 41% |  |
-| 34.5–35.5% | 12% | 31% |  |
-| 35.5–36.5% | 10% | 18% |  |
-| 36.5–37.5% | 6% | 8% |  |
-| 37.5–38.5% | 2% | 3% |  |
-| 38.5–39.5% | 0.6% | 0.7% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.5% | 100% |  |
+| 24.5–25.5% | 3% | 99.5% |  |
+| 25.5–26.5% | 11% | 97% |  |
+| 26.5–27.5% | 23% | 86% |  |
+| 27.5–28.5% | 28% | 62% | Median |
+| 28.5–29.5% | 21% | 34% |  |
+| 29.5–30.5% | 10% | 13% |  |
+| 30.5–31.5% | 3% | 3% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,10 +66,10 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 3–7 | 3–8 |
-| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
-| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6–7 | 6–7 | 6–8 |
+| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -107,11 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% | Last Result |
-| 4 | 7% | 97% |  |
-| 5 | 28% | 90% |  |
-| 6 | 55% | 62% | Median |
-| 7 | 6% | 7% | Majority |
-| 8 | 1.2% | 1.2% |  |
-| 9 | 0% | 0% |  |
+| 4 | 9% | 97% |  |
+| 5 | 36% | 87% |  |
+| 6 | 52% | 52% | Median |
+| 7 | 0% | 0% | Majority |
 
 
