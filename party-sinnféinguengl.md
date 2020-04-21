@@ -76,7 +76,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 4–7 | 4–7 | 3–8 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6–7 | 6–8 |
+| [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6–7 | 6–7 | 6–8 |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
