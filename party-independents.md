@@ -10,7 +10,7 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 2.9–8.2% | 2.7–8.6% | 2.5–8.9% | 2.2–9.6% |
+| N/A | [Poll Average](average.html) | 6.5% | 3.1–8.0% | 2.8–8.4% | 2.6–8.8% | 2.3–9.5% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.6% | 2.1–5.0% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7.3% | 6.3–8.6% | 6.1–8.9% | 5.8–9.2% | 5.4–9.8% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.0% | 6.9–9.2% | 6.6–9.6% | 6.4–9.9% | 5.9–10.5% |
@@ -42,15 +42,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 29% | 97% |  |
-| 3.5–4.5% | 17% | 68% |  |
-| 4.5–5.5% | 2% | 51% | Median |
-| 5.5–6.5% | 7% | 50% |  |
-| 6.5–7.5% | 20% | 42% |  |
-| 7.5–8.5% | 17% | 22% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 19% | 98% |  |
+| 3.5–4.5% | 11% | 79% |  |
+| 4.5–5.5% | 3% | 67% |  |
+| 5.5–6.5% | 17% | 64% | Median |
+| 6.5–7.5% | 28% | 47% |  |
+| 7.5–8.5% | 16% | 19% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -104,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 31% | 31% |  |
+| 0 | 72% | 100% | Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
