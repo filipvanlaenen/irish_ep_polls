@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 17.4–34.8% | 16.8–35.5% | 16.3–36.1% | 15.5–37.2% |
+| N/A | [Poll Average](average.html) | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 34.0% | 32.2–35.9% | 31.6–36.4% | 31.2–36.9% | 30.3–37.8% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.2% | 19.5–23.0% | 19.0–23.5% | 18.6–23.9% | 17.9–24.8% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18.0% | 16.4–19.7% | 16.0–20.2% | 15.6–20.6% | 14.9–21.5% |
@@ -41,32 +42,26 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.5% | 100% |  |
-| 15.5–16.5% | 3% | 99.5% |  |
-| 16.5–17.5% | 8% | 97% |  |
-| 17.5–18.5% | 12% | 88% |  |
-| 18.5–19.5% | 10% | 77% |  |
-| 19.5–20.5% | 10% | 67% |  |
-| 20.5–21.5% | 10% | 57% | Median |
-| 21.5–22.5% | 8% | 47% | Last Result |
-| 22.5–23.5% | 4% | 39% |  |
-| 23.5–24.5% | 1.2% | 35% |  |
-| 24.5–25.5% | 0.2% | 34% |  |
-| 25.5–26.5% | 0% | 33% |  |
-| 26.5–27.5% | 0% | 33% |  |
-| 27.5–28.5% | 0% | 33% |  |
-| 28.5–29.5% | 0% | 33% |  |
-| 29.5–30.5% | 0.2% | 33% |  |
-| 30.5–31.5% | 1.2% | 33% |  |
-| 31.5–32.5% | 4% | 32% |  |
-| 32.5–33.5% | 7% | 28% |  |
-| 33.5–34.5% | 9% | 21% |  |
-| 34.5–35.5% | 7% | 12% |  |
-| 35.5–36.5% | 4% | 5% |  |
-| 36.5–37.5% | 1.1% | 1.4% |  |
-| 37.5–38.5% | 0.2% | 0.3% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% | Last Result |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.8% | 99.9% |  |
+| 31.5–32.5% | 4% | 99.0% |  |
+| 32.5–33.5% | 11% | 95% |  |
+| 33.5–34.5% | 22% | 84% |  |
+| 34.5–35.5% | 26% | 62% | Median |
+| 35.5–36.5% | 21% | 36% |  |
+| 36.5–37.5% | 11% | 16% |  |
+| 37.5–38.5% | 4% | 5% |  |
+| 38.5–39.5% | 0.9% | 1.1% |  |
+| 39.5–40.5% | 0.1% | 0.2% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +72,8 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3–4 | 3–5 |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -110,12 +106,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 31% | 100% |  |
-| 3 | 34% | 69% | Median |
-| 4 | 1.3% | 35% | Last Result |
-| 5 | 30% | 34% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.1% | 0.1% | Majority |
-| 8 | 0% | 0% |  |
+| 4 | 0% | 100% | Last Result |
+| 5 | 38% | 100% |  |
+| 6 | 11% | 62% |  |
+| 7 | 45% | 51% | Median, Majority |
+| 8 | 6% | 6% |  |
+| 9 | 0% | 0% |  |
 
 

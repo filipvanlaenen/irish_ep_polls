@@ -10,7 +10,8 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.1% | 27.3–36.8% | 26.6–37.4% | 26.0–38.0% | 25.1–39.0% |
+| N/A | [Poll Average](average.html) | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 28.0% | 26.2–29.8% | 25.8–30.3% | 25.3–30.7% | 24.5–31.6% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.3% | 33.3–37.4% | 32.8–38.0% | 32.3–38.5% | 31.3–39.5% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 35.0% | 33.0–37.1% | 32.5–37.6% | 32.0–38.2% | 31.0–39.2% |
@@ -44,25 +45,17 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% | Last Result |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 1.0% | 99.8% |  |
-| 25.5–26.5% | 4% | 98.8% |  |
-| 26.5–27.5% | 8% | 95% |  |
-| 27.5–28.5% | 9% | 87% |  |
-| 28.5–29.5% | 7% | 78% |  |
-| 29.5–30.5% | 3% | 71% |  |
-| 30.5–31.5% | 1.4% | 68% |  |
-| 31.5–32.5% | 2% | 66% |  |
-| 32.5–33.5% | 7% | 64% |  |
-| 33.5–34.5% | 13% | 57% | Median |
-| 34.5–35.5% | 17% | 44% |  |
-| 35.5–36.5% | 14% | 27% |  |
-| 36.5–37.5% | 8% | 12% |  |
-| 37.5–38.5% | 3% | 4% |  |
-| 38.5–39.5% | 0.9% | 1.1% |  |
-| 39.5–40.5% | 0.2% | 0.2% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.5% | 100% |  |
+| 23.5–24.5% | 3% | 99.5% |  |
+| 24.5–25.5% | 11% | 96% |  |
+| 25.5–26.5% | 22% | 86% |  |
+| 26.5–27.5% | 28% | 63% | Median |
+| 27.5–28.5% | 21% | 35% |  |
+| 28.5–29.5% | 10% | 14% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.6% | 0.7% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,7 +66,8 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 3–8 |
+| N/A | [Poll Average](average.html) | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6–7 | 6–7 | 6–8 |
@@ -106,12 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.1% | 100% | Last Result |
-| 4 | 3% | 98.9% |  |
-| 5 | 13% | 96% |  |
-| 6 | 60% | 83% | Median |
-| 7 | 10% | 23% | Majority |
-| 8 | 13% | 13% |  |
-| 9 | 0% | 0% |  |
+| 3 | 6% | 100% | Last Result |
+| 4 | 45% | 94% | Median |
+| 5 | 20% | 48% |  |
+| 6 | 29% | 29% |  |
+| 7 | 0% | 0% | Majority |
 
 
