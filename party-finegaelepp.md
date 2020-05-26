@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| N/A | [Poll Average](average.html) | 34.4% | 20.5–37.2% | 19.8–37.8% | 19.3–38.3% | 18.4–39.4% |
+| [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 36.0% | 34.1–37.9% | 33.5–38.5% | 33.1–39.0% | 32.2–39.9% |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 34.0% | 32.2–35.9% | 31.6–36.4% | 31.2–36.9% | 30.3–37.8% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.2% | 19.5–23.0% | 19.0–23.5% | 18.6–23.9% | 17.9–24.8% |
@@ -42,26 +43,33 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% | Last Result |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.8% | 99.9% |  |
-| 31.5–32.5% | 4% | 99.0% |  |
-| 32.5–33.5% | 11% | 95% |  |
-| 33.5–34.5% | 22% | 84% |  |
-| 34.5–35.5% | 26% | 62% | Median |
-| 35.5–36.5% | 21% | 36% |  |
-| 36.5–37.5% | 11% | 16% |  |
-| 37.5–38.5% | 4% | 5% |  |
-| 38.5–39.5% | 0.9% | 1.1% |  |
-| 39.5–40.5% | 0.1% | 0.2% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.3% |  |
+| 19.5–20.5% | 7% | 96% |  |
+| 20.5–21.5% | 10% | 90% |  |
+| 21.5–22.5% | 8% | 80% | Last Result |
+| 22.5–23.5% | 4% | 72% |  |
+| 23.5–24.5% | 1.2% | 68% |  |
+| 24.5–25.5% | 0.2% | 67% |  |
+| 25.5–26.5% | 0% | 67% |  |
+| 26.5–27.5% | 0% | 67% |  |
+| 27.5–28.5% | 0% | 67% |  |
+| 28.5–29.5% | 0% | 67% |  |
+| 29.5–30.5% | 0% | 67% |  |
+| 30.5–31.5% | 0.3% | 67% |  |
+| 31.5–32.5% | 2% | 66% |  |
+| 32.5–33.5% | 5% | 65% |  |
+| 33.5–34.5% | 11% | 60% | Median |
+| 34.5–35.5% | 16% | 48% |  |
+| 35.5–36.5% | 16% | 33% |  |
+| 36.5–37.5% | 10% | 17% |  |
+| 37.5–38.5% | 5% | 7% |  |
+| 38.5–39.5% | 2% | 2% |  |
+| 39.5–40.5% | 0.3% | 0.4% |  |
+| 40.5–41.5% | 0% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -72,7 +80,8 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–7 | 3–7 | 3–8 | 3–8 |
+| [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3–4 | 3–5 |
@@ -106,11 +115,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 38% | 100% |  |
-| 6 | 11% | 62% |  |
-| 7 | 45% | 51% | Median, Majority |
-| 8 | 6% | 6% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 32% | 99.9% |  |
+| 4 | 1.0% | 68% | Last Result |
+| 5 | 26% | 67% | Median |
+| 6 | 9% | 41% |  |
+| 7 | 28% | 32% | Majority |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 
