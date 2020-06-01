@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 May 2020 22:01:43 +0200</pubDate>
+    <pubDate>Mon, 01 Jun 2020 13:27:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html#seats</link>
@@ -520,14 +520,34 @@
       <dc:date>2020-01-19T09:24:10.971203+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–12 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes-seats.png"
+        length="225732"
+        type="image/png"/>
+      <pubDate>Mon, 01 Jun 2020 13:27:46 +0200</pubDate>
+      <dc:date>2020-06-01T13:27:46.917371+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–12 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes-coalitions-seats.png"
+        length="127231"
+        type="image/png"/>
+      <pubDate>Mon, 01 Jun 2020 13:27:46 +0200</pubDate>
+      <dc:date>2020-06-01T13:27:46.917371+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–12 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 27.1–33.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 24.9–30.7%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 16.5–21.5%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 5.3–8.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.5–3.5%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1.5–3.5%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.3–8.5%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Independent Alliance (*): 3.3–6.0%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Independents (*): 0.1–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2019-11-12-BehaviourandAttitudes.png"
-        length="302030"
+        length="336350"
         type="image/png"/>
-      <pubDate>Mon, 03 Feb 2020 06:50:06 +0100</pubDate>
-      <dc:date>2020-02-03T06:50:06.53761+01:00</dc:date>
+      <pubDate>Mon, 01 Jun 2020 13:27:46 +0200</pubDate>
+      <dc:date>2020-06-01T13:27:46.917371+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 October 2019 – Seat Projections for the Parties</title>
@@ -739,6 +759,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-05-25T22:01:43.144759+02:00</dc:date>
+    <dc:date>2020-06-01T13:27:46.917371+02:00</dc:date>
   </channel>
 </rss>
