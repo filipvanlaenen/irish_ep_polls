@@ -13,7 +13,7 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.4–4.7% | 2.2–5.0% | 1.9–5.5% |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 3.0% | N/A | N/A | N/A | N/A |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.4–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.8% |
@@ -64,7 +64,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
-| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |

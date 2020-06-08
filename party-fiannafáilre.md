@@ -13,7 +13,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 16.4% | 14.3–19.9% | 13.8–20.6% | 13.4–21.2% | 12.7–22.2% |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
-| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 14.0% | N/A | N/A | N/A | N/A |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 18.0% | 16.5–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.2% | 17.6–20.9% | 17.1–21.4% | 16.8–21.9% | 16.0–22.7% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 20.0% | 18.3–21.7% | 17.9–22.2% | 17.5–22.7% | 16.7–23.5% |
@@ -71,7 +71,7 @@ Last result: **1** seats (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 2 | 2 | 2 | 2–4 | 2–4 |
 | [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
