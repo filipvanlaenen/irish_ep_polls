@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Jun 2020 19:14:52 +0200</pubDate>
+    <pubDate>Sat, 06 Jun 2020 23:19:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Red C for Business Post, 21–27 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-27-RedC.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Mon, 25 May 2020 22:01:43 +0200</pubDate>
       <dc:date>2020-05-25T22:01:43.144759+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 23–29 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC-seats.png"
+        length="265265"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jun 2020 23:19:38 +0200</pubDate>
+      <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 23–29 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC-coalitions-seats.png"
+        length="187604"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jun 2020 23:19:38 +0200</pubDate>
+      <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 23–29 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 32.2–38.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Independents (*): 4.1–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC.png"
+        length="302748"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jun 2020 23:19:38 +0200</pubDate>
+      <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 20–25 March 2020 – Seat Projections for the Parties</title>
@@ -759,6 +789,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-06-05T19:14:52.057304+02:00</dc:date>
+    <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
   </channel>
 </rss>
