@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 35–40% <br> 5–8 | 11–15% <br> 1–2 | 5–8% <br> 0–1 | 23–28% <br> 3–6 | 1–3% <br> 0 | N/A <br> N/A | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 32–38% <br> 5–7 | 13–17% <br> 1–2 | 4–7% <br> 0 | 24–30% <br> 3–6 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 33–39% <br> 5–8 | 14–18% <br> 1–2 | 3–5% <br> 0 | 24–30% <br> 3–6 | 3–5% <br> 0 | 1–3% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 32–38% <br> 5–8 | 12–16% <br> 1–2 | 4–7% <br> 0 | 24–30% <br> 3–6 | 2–4% <br> 0 | 1–3% <br> 0 | 6–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 |
