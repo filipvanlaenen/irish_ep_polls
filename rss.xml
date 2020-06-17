@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Jun 2020 23:19:38 +0200</pubDate>
+    <pubDate>Wed, 17 Jun 2020 07:27:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for Irish Times, 14 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-06-14-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 34.6–40.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 11.4–15.2%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 22.9–27.8%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 10.3–14.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 2.3–4.3%&lt;/li&gt;&lt;li&gt;Independents (*): 5.4–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-06-14-IpsosMRBI.png"
+        length="236211"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jun 2020 07:27:29 +0200</pubDate>
+      <dc:date>2020-06-17T07:27:29.633462+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for Business Post, 21–27 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-27-RedC.html#seats</link>
@@ -789,6 +799,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
+    <dc:date>2020-06-17T07:27:29.633462+02:00</dc:date>
   </channel>
 </rss>
