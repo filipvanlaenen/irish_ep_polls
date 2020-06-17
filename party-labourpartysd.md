@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.4–4.7% | 2.2–5.0% | 1.9–5.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.8–4.4% | 1.7–4.7% | 1.5–5.0% | 1.3–5.5% |
+| [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -44,11 +45,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 10% | 100% |  |
-| 2.5–3.5% | 49% | 90% | Median |
-| 3.5–4.5% | 33% | 41% |  |
-| 4.5–5.5% | 7% | 7% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 31% | 97% |  |
+| 2.5–3.5% | 33% | 66% | Median |
+| 3.5–4.5% | 26% | 33% |  |
+| 4.5–5.5% | 6% | 7% | Last Result |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -62,6 +64,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
