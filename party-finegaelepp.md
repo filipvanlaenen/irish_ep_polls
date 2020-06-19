@@ -78,7 +78,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
-| [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
+| [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [21–27 May 2020](2020-05-27-RedC.html) | Red C <br> Business Post | 5 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
@@ -117,8 +117,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 37% | 100% |  |
 | 6 | 15% | 63% | Median |
-| 7 | 33% | 47% | Majority |
-| 8 | 15% | 15% |  |
+| 7 | 31% | 48% | Majority |
+| 8 | 16% | 16% |  |
 | 9 | 0% | 0% |  |
 
 

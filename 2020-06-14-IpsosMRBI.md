@@ -30,7 +30,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 7 | 5–8 |5–8 |5–8 |5–8 |
+| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 7 | 6–8 |5–8 |5–8 |5–8 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 4 | 3–5 |3–6 |3–6 |3–6 |
 | <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
@@ -47,10 +47,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 10% | 100% |  |
-| 6 | 9% | 90% |  |
-| 7 | 45% | 81% | Median, Majority |
-| 8 | 35% | 35% |  |
+| 5 | 8% | 100% |  |
+| 6 | 10% | 92% |  |
+| 7 | 41% | 81% | Median, Majority |
+| 8 | 40% | 40% |  |
 | 9 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -61,10 +61,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 41% | 100% | Last Result |
-| 4 | 45% | 59% | Median |
-| 5 | 6% | 14% |  |
-| 6 | 9% | 9% |  |
+| 3 | 46% | 100% | Last Result |
+| 4 | 40% | 54% | Median |
+| 5 | 6% | 13% |  |
+| 6 | 7% | 7% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Fianna Fáil (RE)
@@ -75,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 97% | 100% | Last Result, Median |
-| 2 | 3% | 3% |  |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -88,8 +88,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 96% | 100% | Median |
-| 2 | 4% | 4% |  |
+| 1 | 95% | 100% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Independents (*)
@@ -100,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Median |
-| 1 | 4% | 4% |  |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -134,7 +134,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fine Gael (EPP) | 4 | 7 | 81% | 5–8 | 5–8 | 5–8 | 5–8 |
+| Fine Gael (EPP) | 4 | 7 | 81% | 6–8 | 5–8 | 5–8 | 5–8 |
 | Fianna Fáil (RE) | 1 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Green Party (Greens/EFA) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 
@@ -145,10 +145,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 10% | 100% |  |
-| 6 | 9% | 90% |  |
-| 7 | 45% | 81% | Median, Majority |
-| 8 | 35% | 35% |  |
+| 5 | 8% | 100% |  |
+| 6 | 10% | 92% |  |
+| 7 | 41% | 81% | Median, Majority |
+| 8 | 40% | 40% |  |
 | 9 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -157,8 +157,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 97% | 100% | Last Result, Median |
-| 2 | 3% | 3% |  |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -168,8 +168,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 96% | 100% | Median |
-| 2 | 4% | 4% |  |
+| 1 | 95% | 100% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -184,6 +184,6 @@
 ### Calculations
 
 + **Sample size:** 1200
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.52%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.62%
 

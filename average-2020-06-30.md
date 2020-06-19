@@ -279,8 +279,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 37% | 100% |  |
 | 6 | 15% | 63% | Median |
-| 7 | 33% | 47% | Majority |
-| 8 | 15% | 15% |  |
+| 7 | 31% | 48% | Majority |
+| 8 | 16% | 16% |  |
 | 9 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -292,7 +292,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 62% | 100% | Last Result, Median |
-| 2 | 37% | 38% |  |
+| 2 | 38% | 38% |  |
 | 3 | 0.3% | 0.4% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -305,8 +305,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 98.9% | 100% | Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -318,10 +318,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 20% | 100% | Last Result |
-| 4 | 40% | 80% | Median |
-| 5 | 19% | 40% |  |
-| 6 | 21% | 21% |  |
+| 3 | 22% | 100% | Last Result |
+| 4 | 38% | 78% | Median |
+| 5 | 20% | 40% |  |
+| 6 | 20% | 20% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Labour Party (S&D)
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 67% | 100% | Last Result, Median |
 | 1 | 32% | 33% |  |
-| 2 | 1.4% | 1.4% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Solidarity–People Before Profit (GUE/NGL)
@@ -411,7 +411,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fine Gael (EPP) | 4 | 6 | 47% | 5–8 | 5–8 | 5–8 | 5–8 |
+| Fine Gael (EPP) | 4 | 6 | 48% | 5–8 | 5–8 | 5–8 | 5–8 |
 | Fianna Fáil (RE) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Green Party (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | Labour Party (S&D) – Social Democrats (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -425,8 +425,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 37% | 100% |  |
 | 6 | 15% | 63% | Median |
-| 7 | 33% | 47% | Majority |
-| 8 | 15% | 15% |  |
+| 7 | 31% | 48% | Majority |
+| 8 | 16% | 16% |  |
 | 9 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -436,7 +436,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 62% | 100% | Last Result, Median |
-| 2 | 37% | 38% |  |
+| 2 | 38% | 38% |  |
 | 3 | 0.3% | 0.4% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -449,7 +449,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 67% | 100% | Last Result, Median |
 | 1 | 32% | 33% |  |
-| 2 | 1.4% | 1.4% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Labour Party (S&D) – Social Democrats (S&D)
@@ -467,6 +467,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 3.66%
