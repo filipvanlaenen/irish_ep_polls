@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Jul 2020 21:06:16 +0200</pubDate>
+    <pubDate>Sun, 05 Jul 2020 22:31:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–20 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks-seats.png"
+        length="266118"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 22:31:23 +0200</pubDate>
+      <dc:date>2020-07-05T22:31:23.617056+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–20 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks-coalitions-seats.png"
+        length="202152"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 22:31:23 +0200</pubDate>
+      <dc:date>2020-07-05T22:31:23.617056+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–20 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-06-20-IrelandThinks.png"
         length="293106"
         type="image/png"/>
-      <pubDate>Sat, 04 Jul 2020 21:06:16 +0200</pubDate>
-      <dc:date>2020-07-04T21:06:16.439291+02:00</dc:date>
+      <pubDate>Sun, 05 Jul 2020 22:31:23 +0200</pubDate>
+      <dc:date>2020-07-05T22:31:23.617056+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for Irish Times, 14 June 2020 – Seat Projections for the Parties</title>
@@ -829,6 +849,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-07-04T21:06:16.439291+02:00</dc:date>
+    <dc:date>2020-07-05T22:31:23.617056+02:00</dc:date>
   </channel>
 </rss>
