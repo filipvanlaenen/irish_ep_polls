@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:37:12 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.png" length="333494" type="image/png"/>
+      <pubDate>Fri, 7 Aug 2020 12:01:29 +0200</pubDate>
+      <dc:date>2020-08-07T12:01:29.799228+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 17–18 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-18-IrelandThinks.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Mail on Sunday, 17–18 July 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-07-18-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-18-IrelandThinks-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-25-BehaviourandAttitudes.png" length="283319" type="image/png"/>
       <pubDate>Mon, 20 Apr 2020 21:41:15 +0200</pubDate>
       <dc:date>2020-04-20T21:41:15.077023+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Amárach Research for Extra.ie, 16 February 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Amárach Research for Extra.ie, 16 February 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch-seating-plan.png" length="327569" type="image/png"/>
-      <pubDate>Fri, 20 Mar 2020 17:54:51 +0100</pubDate>
-      <dc:date>2020-03-20T17:54:51.560164+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Amárach Research for Extra.ie, 16 February 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Amárach Research for Extra.ie, 16 February 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch-seats.png" length="187662" type="image/png"/>
-      <pubDate>Fri, 20 Mar 2020 17:54:51 +0100</pubDate>
-      <dc:date>2020-03-20T17:54:51.560164+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Amárach Research for Extra.ie, 16 February 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Amárach Research for Extra.ie, 16 February 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-02-16-AmárachResearch.png" length="266767" type="image/png"/>
-      <pubDate>Fri, 20 Mar 2020 17:54:51 +0100</pubDate>
-      <dc:date>2020-03-20T17:54:51.560164+01:00</dc:date>
     </item>
   </channel>
 </rss>
