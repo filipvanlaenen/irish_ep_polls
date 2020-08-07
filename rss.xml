@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 Jul 2020 17:19:49 +0200</pubDate>
+    <pubDate>Fri, 07 Aug 2020 12:01:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 25.3–31.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 16.9–22.0%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 26.2–32.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.0–4.2%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.0–4.2%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 4.5–7.6%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Independents (*): 5.0–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.png"
+        length="333494"
+        type="image/png"/>
+      <pubDate>Fri, 07 Aug 2020 12:01:29 +0200</pubDate>
+      <dc:date>2020-08-07T12:01:29.799228+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 17–18 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-18-IrelandThinks.html#seats</link>
@@ -879,6 +889,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-07-22T17:19:49.926068+02:00</dc:date>
+    <dc:date>2020-08-07T12:01:29.799228+02:00</dc:date>
   </channel>
 </rss>
