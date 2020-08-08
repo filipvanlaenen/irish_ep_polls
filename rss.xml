@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Aug 2020 12:01:29 +0200</pubDate>
+    <pubDate>Sat, 08 Aug 2020 09:28:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Renua Ireland (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes-seats.png"
+        length="288807"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 09:28:18 +0200</pubDate>
+      <dc:date>2020-08-08T09:28:18.827143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes-coalitions-seats.png"
+        length="196136"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 09:28:18 +0200</pubDate>
+      <dc:date>2020-08-08T09:28:18.827143+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 17–28 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-07-28-BehaviourandAttitudes.png"
         length="333494"
         type="image/png"/>
-      <pubDate>Fri, 07 Aug 2020 12:01:29 +0200</pubDate>
-      <dc:date>2020-08-07T12:01:29.799228+02:00</dc:date>
+      <pubDate>Sat, 08 Aug 2020 09:28:18 +0200</pubDate>
+      <dc:date>2020-08-08T09:28:18.827143+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 17–18 July 2020 – Seat Projections for the Parties</title>
@@ -889,6 +909,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-08-07T12:01:29.799228+02:00</dc:date>
+    <dc:date>2020-08-08T09:28:18.827143+02:00</dc:date>
   </channel>
 </rss>
