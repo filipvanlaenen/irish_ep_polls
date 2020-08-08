@@ -75,7 +75,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
-| [17–28 July 2020](2020-07-28-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 4–6 |
+| [17–28 July 2020](2020-07-28-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [17–18 July 2020](2020-07-18-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | [19–20 June 2020](2020-06-20-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
@@ -115,9 +115,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 22% | 100% | Last Result |
-| 4 | 26% | 78% |  |
-| 5 | 14% | 52% | Median |
-| 6 | 38% | 38% |  |
+| 4 | 27% | 78% |  |
+| 5 | 16% | 50% | Median |
+| 6 | 35% | 35% |  |
 | 7 | 0% | 0% | Majority |
 
 

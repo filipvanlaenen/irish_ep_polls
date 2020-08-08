@@ -77,7 +77,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [17–28 July 2020](2020-07-28-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [17–28 July 2020](2020-07-28-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
 | [17–18 July 2020](2020-07-18-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 0 | 0 | 0 | 0–1 | 0–1 |
 | [19–20 June 2020](2020-06-20-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 0 | 0 | 0 | 0–1 | 0–1 |
 | [14 June 2020](2020-06-14-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0–1 | 0–1 |
