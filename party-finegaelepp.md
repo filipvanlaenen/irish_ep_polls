@@ -83,7 +83,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–8 | 5–8 | 4–8 | 3–8 |
-| [9 September 2020](2020-09-09-RedC.html) | Red C <br> Business Post | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [9 September 2020](2020-09-09-RedC.html) | Red C <br> Business Post | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [21–22 August 2020](2020-08-22-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 5 | 5 | 5–6 | 5–6 | 5–7 |
 | [17–28 July 2020](2020-07-28-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 5 | 4–5 | 3–5 | 3–5 |
 | [17–18 July 2020](2020-07-18-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
