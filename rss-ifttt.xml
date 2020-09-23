@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:37:12 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.png" length="310915" type="image/png"/>
+      <pubDate>Wed, 23 Sep 2020 18:19:49 +0200</pubDate>
+      <dc:date>2020-09-23T18:19:49.910566+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Red C for Business Post, 9 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-09-RedC.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 9 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-09-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-09-RedC-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-04-29-RedC.png" length="302748" type="image/png"/>
       <pubDate>Sat, 6 Jun 2020 23:19:38 +0200</pubDate>
       <dc:date>2020-06-06T23:19:38.572905+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for The Sunday Business Post, 20–25 March 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for The Sunday Business Post, 20–25 March 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC-seating-plan.png" length="312109" type="image/png"/>
-      <pubDate>Thu, 9 Apr 2020 11:01:44 +0200</pubDate>
-      <dc:date>2020-04-09T11:01:44.208191+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for The Sunday Business Post, 20–25 March 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for The Sunday Business Post, 20–25 March 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC-seats.png" length="198677" type="image/png"/>
-      <pubDate>Thu, 9 Apr 2020 11:01:44 +0200</pubDate>
-      <dc:date>2020-04-09T11:01:44.208191+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for The Sunday Business Post, 20–25 March 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Red C for The Sunday Business Post, 20–25 March 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-03-25-RedC.png" length="274344" type="image/png"/>
-      <pubDate>Thu, 9 Apr 2020 11:01:44 +0200</pubDate>
-      <dc:date>2020-04-09T11:01:44.208191+02:00</dc:date>
     </item>
   </channel>
 </rss>
