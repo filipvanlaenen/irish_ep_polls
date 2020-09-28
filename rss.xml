@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Sep 2020 20:33:31 +0200</pubDate>
+    <pubDate>Sun, 27 Sep 2020 12:38:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 26 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks-seats.png"
+        length="218178"
+        type="image/png"/>
+      <pubDate>Sun, 27 Sep 2020 12:38:28 +0200</pubDate>
+      <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 26 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks-coalitions-seats.png"
+        length="142200"
+        type="image/png"/>
+      <pubDate>Sun, 27 Sep 2020 12:38:28 +0200</pubDate>
+      <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 26 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 29.5–34.6%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 12.2–16.0%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 25.6–30.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Aontú (*): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.5–3.1%&lt;/li&gt;&lt;li&gt;Independents (*): 3.6–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.png"
+        length="307713"
+        type="image/png"/>
+      <pubDate>Sun, 27 Sep 2020 12:38:28 +0200</pubDate>
+      <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html#seats</link>
@@ -999,6 +1029,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-09-23T20:33:31.141852+02:00</dc:date>
+    <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
   </channel>
 </rss>
