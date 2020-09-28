@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-09-23T20:33:31.141852+02:00</updated>
+  <updated>2020-09-27T12:38:28.822706+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 29.5–34.6%, 5 seats</li><li>Fianna Fáil (RE): 12.2–16.0%, 1–2 seats</li><li>Sinn Féin (GUE/NGL): 25.6–30.6%, 5–6 seats</li><li>Labour Party (S&amp;D): 3.0–5.2%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.2–4.1%, 0 seats</li><li>Social Democrats (S&amp;D): 3.9–6.4%, 1–2 seats</li><li>Green Party (Greens/EFA): 3.0–5.2%, 0 seats</li><li>Aontú (*): 2.2–4.1%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 1.5–3.1%, 0 seats</li><li>Independents (*): 3.6–6.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html"/>
+    <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 26 September 2020</title>
+    <updated>2020-09-27T12:38:28.822706+02:00</updated>
+    <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 27.0–33.0%, 4–5 seats</li><li>Fianna Fáil (RE): 16.6–21.7%, 2–4 seats</li><li>Sinn Féin (GUE/NGL): 28.9–35.0%, 6 seats</li><li>Labour Party (S&amp;D): 2.1–4.3%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.5–1.9%, 0 seats</li><li>Social Democrats (S&amp;D): 0.5–1.9%, 0 seats</li><li>Green Party (Greens/EFA): 3.7–6.6%, 0 seats</li><li>Aontú (*): 0.1–0.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 1.9–4.1%, 0 seats</li><li>Independents (*): 4.6–7.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html</id>
@@ -271,5 +279,5 @@
     <updated>2020-03-06T18:12:24.7732+01:00</updated>
     <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
   </entry>
-  <dc:date>2020-09-23T20:33:31.141852+02:00</dc:date>
+  <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
 </feed>
