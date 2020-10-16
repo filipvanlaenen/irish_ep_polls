@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:37:12 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos MRBI for Irish Times, 3–6 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-10-06-IpsosMRBI.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos MRBI for Irish Times, 3–6 October 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-10-06-IpsosMRBI.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-10-06-IpsosMRBI.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-10-06-IpsosMRBI.png" length="286308" type="image/png"/>
+      <pubDate>Fri, 16 Oct 2020 18:29:21 +0200</pubDate>
+      <dc:date>2020-10-16T18:29:21.318019+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 26 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Mail on Sunday, 26 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-27-RedC.png" length="302594" type="image/png"/>
       <pubDate>Fri, 5 Jun 2020 19:14:52 +0200</pubDate>
       <dc:date>2020-06-05T19:14:52.057304+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks-seating-plan.png" length="331873" type="image/png"/>
-      <pubDate>Mon, 25 May 2020 22:01:43 +0200</pubDate>
-      <dc:date>2020-05-25T22:01:43.144759+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks-seats.png" length="257391" type="image/png"/>
-      <pubDate>Mon, 25 May 2020 22:01:43 +0200</pubDate>
-      <dc:date>2020-05-25T22:01:43.144759+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ireland Thinks for Mail on Sunday, 19–23 May 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-05-23-IrelandThinks.png" length="291254" type="image/png"/>
-      <pubDate>Mon, 25 May 2020 22:01:43 +0200</pubDate>
-      <dc:date>2020-05-25T22:01:43.144759+02:00</dc:date>
     </item>
   </channel>
 </rss>
