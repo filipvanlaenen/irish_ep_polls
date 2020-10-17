@@ -81,8 +81,8 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 4–6 | 3–6 |
-| [3–6 October 2020](2020-10-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
+| [3–6 October 2020](2020-10-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 6 | 5–6 | 4–6 | 3–6 |
 | [26 September 2020](2020-09-26-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–15 September 2020](2020-09-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 4–6 |
 | [9 September 2020](2020-09-09-RedC.html) | Red C <br> Business Post | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -126,10 +126,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% | Last Result |
-| 4 | 6% | 98% |  |
-| 5 | 15% | 92% |  |
-| 6 | 77% | 77% | Median |
+| 3 | 3% | 100% | Last Result |
+| 4 | 6% | 97% |  |
+| 5 | 13% | 92% |  |
+| 6 | 78% | 78% | Median |
 | 7 | 0% | 0% | Majority |
 
 
