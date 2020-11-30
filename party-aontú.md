@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 0.9–3.4% | 0.7–3.6% | 0.6–3.8% | 0.5–4.3% |
+| [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [24 October 2020](2020-10-24-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17 October 2020](2020-10-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [3–6 October 2020](2020-10-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -73,6 +74,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [24 October 2020](2020-10-24-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [17 October 2020](2020-10-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [3–6 October 2020](2020-10-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
