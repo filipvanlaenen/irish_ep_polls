@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 06 Dec 2020 15:24:51 +0100</pubDate>
+    <pubDate>Mon, 21 Dec 2020 14:44:32 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes-seats.png"
+        length="262763"
+        type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 14:44:32 +0100</pubDate>
+      <dc:date>2020-12-21T14:44:32.787347+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes-coalitions-seats.png"
+        length="175035"
+        type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 14:44:32 +0100</pubDate>
+      <dc:date>2020-12-21T14:44:32.787347+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 24.4–30.2%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 19.6–25.0%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 29.2–35.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Independents (*): 3.5–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-12-15-BehaviourandAttitudes.png"
+        length="312400"
+        type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 14:44:32 +0100</pubDate>
+      <dc:date>2020-12-21T14:44:32.787347+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 29 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-11-29-IrelandThinks.html#seats</link>
@@ -1179,6 +1209,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2020-12-06T15:24:51.198811+01:00</dc:date>
+    <dc:date>2020-12-21T14:44:32.787347+01:00</dc:date>
   </channel>
 </rss>
