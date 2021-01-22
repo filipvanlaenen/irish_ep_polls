@@ -10,7 +10,8 @@ Last result: **4.9%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.9–5.3% | 2.6–5.7% | 2.4–6.0% | 2.1–6.6% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.6–5.4% | 2.4–5.8% | 2.2–6.1% | 2.0–6.7% |
+| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.5% |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.4–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.8% |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.9% | 3.2–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.7% |
 | [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -59,12 +60,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 26% | 96% |  |
-| 3.5–4.5% | 41% | 71% | Median |
-| 4.5–5.5% | 22% | 29% | Last Result |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 44% | 91% | Median |
+| 3.5–4.5% | 21% | 47% |  |
+| 4.5–5.5% | 18% | 26% | Last Result |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |

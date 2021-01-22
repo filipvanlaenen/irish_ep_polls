@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.0% | 11.8–22.5% | 11.2–23.4% | 10.8–24.0% | 10.1–25.1% |
+| N/A | [Poll Average](average.html) | 15.2% | 11.5–22.9% | 11.0–23.6% | 10.6–24.2% | 9.9–25.3% |
+| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 15.2% | 13.9–16.5% | 13.6–16.9% | 13.3–17.3% | 12.7–17.9% |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 22.2% | 20.5–24.0% | 20.0–24.5% | 19.6–25.0% | 18.8–25.9% |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 16.9% | 15.4–18.4% | 15.0–18.9% | 14.7–19.3% | 14.1–20.0% |
 | [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
@@ -59,24 +60,24 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 1.5% | 99.9% |  |
-| 10.5–11.5% | 6% | 98% |  |
-| 11.5–12.5% | 9% | 92% |  |
-| 12.5–13.5% | 6% | 83% |  |
-| 13.5–14.5% | 2% | 77% |  |
-| 14.5–15.5% | 4% | 75% |  |
-| 15.5–16.5% | 13% | 70% |  |
-| 16.5–17.5% | 17% | 57% | Median |
-| 17.5–18.5% | 11% | 40% |  |
-| 18.5–19.5% | 4% | 29% |  |
-| 19.5–20.5% | 3% | 25% |  |
-| 20.5–21.5% | 5% | 22% |  |
-| 21.5–22.5% | 7% | 17% | Last Result |
-| 22.5–23.5% | 6% | 10% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.9% | 1.2% |  |
-| 25.5–26.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 2% | 99.8% |  |
+| 10.5–11.5% | 8% | 98% |  |
+| 11.5–12.5% | 12% | 90% |  |
+| 12.5–13.5% | 9% | 77% |  |
+| 13.5–14.5% | 9% | 68% |  |
+| 14.5–15.5% | 13% | 58% | Median |
+| 15.5–16.5% | 9% | 46% |  |
+| 16.5–17.5% | 3% | 37% |  |
+| 17.5–18.5% | 0.5% | 34% |  |
+| 18.5–19.5% | 0.7% | 33% |  |
+| 19.5–20.5% | 3% | 33% |  |
+| 20.5–21.5% | 7% | 30% |  |
+| 21.5–22.5% | 10% | 23% | Last Result |
+| 22.5–23.5% | 8% | 13% |  |
+| 23.5–24.5% | 4% | 6% |  |
+| 24.5–25.5% | 1.3% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.3% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -88,7 +89,8 @@ Last result: **1** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 2 | 1–2 | 1–2 | 1–3 | 1–4 |
 | [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 1 |
@@ -139,10 +141,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 31% | 99.9% | Last Result |
-| 2 | 45% | 69% | Median |
-| 3 | 7% | 24% |  |
-| 4 | 17% | 17% |  |
+| 1 | 60% | 99.9% | Last Result, Median |
+| 2 | 10% | 40% |  |
+| 3 | 8% | 30% |  |
+| 4 | 21% | 21% |  |
 | 5 | 0% | 0% |  |
 
 
