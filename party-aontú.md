@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 0.2–4.4% | 0.1–4.7% | 0.1–4.9% | 0.1–5.4% |
+| [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.3% | 2.8–5.7% |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.9% | 3.2–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.7% |
@@ -78,6 +79,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
