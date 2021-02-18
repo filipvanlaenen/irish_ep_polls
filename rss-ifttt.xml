@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.png" length="303567" type="image/png"/>
+      <pubDate>Thu, 18 Feb 2021 08:16:33 +0100</pubDate>
+      <dc:date>2021-02-18T08:16:33.504229+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Red C for Business Post, 21–28 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-01-28-RedC.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 21–28 January 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-01-28-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-01-28-RedC-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-26-IrelandThinks.png" length="307713" type="image/png"/>
       <pubDate>Sun, 27 Sep 2020 12:38:28 +0200</pubDate>
       <dc:date>2020-09-27T12:38:28.822706+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes-seating-plan.png" length="307042" type="image/png"/>
-      <pubDate>Wed, 23 Sep 2020 20:33:31 +0200</pubDate>
-      <dc:date>2020-09-23T20:33:31.141852+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes-seats.png" length="221556" type="image/png"/>
-      <pubDate>Wed, 23 Sep 2020 20:33:31 +0200</pubDate>
-      <dc:date>2020-09-23T20:33:31.141852+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Behaviour and Attitudes for The Sunday Times, 4–15 September 2020<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2020-09-15-BehaviourandAttitudes.png" length="310915" type="image/png"/>
-      <pubDate>Wed, 23 Sep 2020 20:33:31 +0200</pubDate>
-      <dc:date>2020-09-23T20:33:31.141852+02:00</dc:date>
     </item>
   </channel>
 </rss>
