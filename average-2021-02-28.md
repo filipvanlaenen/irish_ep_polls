@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 24–31% <br> 3–5 | 14–24% <br> 1–4 | 4–8% <br> 0 | 25–34% <br> 5–6 | 2–6% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–7% <br> 0–2 | 2–4% <br> 0 | 0–3% <br> 0 |
-| [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24–30% <br> 4–5 | 13–18% <br> 1–2 | 5–8% <br> 0–1 | 26–32% <br> 5–6 | 4–7% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A |
+| [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24–30% <br> 5 | 13–18% <br> 1–2 | 5–8% <br> 0 | 26–32% <br> 5–6 | 4–7% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 26–32% <br> 5 | 14–18% <br> 1–2 | 5–8% <br> 0 | 24–30% <br> 4–6 | 2–4% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24–30% <br> 3–5 | 20–25% <br> 2–4 | 4–6% <br> 0 | 29–35% <br> 5–6 | 4–7% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -276,7 +276,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 19% | 100% |  |
-| 4 | 12% | 81% | Last Result |
+| 4 | 11% | 81% | Last Result |
 | 5 | 70% | 70% | Median |
 | 6 | 0% | 0% |  |
 
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 34% | 65% | Median |
+| 1 | 37% | 100% | Last Result |
+| 2 | 32% | 63% | Median |
 | 3 | 9% | 31% |  |
 | 4 | 22% | 22% |  |
 | 5 | 0% | 0% |  |
@@ -302,8 +302,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 99.1% | 100% | Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% | Last Result |
 | 4 | 1.3% | 99.7% |  |
-| 5 | 55% | 98% | Median |
-| 6 | 43% | 43% |  |
+| 5 | 53% | 98% | Median |
+| 6 | 45% | 45% |  |
 | 7 | 0% | 0% | Majority |
 
 ### Labour Party (S&D)
@@ -373,7 +373,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
 | 1 | 44% | 67% | Median |
-| 2 | 23% | 23% |  |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 ### Independents 4 Change (GUE/NGL)
@@ -417,7 +417,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 19% | 100% |  |
-| 4 | 12% | 81% | Last Result |
+| 4 | 11% | 81% | Last Result |
 | 5 | 70% | 70% | Median |
 | 6 | 0% | 0% |  |
 
@@ -427,8 +427,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 34% | 65% | Median |
+| 1 | 37% | 100% | Last Result |
+| 2 | 32% | 63% | Median |
 | 3 | 9% | 31% |  |
 | 4 | 22% | 22% |  |
 | 5 | 0% | 0% |  |
@@ -441,7 +441,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
 | 1 | 44% | 67% | Median |
-| 2 | 23% | 23% |  |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -456,6 +456,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
-+ **Error estimate:** 2.67%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.49%
