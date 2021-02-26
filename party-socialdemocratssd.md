@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 0.9–6.7% | 0.7–7.0% | 0.6–7.4% | 0.5–8.0% |
+| N/A | [Poll Average](average.html) | 4.0% | 1.0–6.5% | 0.8–6.9% | 0.7–7.2% | 0.5–7.9% |
+| [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.1% | 4.3–5.9% | 4.1–6.2% | 4.0–6.4% | 3.6–6.9% |
@@ -61,15 +62,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% | Last Result |
-| 0.5–1.5% | 29% | 98.9% |  |
-| 1.5–2.5% | 3% | 70% |  |
-| 2.5–3.5% | 0.3% | 67% |  |
-| 3.5–4.5% | 8% | 66% |  |
-| 4.5–5.5% | 23% | 59% | Median |
-| 5.5–6.5% | 24% | 36% |  |
-| 6.5–7.5% | 10% | 12% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 0.0–0.5% | 0.8% | 100% | Last Result |
+| 0.5–1.5% | 22% | 99.2% |  |
+| 1.5–2.5% | 6% | 77% |  |
+| 2.5–3.5% | 17% | 72% |  |
+| 3.5–4.5% | 10% | 54% | Median |
+| 4.5–5.5% | 17% | 44% |  |
+| 5.5–6.5% | 18% | 27% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 1.1% | 1.2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -135,9 +137,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 44% | 67% | Median |
-| 2 | 22% | 22% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 56% | 73% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 
