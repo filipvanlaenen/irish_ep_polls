@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.1–4.6% | 1.9–4.9% | 1.7–5.2% | 1.4–5.7% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.1–4.7% | 1.9–5.0% | 1.7–5.2% | 1.4–5.7% |
+| [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.1% |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
@@ -64,11 +65,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 24% | 98.6% |  |
-| 2.5–3.5% | 41% | 74% | Median |
-| 3.5–4.5% | 23% | 33% |  |
-| 4.5–5.5% | 9% | 10% |  |
-| 5.5–6.5% | 0.8% | 0.9% |  |
+| 1.5–2.5% | 22% | 98.6% |  |
+| 2.5–3.5% | 34% | 77% | Median |
+| 3.5–4.5% | 31% | 43% |  |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -81,6 +82,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |

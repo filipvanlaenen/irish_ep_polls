@@ -11,6 +11,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.3% | 25.8–30.8% | 25.2–31.4% | 24.7–31.9% | 23.8–32.9% |
+| [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.7% | 26.7–33.5% |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 26.8% | 25.1–28.6% | 24.6–29.1% | 24.2–29.5% | 23.4–30.4% |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -87,6 +88,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 5 | 5 | 5 | 4–5 |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 5 | 5 | 5 | 5 | 5 |
@@ -141,8 +143,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 14% | 100% |  |
-| 4 | 11% | 86% | Last Result |
-| 5 | 74% | 75% | Median |
+| 4 | 16% | 86% | Last Result |
+| 5 | 69% | 70% | Median |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% | Majority |
 
