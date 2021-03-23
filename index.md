@@ -5,11 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 3–5 | 12–24% <br> 1–4 | 4–10% <br> 0–1 | 26–34% <br> 4–6 | 2–6% <br> 0 | 1–4% <br> 0 | 2–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–8% <br> 0–2 | 2–5% <br> 0 | 0–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 25–32% <br> 4–5 | 12–16% <br> 1–2 | 4–11% <br> 0–1 | 26–33% <br> 4–6 | 2–6% <br> 0 | 1–4% <br> 0 | 2–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–8% <br> 0–2 | 2–5% <br> 0 | 1–4% <br> 0 |
+| [20 March 2021](2021-03-20-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24–30% <br> 5 | 12–16% <br> 1 | 4–7% <br> 0 | 28–34% <br> 5–6 | 4–6% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 |
 | [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 26–32% <br> 4–5 | 11–15% <br> 1 | 6–10% <br> 0–1 | 26–32% <br> 4–6 | 3–5% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 3–5% <br> 0 | 1–3% <br> 0 |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 27–33% <br> 4–5 | 12–16% <br> 1–2 | 8–11% <br> 0–1 | 26–31% <br> 4–6 | 2–4% <br> 0 | 1–2% <br> 0 | 5–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 3–6% <br> 0 | 1–2% <br> 0 |
-| [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24–30% <br> 5 | 13–18% <br> 1–2 | 5–8% <br> 0 | 26–32% <br> 5–6 | 4–7% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A |
-| [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24–30% <br> 3–5 | 20–25% <br> 2–4 | 4–6% <br> 0 | 29–35% <br> 5–6 | 4–7% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
