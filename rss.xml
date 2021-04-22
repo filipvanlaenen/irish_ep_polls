@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 29 Mar 2021 21:00:22 +0200</pubDate>
+    <pubDate>Thu, 22 Apr 2021 19:45:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 14–15 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-04-15-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 23.5–28.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 13.9–18.3%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Aontú (*): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Independents (*): 5.3–8.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-04-15-IrelandThinks.png"
+        length="318994"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 19:45:24 +0200</pubDate>
+      <dc:date>2021-04-22T19:45:24.092737+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for Business Post, 19–25 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-03-25-RedC.html#seats</link>
@@ -1419,6 +1429,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2021-03-29T21:00:22.928987+02:00</dc:date>
+    <dc:date>2021-04-22T19:45:24.092737+02:00</dc:date>
   </channel>
 </rss>
