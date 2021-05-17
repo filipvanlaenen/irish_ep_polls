@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–4.3% | 0.8–4.7% | 0.7–4.9% | 0.5–5.4% |
+| N/A | [Poll Average](average.html) | 2.1% | 0.9–4.3% | 0.8–4.6% | 0.7–4.9% | 0.5–5.3% |
+| [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | 3.3–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [14–15 April 2021](2021-04-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.7–5.7% |
 | [19–25 March 2021](2021-03-25-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -70,10 +71,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0.6% | 100% | Last Result |
 | 0.5–1.5% | 33% | 99.4% |  |
 | 1.5–2.5% | 27% | 66% | Median |
-| 2.5–3.5% | 13% | 39% |  |
-| 3.5–4.5% | 20% | 26% |  |
+| 2.5–3.5% | 12% | 39% |  |
+| 3.5–4.5% | 21% | 27% |  |
 | 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -86,6 +87,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [14–15 April 2021](2021-04-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [19–25 March 2021](2021-03-25-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
