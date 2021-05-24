@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 17 May 2021 17:53:28 +0200</pubDate>
+    <pubDate>Mon, 24 May 2021 12:37:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–18 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes-seats.png"
+        length="293304"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 12:37:53 +0200</pubDate>
+      <dc:date>2021-05-24T12:37:53.609065+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–18 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes-coalitions-seats.png"
+        length="221236"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 12:37:53 +0200</pubDate>
+      <dc:date>2021-05-24T12:37:53.609065+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–18 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 25.2–31.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 19.4–24.8%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 27.1–33.0%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.8–6.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Independents (*): 4.0–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-18-BehaviourandAttitudes.png"
+        length="299639"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 12:37:53 +0200</pubDate>
+      <dc:date>2021-05-24T12:37:53.609065+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 15 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-15-IrelandThinks.html#seats</link>
@@ -1509,6 +1539,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2021-05-17T17:53:28.99809+02:00</dc:date>
+    <dc:date>2021-05-24T12:37:53.609065+02:00</dc:date>
   </channel>
 </rss>
