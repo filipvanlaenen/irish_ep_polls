@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.7% | 2.4–5.0% | 2.2–5.3% | 2.0–5.8% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.6% | 2.1–4.9% | 1.9–5.2% | 1.6–5.7% |
+| [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2.5% | 2.0–3.3% | 1.8–3.6% | 1.7–3.7% | 1.4–4.2% |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.0–3.9% | 1.8–4.3% |
 | [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
 | [14–15 April 2021](2021-04-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.1% | 2.5–3.9% | 2.4–4.1% | 2.2–4.3% | 2.0–4.8% |
@@ -69,12 +70,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 42% | 91% |  |
-| 3.5–4.5% | 35% | 49% | Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 1.1% | 1.2% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 18% | 99.7% |  |
+| 2.5–3.5% | 43% | 82% | Median |
+| 3.5–4.5% | 27% | 38% |  |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.9% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [14–15 April 2021](2021-04-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
