@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 03 Jun 2021 16:54:45 +0200</pubDate>
+    <pubDate>Tue, 15 Jun 2021 08:01:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behavior and Attitudes for The Sunday Times, 28 May–8 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 21.3–26.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 17.5–22.8%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 31.0–37.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.0–4.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Independents (*): 4.6–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.png"
+        length="309207"
+        type="image/png"/>
+      <pubDate>Tue, 15 Jun 2021 08:01:18 +0200</pubDate>
+      <dc:date>2021-06-15T08:01:18.740138+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for Business Post, 21–27 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html#seats</link>
@@ -1569,6 +1579,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2021-06-03T16:54:45.537836+02:00</dc:date>
+    <dc:date>2021-06-15T08:01:18.740138+02:00</dc:date>
   </channel>
 </rss>
