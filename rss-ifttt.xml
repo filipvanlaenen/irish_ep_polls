@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Behavior and Attitudes for The Sunday Times, 28 May–8 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Behavior and Attitudes for The Sunday Times, 28 May–8 June 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviorandAttitudes.png" length="309207" type="image/png"/>
+      <pubDate>Tue, 15 Jun 2021 08:01:18 +0200</pubDate>
+      <dc:date>2021-06-15T08:01:18.740138+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Red C for Business Post, 21–27 May 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 21–27 May 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-23-IpsosMRBI.png" length="306070" type="image/png"/>
       <pubDate>Fri, 26 Feb 2021 17:37:17 +0100</pubDate>
       <dc:date>2021-02-26T17:37:17.409355+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks-seating-plan.png" length="320247" type="image/png"/>
-      <pubDate>Fri, 19 Feb 2021 08:05:17 +0100</pubDate>
-      <dc:date>2021-02-19T08:05:17.233836+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks-seats.png" length="211359" type="image/png"/>
-      <pubDate>Fri, 19 Feb 2021 08:05:17 +0100</pubDate>
-      <dc:date>2021-02-19T08:05:17.233836+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ireland Thinks for Irish Mail on Sunday, 12 February 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-02-12-IrelandThinks.png" length="303567" type="image/png"/>
-      <pubDate>Fri, 19 Feb 2021 08:05:17 +0100</pubDate>
-      <dc:date>2021-02-19T08:05:17.233836+01:00</dc:date>
     </item>
   </channel>
 </rss>
