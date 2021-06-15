@@ -10,7 +10,8 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.8–31.6% | 27.3–32.2% | 26.8–32.6% | 25.9–33.6% |
+| N/A | [Poll Average](average.html) | 30.3% | 28.1–34.4% | 27.5–35.4% | 27.0–36.1% | 26.1–37.3% |
+| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 34.0% | 32.0–36.1% | 31.5–36.6% | 31.0–37.1% | 30.1–38.1% |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 29.0% | 27.3–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 30.0% | 28.1–32.0% | 27.6–32.5% | 27.1–33.0% | 26.2–34.0% |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 30.0% | 28.3–31.7% | 27.9–32.2% | 27.5–32.6% | 26.7–33.4% |
@@ -76,17 +77,21 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.4% | 99.8% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 14% | 93% |  |
-| 28.5–29.5% | 24% | 78% |  |
-| 29.5–30.5% | 26% | 54% | Median |
-| 30.5–31.5% | 18% | 28% |  |
-| 31.5–32.5% | 8% | 11% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.5% | 0.5% |  |
-| 34.5–35.5% | 0.1% | 0.1% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 25.5–26.5% | 1.1% | 99.8% |  |
+| 26.5–27.5% | 4% | 98.8% |  |
+| 27.5–28.5% | 11% | 94% |  |
+| 28.5–29.5% | 18% | 84% |  |
+| 29.5–30.5% | 19% | 65% | Median |
+| 30.5–31.5% | 14% | 46% |  |
+| 31.5–32.5% | 9% | 32% |  |
+| 32.5–33.5% | 7% | 23% |  |
+| 33.5–34.5% | 7% | 16% |  |
+| 34.5–35.5% | 5% | 9% |  |
+| 35.5–36.5% | 3% | 4% |  |
+| 36.5–37.5% | 1.1% | 1.4% |  |
+| 37.5–38.5% | 0.3% | 0.3% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,6 +103,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 5 | 5–6 | 5–6 | 5–6 |
@@ -159,10 +165,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% | Last Result |
-| 4 | 4% | 99.6% |  |
-| 5 | 47% | 95% | Median |
-| 6 | 49% | 49% |  |
-| 7 | 0% | 0% | Majority |
+| 3 | 0.3% | 100% | Last Result |
+| 4 | 3% | 99.7% |  |
+| 5 | 53% | 97% | Median |
+| 6 | 44% | 44% |  |
+| 7 | 0.1% | 0.1% | Majority |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
