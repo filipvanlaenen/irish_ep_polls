@@ -33,9 +33,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 5 | 5–6 |5–6 |5–6 |5–6 |
-| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 3 | 2–5 |2–5 |2–5 |2–5 |
-| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 4 | 2–4 |2–4 |2–4 |1–4 |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 5 | 5–6 |5–6 |5–6 |5–7 |
+| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 3 | 3–5 |2–5 |2–5 |2–5 |
+| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 4 | 2–4 |1–4 |1–4 |1–4 |
 | <a href="#independents-(*)">Independents (*)</a> | 3 | 0 | 0 |0 |0 |0 |
 | <a href="#social-democrats-(s&d)">Social Democrats (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -54,10 +54,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 70% | 100% | Median |
-| 6 | 30% | 30% |  |
-| 7 | 0.2% | 0.4% | Majority |
-| 8 | 0.3% | 0.3% |  |
+| 5 | 60% | 100% | Median |
+| 6 | 39% | 40% |  |
+| 7 | 0.7% | 0.9% | Majority |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -68,10 +68,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% |  |
-| 3 | 70% | 88% | Median |
-| 4 | 6% | 18% | Last Result |
-| 5 | 13% | 13% |  |
+| 2 | 6% | 100% |  |
+| 3 | 45% | 94% | Median |
+| 4 | 21% | 49% | Last Result |
+| 5 | 28% | 28% |  |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -82,10 +82,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 17% | 98% |  |
-| 3 | 0.6% | 82% |  |
-| 4 | 81% | 81% | Median |
+| 1 | 9% | 100% | Last Result |
+| 2 | 22% | 91% |  |
+| 3 | 19% | 69% |  |
+| 4 | 50% | 50% | Median |
 | 5 | 0% | 0% |  |
 
 ### Independents (*)
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 88% | 88% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 77% | 77% | Median |
 | 2 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -172,8 +172,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fine Gael (EPP) | 4 | 3 | 0% | 2–5 | 2–5 | 2–5 | 2–5 |
-| Fianna Fáil (RE) | 1 | 4 | 0% | 2–4 | 2–4 | 2–4 | 1–4 |
+| Fine Gael (EPP) | 4 | 3 | 0% | 3–5 | 2–5 | 2–5 | 2–5 |
+| Fianna Fáil (RE) | 1 | 4 | 0% | 2–4 | 1–4 | 1–4 | 1–4 |
 | Social Democrats (S&D) – Labour Party (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -183,10 +183,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% |  |
-| 3 | 70% | 88% | Median |
-| 4 | 6% | 18% | Last Result |
-| 5 | 13% | 13% |  |
+| 2 | 6% | 100% |  |
+| 3 | 45% | 94% | Median |
+| 4 | 21% | 49% | Last Result |
+| 5 | 28% | 28% |  |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -195,10 +195,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 17% | 98% |  |
-| 3 | 0.6% | 82% |  |
-| 4 | 81% | 81% | Median |
+| 1 | 9% | 100% | Last Result |
+| 2 | 22% | 91% |  |
+| 3 | 19% | 69% |  |
+| 4 | 50% | 50% | Median |
 | 5 | 0% | 0% |  |
 
 ### Social Democrats (S&D) – Labour Party (S&D)
@@ -207,8 +207,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 88% | 88% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 77% | 77% | Median |
 | 2 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -231,6 +231,6 @@
 ### Calculations
 
 + **Sample size:** 909
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.50%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.07%
 
