@@ -10,9 +10,9 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.0% | 12.8–22.6% | 12.2–23.3% | 11.8–23.8% | 11.0–24.9% |
+| N/A | [Poll Average](average.html) | 19.2% | 13.0–22.3% | 12.4–23.1% | 11.9–23.7% | 11.1–24.8% |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
-| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 14.8% | N/A | N/A | N/A | N/A |
+| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 14.8% | 13.6–16.2% | 13.3–16.6% | 13.0–16.9% | 12.4–17.6% |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 20.0% | 18.4–21.8% | 17.9–22.3% | 17.5–22.8% | 16.8–23.6% |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -76,22 +76,22 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 2% | 99.9% |  |
-| 11.5–12.5% | 6% | 98% |  |
-| 12.5–13.5% | 9% | 92% |  |
-| 13.5–14.5% | 6% | 83% |  |
-| 14.5–15.5% | 2% | 77% |  |
-| 15.5–16.5% | 0.4% | 75% |  |
-| 16.5–17.5% | 0.9% | 75% |  |
-| 17.5–18.5% | 5% | 74% |  |
-| 18.5–19.5% | 12% | 69% |  |
-| 19.5–20.5% | 18% | 57% | Median |
-| 20.5–21.5% | 17% | 39% |  |
-| 21.5–22.5% | 12% | 22% | Last Result |
-| 22.5–23.5% | 6% | 10% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.8% | 0.9% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
+| 10.5–11.5% | 1.2% | 99.9% |  |
+| 11.5–12.5% | 5% | 98.7% |  |
+| 12.5–13.5% | 9% | 94% |  |
+| 13.5–14.5% | 11% | 85% |  |
+| 14.5–15.5% | 9% | 74% |  |
+| 15.5–16.5% | 4% | 65% |  |
+| 16.5–17.5% | 2% | 61% |  |
+| 17.5–18.5% | 4% | 59% |  |
+| 18.5–19.5% | 10% | 56% | Median |
+| 19.5–20.5% | 15% | 46% |  |
+| 20.5–21.5% | 14% | 31% |  |
+| 21.5–22.5% | 9% | 17% | Last Result |
+| 22.5–23.5% | 5% | 8% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.6% | 0.7% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -105,7 +105,7 @@ Last result: **1** seats (General Election of 24 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 1–2 |
-| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday |  |  |  |  |  |
+| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1 | 1 | 1 | 1–2 |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -169,10 +169,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% | Last Result |
-| 2 | 25% | 73% | Median |
-| 3 | 14% | 48% |  |
-| 4 | 33% | 33% |  |
+| 1 | 41% | 100% | Last Result |
+| 2 | 20% | 59% | Median |
+| 3 | 11% | 38% |  |
+| 4 | 27% | 27% |  |
 | 5 | 0% | 0% |  |
 
 
