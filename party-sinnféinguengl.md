@@ -105,9 +105,9 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6 | 6 | 6 | 6 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6 | 6 | 6 | 5–6 | 5–7 |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 6 | 5–6 | 5–6 | 4–6 |
 | [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -173,9 +173,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% | Last Result |
 | 4 | 3% | 99.7% |  |
-| 5 | 20% | 97% |  |
-| 6 | 77% | 77% | Median |
-| 7 | 0.2% | 0.3% | Majority |
+| 5 | 22% | 97% |  |
+| 6 | 74% | 75% | Median |
+| 7 | 0.6% | 0.6% | Majority |
 | 8 | 0% | 0% |  |
 
 
