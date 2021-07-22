@@ -10,11 +10,13 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.2% | 13.0–22.3% | 12.4–23.1% | 11.9–23.7% | 11.1–24.8% |
+| N/A | [Poll Average](average.html) | 16.9% | 12.6–21.1% | 12.1–21.6% | 11.7–22.1% | 11.0–22.9% |
+| [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 14.8% | 13.6–16.2% | 13.3–16.6% | 13.0–16.9% | 12.4–17.6% |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
-| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 20.0% | 18.4–21.8% | 17.9–22.3% | 17.5–22.8% | 16.8–23.6% |
+| [28 May–8 June 2021](2021-06-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 20.0% | 18.4–21.8% | 17.9–22.3% | 17.5–22.8% | 16.8–23.6% |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 22.0% | 20.3–23.8% | 19.8–24.3% | 19.4–24.8% | 18.6–25.7% |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 15.0% | 13.8–16.4% | 13.4–16.8% | 13.2–17.1% | 12.6–17.8% |
@@ -76,23 +78,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.2% | 99.9% |  |
-| 11.5–12.5% | 5% | 98.7% |  |
-| 12.5–13.5% | 9% | 94% |  |
-| 13.5–14.5% | 11% | 85% |  |
-| 14.5–15.5% | 9% | 74% |  |
-| 15.5–16.5% | 4% | 65% |  |
-| 16.5–17.5% | 2% | 61% |  |
-| 17.5–18.5% | 4% | 59% |  |
-| 18.5–19.5% | 10% | 56% | Median |
-| 19.5–20.5% | 15% | 46% |  |
-| 20.5–21.5% | 14% | 31% |  |
-| 21.5–22.5% | 9% | 17% | Last Result |
-| 22.5–23.5% | 5% | 8% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.6% | 0.7% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 10.5–11.5% | 2% | 99.9% |  |
+| 11.5–12.5% | 8% | 98% |  |
+| 12.5–13.5% | 15% | 90% |  |
+| 13.5–14.5% | 15% | 75% |  |
+| 14.5–15.5% | 8% | 60% |  |
+| 15.5–16.5% | 2% | 53% |  |
+| 16.5–17.5% | 1.1% | 50% | Median |
+| 17.5–18.5% | 4% | 49% |  |
+| 18.5–19.5% | 12% | 45% |  |
+| 19.5–20.5% | 16% | 33% |  |
+| 20.5–21.5% | 11% | 17% |  |
+| 21.5–22.5% | 4% | 5% | Last Result |
+| 22.5–23.5% | 0.9% | 1.1% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -104,10 +104,12 @@ Last result: **1** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1–2 | 1–2 |
 | [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1 | 1 | 1 | 1–2 |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
+| [28 May–8 June 2021](2021-06-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 1 | 1 | 1 | 1 | 1–2 |
@@ -169,10 +171,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 41% | 100% | Last Result |
-| 2 | 21% | 59% | Median |
-| 3 | 11% | 38% |  |
-| 4 | 27% | 27% |  |
+| 1 | 48% | 100% | Last Result |
+| 2 | 21% | 52% | Median |
+| 3 | 17% | 31% |  |
+| 4 | 14% | 14% |  |
 | 5 | 0% | 0% |  |
 
 

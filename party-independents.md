@@ -10,11 +10,13 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 4.8–8.1% | 4.5–8.6% | 4.3–9.0% | 3.9–9.8% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.4–8.3% | 4.1–8.8% | 3.8–9.1% | 3.4–9.9% |
+| [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.6% | 3.8–5.6% | 3.6–5.8% | 3.5–6.1% | 3.1–6.6% |
+| [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 7.9% | 7.0–9.1% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6.6% | 5.8–7.6% | 5.5–7.8% | 5.3–8.1% | 5.0–8.6% |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 5.3% | 4.6–6.3% | 4.4–6.5% | 4.2–6.8% | 3.9–7.2% |
-| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 5.9% | 5.0–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.3% |
+| [28 May–8 June 2021](2021-06-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.9% | 5.0–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.3% |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.3% | 4.4–6.3% | 4.2–6.6% | 4.0–6.9% | 3.6–7.5% |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.5% | 4.4–7.9% |
@@ -74,14 +76,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 26% | 95% |  |
-| 5.5–6.5% | 32% | 69% | Median |
-| 6.5–7.5% | 20% | 37% |  |
-| 7.5–8.5% | 12% | 17% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.9% | 100% |  |
+| 3.5–4.5% | 12% | 99.1% |  |
+| 4.5–5.5% | 26% | 87% |  |
+| 5.5–6.5% | 22% | 61% | Median |
+| 6.5–7.5% | 18% | 39% |  |
+| 7.5–8.5% | 14% | 21% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 1.0% | 1.0% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -102,11 +105,13 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
+| [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
 | [26 June 2021](2021-06-26-RedC.html) | Red C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19 June 2021](2021-06-19-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–15 June 2021](2021-06-15-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
-| [28 May–8 June 2021](2021-06-08-BehaviorandAttitudes.html) | Behavior and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [28 May–8 June 2021](2021-06-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0–1 |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 0 | 0 | 0 | 0 | 0–1 |
