@@ -10,7 +10,9 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 23.4–30.4% | 22.8–31.3% | 22.3–31.9% | 21.5–33.0% |
+| N/A | [Poll Average](average.html) | 25.6% | 22.5–29.0% | 21.9–29.7% | 21.4–30.2% | 20.5–31.3% |
+| [3–9 September 2021](2021-09-09-RedC.html) | Red C <br> Business Post | 28.3% | 26.6–30.2% | 26.1–30.7% | 25.7–31.2% | 24.8–32.1% |
+| [26 August–8 September 2021](2021-09-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.2% | 21.4–25.1% | 21.0–25.7% | 20.6–26.1% | 19.8–27.0% |
 | [21 August 2021](2021-08-21-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24.0% | 22.5–25.7% | 22.1–26.1% | 21.7–26.5% | 21.0–27.3% |
 | [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
 | [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
@@ -77,22 +79,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.5% | 100% |  |
-| 21.5–22.5% | 3% | 99.4% | Last Result |
-| 22.5–23.5% | 9% | 96% |  |
-| 23.5–24.5% | 14% | 88% |  |
-| 24.5–25.5% | 15% | 74% |  |
-| 25.5–26.5% | 14% | 59% | Median |
-| 26.5–27.5% | 11% | 45% |  |
-| 27.5–28.5% | 9% | 33% |  |
-| 28.5–29.5% | 8% | 24% |  |
-| 29.5–30.5% | 7% | 16% |  |
-| 30.5–31.5% | 5% | 9% |  |
-| 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 0.8% | 1.0% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.6% | 99.9% |  |
+| 20.5–21.5% | 2% | 99.4% |  |
+| 21.5–22.5% | 7% | 97% | Last Result |
+| 22.5–23.5% | 13% | 90% |  |
+| 23.5–24.5% | 14% | 76% |  |
+| 24.5–25.5% | 12% | 62% |  |
+| 25.5–26.5% | 11% | 51% | Median |
+| 26.5–27.5% | 13% | 40% |  |
+| 27.5–28.5% | 12% | 26% |  |
+| 28.5–29.5% | 9% | 14% |  |
+| 29.5–30.5% | 4% | 6% |  |
+| 30.5–31.5% | 1.3% | 2% |  |
+| 31.5–32.5% | 0.3% | 0.3% |  |
+| 32.5–33.5% | 0% | 0% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,7 +106,9 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [3–9 September 2021](2021-09-09-RedC.html) | Red C <br> Business Post | 5 | 5 | 5 | 5 | 5 |
+| [26 August–8 September 2021](2021-09-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [21 August 2021](2021-08-21-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [17 July 2021](2021-07-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 5 | 5 | 5 | 5 |
 | [1–13 July 2021](2021-07-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -172,10 +177,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 11% | 100% |  |
-| 4 | 22% | 89% | Last Result |
-| 5 | 66% | 66% | Median |
-| 6 | 0% | 0.1% |  |
-| 7 | 0% | 0% | Majority |
+| 3 | 7% | 100% |  |
+| 4 | 13% | 93% | Last Result |
+| 5 | 81% | 81% | Median |
+| 6 | 0% | 0% |  |
 
 
