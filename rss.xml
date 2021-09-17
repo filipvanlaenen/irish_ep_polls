@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Sep 2021 08:17:38 +0200</pubDate>
+    <pubDate>Fri, 17 Sep 2021 19:12:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Red C for Business Post, 3–9 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.png"
         length="314854"
         type="image/png"/>
-      <pubDate>Thu, 16 Sep 2021 08:17:38 +0200</pubDate>
-      <dc:date>2021-09-16T08:17:38.808352+02:00</dc:date>
+      <pubDate>Fri, 17 Sep 2021 19:12:10 +0200</pubDate>
+      <dc:date>2021-09-17T19:12:10.38217+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 26 August–8 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-08-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 20.6–26.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 18.6–23.9%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 30.3–36.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.3–3.2%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1.3–3.2%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Independents (*): 4.0–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-08-BehaviourandAttitudes.png"
+        length="312283"
+        type="image/png"/>
+      <pubDate>Fri, 17 Sep 2021 07:26:35 +0200</pubDate>
+      <dc:date>2021-09-17T07:26:35.717672+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 21 August 2021 – Seat Projections for the Parties</title>
@@ -1789,6 +1799,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2021-09-16T08:17:38.808352+02:00</dc:date>
+    <dc:date>2021-09-17T19:12:10.38217+02:00</dc:date>
   </channel>
 </rss>
