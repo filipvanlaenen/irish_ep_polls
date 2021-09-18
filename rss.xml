@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 Sep 2021 19:12:10 +0200</pubDate>
+    <pubDate>Fri, 17 Sep 2021 19:37:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 3–9 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC-seats.png"
+        length="217021"
+        type="image/png"/>
+      <pubDate>Fri, 17 Sep 2021 19:37:28 +0200</pubDate>
+      <dc:date>2021-09-17T19:37:28.224905+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 3–9 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC-coalitions-seats.png"
+        length="140597"
+        type="image/png"/>
+      <pubDate>Fri, 17 Sep 2021 19:37:28 +0200</pubDate>
+      <dc:date>2021-09-17T19:37:28.224905+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Red C for Business Post, 3–9 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.png"
         length="314854"
         type="image/png"/>
-      <pubDate>Fri, 17 Sep 2021 19:12:10 +0200</pubDate>
-      <dc:date>2021-09-17T19:12:10.38217+02:00</dc:date>
+      <pubDate>Fri, 17 Sep 2021 19:37:28 +0200</pubDate>
+      <dc:date>2021-09-17T19:37:28.224905+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 26 August–8 September 2021 – Voting Intentions</title>
@@ -1799,6 +1819,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24.7732+01:00</dc:date>
     </item>
-    <dc:date>2021-09-17T19:12:10.38217+02:00</dc:date>
+    <dc:date>2021-09-17T19:37:28.224905+02:00</dc:date>
   </channel>
 </rss>
