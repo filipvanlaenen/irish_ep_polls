@@ -283,7 +283,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.1% | 100% |  |
 | 3 | 29% | 99.9% |  |
 | 4 | 10% | 71% | Last Result |
-| 5 | 62% | 62% | Median |
+| 5 | 61% | 61% | Median |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -323,8 +323,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0.2% | 100% |  |
-| 5 | 21% | 99.8% |  |
-| 6 | 78% | 78% | Median |
+| 5 | 25% | 99.8% |  |
+| 6 | 74% | 75% | Median |
 | 7 | 0.3% | 0.3% | Majority |
 | 8 | 0% | 0% |  |
 
@@ -379,8 +379,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% | Last Result |
-| 1 | 35% | 50% | Median |
-| 2 | 15% | 15% |  |
+| 1 | 31% | 50% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0% | 0% |  |
 
 ### Independents 4 Change (GUE/NGL)
@@ -426,7 +426,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.1% | 100% |  |
 | 3 | 29% | 99.9% |  |
 | 4 | 10% | 71% | Last Result |
-| 5 | 62% | 62% | Median |
+| 5 | 61% | 61% | Median |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% | Last Result |
-| 1 | 35% | 50% | Median |
-| 2 | 15% | 15% |  |
+| 1 | 31% | 50% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -465,5 +465,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,752,512
-+ **Error estimate:** 2.71%
++ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Error estimate:** 3.75%
