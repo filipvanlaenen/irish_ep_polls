@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 18 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-18-IrelandThinks.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ireland Thinks for Irish Mail on Sunday, 18 September 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-09-18-IrelandThinks.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-18-IrelandThinks.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-18-IrelandThinks.png" length="314937" type="image/png"/>
+      <pubDate>Thu, 23 Sep 2021 07:28:38 +0200</pubDate>
+      <dc:date>2021-09-23T07:28:38.061883+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Red C for Business Post, 3–9 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 3–9 September 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-09-09-RedC-seating-plan.png"/>]]></description>
@@ -204,30 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-06-08-BehaviourandAttitudes.png" length="309858" type="image/png"/>
       <pubDate>Thu, 22 Jul 2021 14:21:52 +0200</pubDate>
       <dc:date>2021-07-22T14:21:52.94291+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for Business Post, 21–27 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 21–27 May 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC-seating-plan.png" length="319513" type="image/png"/>
-      <pubDate>Thu, 3 Jun 2021 16:54:45 +0200</pubDate>
-      <dc:date>2021-06-03T16:54:45.537836+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for Business Post, 21–27 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>7 seats needed for a majority<br/>Opinion poll by Red C for Business Post, 21–27 May 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC-seats.png" length="215548" type="image/png"/>
-      <pubDate>Thu, 3 Jun 2021 16:54:45 +0200</pubDate>
-      <dc:date>2021-06-03T16:54:45.537836+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Red C for Business Post, 21–27 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Red C for Business Post, 21–27 May 2021<br/>Details on https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.html<br/><img src="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-05-27-RedC.png" length="312242" type="image/png"/>
-      <pubDate>Thu, 3 Jun 2021 16:54:45 +0200</pubDate>
-      <dc:date>2021-06-03T16:54:45.537836+02:00</dc:date>
     </item>
   </channel>
 </rss>
