@@ -286,8 +286,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 50% | 98% | Median |
-| 4 | 9% | 48% | Last Result |
+| 3 | 49% | 98% | Median |
+| 4 | 10% | 50% | Last Result |
 | 5 | 40% | 40% |  |
 | 6 | 0% | 0% |  |
 
@@ -301,8 +301,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 34% | 100% | Last Result |
 | 2 | 11% | 66% |  |
-| 3 | 3% | 55% |  |
-| 4 | 52% | 52% | Median |
+| 3 | 4% | 55% |  |
+| 4 | 51% | 51% | Median |
 | 5 | 0% | 0% |  |
 
 ### Independents (*)
@@ -329,8 +329,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.1% | 100% | Last Result |
 | 4 | 1.2% | 99.9% |  |
 | 5 | 40% | 98.8% |  |
-| 6 | 59% | 59% | Median |
-| 7 | 0.2% | 0.2% | Majority |
+| 6 | 58% | 58% | Median |
+| 7 | 0.1% | 0.1% | Majority |
 | 8 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -384,7 +384,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
-| 1 | 52% | 67% | Median |
+| 1 | 53% | 67% | Median |
 | 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
@@ -429,8 +429,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% |  |
-| 3 | 50% | 98% | Median |
-| 4 | 9% | 48% | Last Result |
+| 3 | 49% | 98% | Median |
+| 4 | 10% | 50% | Last Result |
 | 5 | 40% | 40% |  |
 | 6 | 0% | 0% |  |
 
@@ -442,8 +442,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 34% | 100% | Last Result |
 | 2 | 11% | 66% |  |
-| 3 | 3% | 55% |  |
-| 4 | 52% | 52% | Median |
+| 3 | 4% | 55% |  |
+| 4 | 51% | 51% | Median |
 | 5 | 0% | 0% |  |
 
 ### Labour Party (S&D) – Social Democrats (S&D)
@@ -453,7 +453,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 33% | 100% | Last Result |
-| 1 | 52% | 67% | Median |
+| 1 | 53% | 67% | Median |
 | 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
@@ -469,6 +469,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 4.36%
