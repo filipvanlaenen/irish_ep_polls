@@ -120,10 +120,10 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday |  |  |  |  |  |
 | [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
@@ -200,9 +200,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 18% | 100% |  |
-| 6 | 73% | 82% | Median |
-| 7 | 6% | 9% | Majority |
+| 5 | 20% | 100% |  |
+| 6 | 69% | 80% | Median |
+| 7 | 8% | 12% | Majority |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 

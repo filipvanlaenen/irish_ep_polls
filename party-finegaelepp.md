@@ -114,7 +114,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 5 | 5 | 5 | 5 | 4–5 |
+| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday |  |  |  |  |  |
 | [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
@@ -191,8 +191,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 15% | 100% |  |
 | 3 | 20% | 85% |  |
-| 4 | 8% | 64% | Last Result |
-| 5 | 57% | 57% | Median |
+| 4 | 11% | 64% | Last Result |
+| 5 | 53% | 53% | Median |
 | 6 | 0% | 0% |  |
 
 
