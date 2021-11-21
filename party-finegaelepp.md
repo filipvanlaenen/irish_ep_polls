@@ -10,10 +10,10 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.1–25.2% | 19.5–25.8% | 19.0–26.4% | 18.2–27.4% |
+| N/A | [Poll Average](average.html) | 23.6% | 20.5–26.1% | 19.8–26.7% | 19.3–27.2% | 18.4–28.2% |
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 24.0% | 22.3–25.8% | 21.8–26.4% | 21.4–26.8% | 20.6–27.7% |
 | [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.2% | 19.5–23.0% | 19.0–23.5% | 18.6–23.9% | 17.9–24.8% |
-| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 25.0% | N/A | N/A | N/A | N/A |
+| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 27.8% | N/A | N/A | N/A | N/A |
 | [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.2% | N/A | N/A | N/A | N/A |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 21.8% | N/A | N/A | N/A | N/A |
@@ -88,18 +88,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 4% | 98.9% |  |
-| 19.5–20.5% | 10% | 95% |  |
-| 20.5–21.5% | 16% | 84% |  |
-| 21.5–22.5% | 17% | 68% | Last Result |
-| 22.5–23.5% | 17% | 51% | Median |
-| 23.5–24.5% | 16% | 34% |  |
-| 24.5–25.5% | 11% | 18% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.3% |  |
+| 19.5–20.5% | 7% | 96% |  |
+| 20.5–21.5% | 11% | 89% |  |
+| 21.5–22.5% | 12% | 79% | Last Result |
+| 22.5–23.5% | 15% | 66% |  |
+| 23.5–24.5% | 18% | 52% | Median |
+| 24.5–25.5% | 17% | 33% |  |
+| 25.5–26.5% | 11% | 17% |  |
+| 26.5–27.5% | 4% | 6% |  |
+| 27.5–28.5% | 1.2% | 1.4% |  |
+| 28.5–29.5% | 0.2% | 0.2% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -110,10 +111,10 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 5 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 5 | 5 | 5 | 5 | 4–5 |
 | [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday |  |  |  |  |  |
 | [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
@@ -188,10 +189,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 23% | 100% |  |
-| 3 | 30% | 77% | Median |
-| 4 | 11% | 47% | Last Result |
-| 5 | 36% | 36% |  |
+| 2 | 15% | 100% |  |
+| 3 | 20% | 85% |  |
+| 4 | 8% | 64% | Last Result |
+| 5 | 57% | 57% | Median |
 | 6 | 0% | 0% |  |
 
 
