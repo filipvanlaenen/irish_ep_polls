@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 15 Jan 2022 19:40:08 +0100</pubDate>
+    <pubDate>Sun, 16 Jan 2022 16:08:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 8 January 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-01-08-IrelandThinks.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 15 Jan 2022 19:40:08 +0100</pubDate>
       <dc:date>2022-01-15T19:40:08.298847+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks-seats.png"
+        length="281417"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jan 2022 16:08:44 +0100</pubDate>
+      <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks-coalitions-seats.png"
+        length="202311"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jan 2022 16:08:44 +0100</pubDate>
+      <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 22.4–27.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 14.7–19.5%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 28.1–34.0%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Aontú (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Independents (*): 4.6–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.png"
+        length="317370"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jan 2022 16:08:44 +0100</pubDate>
+      <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for Irish Times, 5–8 December 2021 – Seat Projections for the Parties</title>
@@ -1989,6 +2019,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2022-01-15T19:40:08.298847+01:00</dc:date>
+    <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
   </channel>
 </rss>
