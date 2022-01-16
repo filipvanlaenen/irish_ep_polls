@@ -12,7 +12,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.6% | 15.1–23.6% | 14.4–24.4% | 13.9–25.0% | 13.1–26.1% |
 | [8 January 2022](2022-01-08-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.2% | 16.4–21.9% |
-| [12 December 2021](2021-12-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 17.0% | N/A | N/A | N/A | N/A |
+| [12 December 2021](2021-12-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.7–19.5% | 14.0–20.3% |
 | [5–8 December 2021](2021-12-08-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 20.2% | 18.7–21.7% | 18.3–22.2% | 18.0–22.5% | 17.3–23.3% |
 | [25 November–8 December 2021](2021-12-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.2% | 21.4–25.0% | 21.0–25.5% | 20.5–26.0% | 19.8–26.9% |
 | [19–25 November 2021](2021-11-25-RedC.html) | Red C <br> Business Post | 15.3% | 13.9–16.8% | 13.5–17.3% | 13.2–17.6% | 12.5–18.4% |
@@ -121,7 +121,7 @@ Last result: **1** seats (General Election of 24 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [8 January 2022](2022-01-08-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
-| [12 December 2021](2021-12-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday |  |  |  |  |  |
+| [12 December 2021](2021-12-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [5–8 December 2021](2021-12-08-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4 | 4 | 3–4 | 2–4 | 2–4 |
 | [25 November–8 December 2021](2021-12-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
 | [19–25 November 2021](2021-11-25-RedC.html) | Red C <br> Business Post | 1 | 1–2 | 1–3 | 1–4 | 1–4 |
