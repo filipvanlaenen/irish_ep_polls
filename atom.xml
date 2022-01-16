@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-01-15T19:40:08.298847+01:00</updated>
+  <updated>2022-01-16T16:08:44.837219+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.9–25.3%, 2–5 seats</li><li>Fianna Fáil (RE): 17.0–21.2%, 1–4 seats</li><li>Sinn Féin (GUE/NGL): 30.6–35.6%, 5–6 seats</li><li>Labour Party (S&amp;D): 3.1–5.2%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.2–4.0%, 0 seats</li><li>Social Democrats (S&amp;D): 3.1–5.2%, 0–1 seats</li><li>Green Party (Greens/EFA): 2.2–4.0%, 0 seats</li><li>Aontú (*): 1.4–2.9%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.0–3.8%, 0 seats</li><li>Independents (*): 4.8–7.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2022-01-08-IrelandThinks.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Ireland Thinks for Sunday Independent, 8 January 2022</title>
     <updated>2022-01-15T19:40:08.298847+01:00</updated>
     <dc:date>2022-01-15T19:40:08.298847+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 22.4–27.9%, 3–5 seats</li><li>Fianna Fáil (RE): 14.7–19.5%, 1–4 seats</li><li>Sinn Féin (GUE/NGL): 28.1–34.0%, 5–6 seats</li><li>Labour Party (S&amp;D): 3.0–5.5%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 3.0–5.5%, 0 seats</li><li>Social Democrats (S&amp;D): 2.1–4.3%, 0–1 seats</li><li>Green Party (Greens/EFA): 3.0–5.5%, 0 seats</li><li>Aontú (*): 2.1–4.3%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 1.9–4.0%, 0 seats</li><li>Independents (*): 4.6–7.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2021-12-12-IrelandThinks.html"/>
+    <title>Opinion Poll by Ireland Thinks for Irish Mail on Sunday, 12 December 2021</title>
+    <updated>2022-01-16T16:08:44.837219+01:00</updated>
+    <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 18.0–22.5%, 2–3 seats</li><li>Fianna Fáil (RE): 18.0–22.5%, 2–4 seats</li><li>Sinn Féin (GUE/NGL): 32.7–38.1%, 6–7 seats</li><li>Labour Party (S&amp;D): 3.0–5.3%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 1.3–3.0%, 0 seats</li><li>Social Democrats (S&amp;D): 1.3–3.0%, 0–1 seats</li><li>Green Party (Greens/EFA): 4.0–6.5%, 0 seats</li><li>Aontú (*): 0.6–1.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.3–4.3%, 0 seats</li><li>Independents (*): 5.4–8.2%, 0–1 seats</li></ul></div></content>
@@ -535,5 +543,5 @@
     <updated>2020-03-06T18:12:24+01:00</updated>
     <dc:date>2020-03-06T18:12:24+01:00</dc:date>
   </entry>
-  <dc:date>2022-01-15T19:40:08.298847+01:00</dc:date>
+  <dc:date>2022-01-16T16:08:44.837219+01:00</dc:date>
 </feed>
