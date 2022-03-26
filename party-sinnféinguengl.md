@@ -10,7 +10,10 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.6% | 31.2–36.1% | 30.6–36.8% | 30.0–37.3% | 29.1–38.3% |
+| N/A | [Poll Average](average.html) | 32.9% | 30.9–34.9% | 30.4–35.5% | 29.9–36.0% | 29.0–37.0% |
+| [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 33.0% | 31.0–35.0% | 30.5–35.6% | 30.0–36.1% | 29.1–37.1% |
+| [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 32.3% | 30.5–34.3% | 30.0–34.8% | 29.5–35.3% | 28.7–36.2% |
+| [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 33.4% | 31.5–35.3% | 31.0–35.9% | 30.5–36.4% | 29.6–37.3% |
 | [27 January–8 February 2022](2022-02-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 33.9% | 32.0–36.0% | 31.4–36.6% | 31.0–37.1% | 30.0–38.1% |
 | [5 February 2022](2022-02-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 32.0% | 30.3–33.9% | 29.8–34.4% | 29.3–34.9% | 28.5–35.8% |
 | [21–26 January 2022](2022-01-26-RedC.html) | Red C <br> Business Post | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.2–36.9% |
@@ -104,18 +107,17 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 1.0% | 99.8% |  |
-| 29.5–30.5% | 4% | 98.8% |  |
-| 30.5–31.5% | 10% | 95% |  |
-| 31.5–32.5% | 16% | 85% |  |
-| 32.5–33.5% | 19% | 69% |  |
-| 33.5–34.5% | 19% | 50% | Median |
-| 34.5–35.5% | 15% | 32% |  |
-| 35.5–36.5% | 10% | 16% |  |
-| 36.5–37.5% | 5% | 6% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.3% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 28.5–29.5% | 1.2% | 99.8% |  |
+| 29.5–30.5% | 5% | 98.6% |  |
+| 30.5–31.5% | 13% | 94% |  |
+| 31.5–32.5% | 22% | 81% |  |
+| 32.5–33.5% | 25% | 59% | Median |
+| 33.5–34.5% | 19% | 34% |  |
+| 34.5–35.5% | 10% | 15% |  |
+| 35.5–36.5% | 4% | 5% |  |
+| 36.5–37.5% | 0.9% | 1.1% |  |
+| 37.5–38.5% | 0.2% | 0.2% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -127,6 +129,9 @@ Last result: **3** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 5–6 |
+| [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [27 January–8 February 2022](2022-02-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 6 |
 | [5 February 2022](2022-02-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [21–26 January 2022](2022-01-26-RedC.html) | Red C <br> Business Post | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -215,10 +220,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 10% | 100% |  |
-| 6 | 82% | 90% | Median |
-| 7 | 6% | 7% | Majority |
-| 8 | 1.4% | 1.4% |  |
+| 5 | 23% | 100% |  |
+| 6 | 71% | 77% | Median |
+| 7 | 4% | 6% | Majority |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 

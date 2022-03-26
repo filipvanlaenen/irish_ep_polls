@@ -10,7 +10,10 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.7% | 14.7–25.3% | 14.1–26.2% | 13.6–26.8% | 12.8–28.0% |
+| N/A | [Poll Average](average.html) | 19.7% | 16.6–23.7% | 16.0–24.4% | 15.6–25.0% | 14.7–26.1% |
+| [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.0% | 21.2–24.8% | 20.8–25.3% | 20.4–25.8% | 19.6–26.7% |
+| [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19.6% | 18.0–21.3% | 17.6–21.7% | 17.3–22.1% | 16.5–23.0% |
+| [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.6% | 14.3–20.4% |
 | [27 January–8 February 2022](2022-02-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24.9% | 23.2–26.8% | 22.7–27.4% | 22.3–27.8% | 21.4–28.8% |
 | [5 February 2022](2022-02-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.3–20.1% |
 | [21–26 January 2022](2022-01-26-RedC.html) | Red C <br> Business Post | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
@@ -95,26 +98,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 6% | 98% |  |
-| 14.5–15.5% | 10% | 91% |  |
-| 15.5–16.5% | 12% | 81% |  |
-| 16.5–17.5% | 11% | 69% |  |
-| 17.5–18.5% | 8% | 59% |  |
-| 18.5–19.5% | 8% | 51% | Median |
-| 19.5–20.5% | 9% | 43% |  |
-| 20.5–21.5% | 7% | 35% |  |
-| 21.5–22.5% | 3% | 28% | Last Result |
-| 22.5–23.5% | 3% | 25% |  |
-| 23.5–24.5% | 6% | 21% |  |
-| 24.5–25.5% | 7% | 15% |  |
-| 25.5–26.5% | 5% | 9% |  |
-| 26.5–27.5% | 3% | 3% |  |
-| 27.5–28.5% | 0.8% | 1.0% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 7% | 98% |  |
+| 16.5–17.5% | 12% | 90% |  |
+| 17.5–18.5% | 14% | 78% |  |
+| 18.5–19.5% | 13% | 65% |  |
+| 19.5–20.5% | 11% | 52% | Median |
+| 20.5–21.5% | 9% | 40% |  |
+| 21.5–22.5% | 10% | 31% | Last Result |
+| 22.5–23.5% | 10% | 21% |  |
+| 23.5–24.5% | 7% | 12% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 1.0% | 1.2% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,7 +124,10 @@ Last result: **1** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 4 | 2–4 | 2–4 | 1–4 | 1–4 |
+| [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 3–4 | 2–4 |
+| [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 4 | 3–4 | 3–4 | 2–4 |
+| [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [27 January–8 February 2022](2022-02-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4 | 4 | 4 | 4 |
 | [5 February 2022](2022-02-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
 | [21–26 January 2022](2022-01-26-RedC.html) | Red C <br> Business Post | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
@@ -212,10 +214,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% | Last Result |
-| 2 | 5% | 64% |  |
-| 3 | 7% | 59% |  |
-| 4 | 52% | 52% | Median |
+| 1 | 5% | 100% | Last Result |
+| 2 | 6% | 95% |  |
+| 3 | 14% | 89% |  |
+| 4 | 75% | 75% | Median |
 | 5 | 0% | 0% |  |
 
 
