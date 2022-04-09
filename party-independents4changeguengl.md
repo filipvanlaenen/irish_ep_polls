@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.1–4.7% | 1.8–5.2% |
+| [1 April 2022](2022-04-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
+| [18–23 March 2022](2022-03-23-RedC.html) | Red C <br> Business Post | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2.8% | 2.2–3.6% | 2.1–3.9% | 1.9–4.1% | 1.7–4.5% |
 | [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -100,10 +102,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 19% | 99.9% |  |
-| 2.5–3.5% | 56% | 81% | Median |
-| 3.5–4.5% | 22% | 24% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 54% | 87% | Median |
+| 3.5–4.5% | 29% | 33% |  |
+| 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -117,6 +119,8 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1 April 2022](2022-04-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
+| [18–23 March 2022](2022-03-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [4 March 2022](2022-03-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [18–23 February 2022](2022-02-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
