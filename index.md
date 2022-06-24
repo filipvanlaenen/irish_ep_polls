@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–26% <br> 2–5 | 14–25% <br> 1–4 | 4–9% <br> 0–1 | 31–37% <br> 5–8 | 2–5% <br> 0 | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–6% <br> 0–1 | 2–4% <br> 0 | 1–4% <br> 0 |
-| [7 May 2022](2022-05-07-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 21–26% <br> 2–5 | 14–19% <br> 1–4 | 4–7% <br> 0 | 31–37% <br> 5–8 | 3–5% <br> 0 | 3–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 |
-| [22–27 April 2022](2022-04-27-RedC.html) | Red C <br> Business Post | 19–24% <br> 2–5 | 14–18% <br> 1–4 | 6–9% <br> 0–1 | 31–37% <br> 5–8 | 3–5% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 2–5% <br> 0 | 1–3% <br> 0 |
-| [24 February–8 March 2022](2022-03-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21–27% <br> 3–4 | 20–26% <br> 3–4 | 5–8% <br> 0 | 30–36% <br> 6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
