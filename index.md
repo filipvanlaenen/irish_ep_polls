@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–25% <br> 2–4 | 16–24% <br> 1–4 | 4–7% <br> 0 | 33–39% <br> 6–8 | 3–6% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–6% <br> 0–1 | 2–4% <br> 0 | 1–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–25% <br> 2–4 | 14–24% <br> 1–4 | 4–9% <br> 0–1 | 33–39% <br> 6–8 | 2–6% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–6% <br> 0–1 | 2–4% <br> 0 | 1–4% <br> 0 |
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 20–26% <br> 3–4 | 19–25% <br> 3–4 | 4–7% <br> 0 | 33–40% <br> 6 | 4–7% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18–23% <br> 2–4 | 15–20% <br> 1–4 | 4–7% <br> 0 | 33–39% <br> 6–8 | 3–5% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 |
-| [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 18–23% <br> 2–4 | 13–18% <br> 1–4 | 6–9% <br> 0–1 | 33–39% <br> 6–8 | 2–4% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 3–5% <br> 0 | 1–3% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
