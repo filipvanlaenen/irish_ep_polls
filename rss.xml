@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 27 Jun 2022 00:03:06 +0200</pubDate>
+    <pubDate>Mon, 27 Jun 2022 22:44:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 25 May–7 June 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-06-07-BehaviourandAttitudes.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Mon, 27 Jun 2022 00:03:06 +0200</pubDate>
       <dc:date>2022-06-27T00:03:06.30213+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 April–10 May 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes-seats.png"
+        length="221226"
+        type="image/png"/>
+      <pubDate>Mon, 27 Jun 2022 22:44:55 +0200</pubDate>
+      <dc:date>2022-06-27T22:44:55.461261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 April–10 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes-coalitions-seats.png"
+        length="146198"
+        type="image/png"/>
+      <pubDate>Mon, 27 Jun 2022 22:44:55 +0200</pubDate>
+      <dc:date>2022-06-27T22:44:55.461261+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 April–10 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 16.6–21.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 21.3–26.9%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 33.0–39.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Aontú (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Independents (*): 4.6–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-05-10-BehaviourandAttitudes.png"
+        length="308557"
+        type="image/png"/>
+      <pubDate>Mon, 27 Jun 2022 22:44:55 +0200</pubDate>
+      <dc:date>2022-06-27T22:44:55.461261+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 7 May 2022 – Seat Projections for the Parties</title>
@@ -2439,6 +2469,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2022-06-27T00:03:06.30213+02:00</dc:date>
+    <dc:date>2022-06-27T22:44:55.461261+02:00</dc:date>
   </channel>
 </rss>
