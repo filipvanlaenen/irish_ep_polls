@@ -14,7 +14,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 22.7% | 20.9–24.5% | 20.5–25.1% | 20.0–25.5% | 19.3–26.4% |
 | [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.4% | 19.0–21.9% | 18.6–22.4% | 18.2–22.8% | 17.6–23.5% |
 | [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 20.2% | 18.6–21.9% | 18.2–22.3% | 17.8–22.8% | 17.1–23.6% |
-| [28 April–10 May 2022](2022-05-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.1% | N/A | N/A | N/A | N/A |
+| [28 April–10 May 2022](2022-05-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19.1% | 17.5–20.8% | 17.0–21.3% | 16.6–21.7% | 15.9–22.6% |
 | [7 May 2022](2022-05-07-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 23.3% | 21.6–25.0% | 21.1–25.5% | 20.7–26.0% | 20.0–26.8% |
 | [22–27 April 2022](2022-04-27-RedC.html) | Red C <br> Business Post | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.9–24.5% |
 | [1 April 2022](2022-04-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 21.8% | 20.2–23.4% | 19.8–23.9% | 19.4–24.3% | 18.7–25.1% |
@@ -133,7 +133,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 3–4 | 3–4 |
 | [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [28 April–10 May 2022](2022-05-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [28 April–10 May 2022](2022-05-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7 May 2022](2022-05-07-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 3–5 | 2–5 | 2–5 | 2–5 |
 | [22–27 April 2022](2022-04-27-RedC.html) | Red C <br> Business Post | 4 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [1 April 2022](2022-04-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
