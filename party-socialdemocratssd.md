@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 0.2–5.5% | 0.1–5.9% | 0.1–6.1% | 0.1–6.7% |
+| N/A | [Poll Average](average.html) | 2.5% | 0.3–4.3% | 0.2–4.7% | 0.1–5.0% | 0.1–5.6% |
+| [10–12 July 2022](2022-07-12-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
+| [1 July 2022](2022-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [17–22 June 2022](2022-06-22-RedC.html) | Red C <br> Business Post | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.1% | 4.4–6.0% | 4.2–6.3% | 4.0–6.5% | 3.7–7.0% |
 | [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -106,15 +109,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 29% | 100% | Last Result |
-| 0.5–1.5% | 4% | 71% |  |
-| 1.5–2.5% | 0.1% | 67% |  |
-| 2.5–3.5% | 7% | 67% |  |
-| 3.5–4.5% | 25% | 60% | Median |
-| 4.5–5.5% | 25% | 35% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 22% | 100% | Last Result |
+| 0.5–1.5% | 5% | 78% |  |
+| 1.5–2.5% | 23% | 73% |  |
+| 2.5–3.5% | 24% | 50% | Median |
+| 3.5–4.5% | 19% | 25% |  |
+| 4.5–5.5% | 6% | 7% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,7 +127,10 @@ Last result: **0** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–12 July 2022](2022-07-12-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1 July 2022](2022-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–22 June 2022](2022-06-22-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 1–2 |
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 1–2 | 1–2 |
 | [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 0–1 |
@@ -223,9 +228,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 65% | 66% | Median |
-| 2 | 1.2% | 1.2% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 47% | 48% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
