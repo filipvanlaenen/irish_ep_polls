@@ -10,8 +10,13 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 4.9–9.9% | 4.6–10.3% | 4.4–10.6% | 4.0–11.3% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6.6% | N/A | N/A | N/A | N/A |
+| [3–15 October 2022](2022-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> Sunday Times | 5.9% | N/A | N/A | N/A | N/A |
 | [1 October 2022](2022-10-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.3% | 4.6–6.2% | 4.4–6.5% | 4.2–6.7% | 3.9–7.2% |
+| [1–6 September 2022](2022-09-06-RedC.html) | Red C <br> Business Post | 8.0% | N/A | N/A | N/A | N/A |
+| [25 August–6 September 2022](2022-09-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> Sunday Times | 5.2% | N/A | N/A | N/A | N/A |
 | [2 September 2022](2022-09-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 7.2% | 6.2–8.4% | 6.0–8.8% | 5.7–9.1% | 5.3–9.7% |
 | [6 August 2022](2022-08-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.8% | 5.0–6.9% | 4.7–7.3% | 4.5–7.5% | 4.1–8.1% |
 | [10–12 July 2022](2022-07-12-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 9.2% | 8.2–10.3% | 7.9–10.7% | 7.7–10.9% | 7.2–11.5% |
@@ -113,15 +118,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 26% | 96% |  |
-| 5.5–6.5% | 18% | 70% |  |
-| 6.5–7.5% | 3% | 52% | Median |
-| 7.5–8.5% | 10% | 49% |  |
-| 8.5–9.5% | 22% | 40% |  |
-| 9.5–10.5% | 14% | 17% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 7% | 99.9% |  |
+| 5.5–6.5% | 38% | 93% |  |
+| 6.5–7.5% | 41% | 55% | Median |
+| 7.5–8.5% | 12% | 14% |  |
+| 8.5–9.5% | 1.2% | 1.3% |  |
+| 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -140,8 +145,13 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0–1 | 0–1 |
+| [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [3–15 October 2022](2022-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> Sunday Times |  |  |  |  |  |
 | [1 October 2022](2022-10-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
+| [1–6 September 2022](2022-09-06-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [25 August–6 September 2022](2022-09-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> Sunday Times |  |  |  |  |  |
 | [2 September 2022](2022-09-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6 August 2022](2022-08-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–12 July 2022](2022-07-12-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -244,8 +254,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Median |
-| 1 | 44% | 44% |  |
+| 0 | 96% | 100% | Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
