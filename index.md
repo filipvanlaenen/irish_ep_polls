@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–24% <br> 2–4 | 15–24% <br> 1–4 | 5–9% <br> 0–1 | 31–37% <br> 6–8 | 2–7% <br> 0 | 1–6% <br> 0 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 2–5% <br> 0 | 0–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 16–24% <br> 2–4 | 15–25% <br> 1–4 | 5–9% <br> 0–1 | 31–37% <br> 6–8 | 2–6% <br> 0 | 1–6% <br> 0 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 2–5% <br> 0 | 1–5% <br> 0 |
+| [27 October–8 November 2022](2022-11-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 19–24% <br> 2–3 | 20–26% <br> 4 | 5–8% <br> 0 | 31–37% <br> 6 | 4–7% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18–23% <br> 2–4 | 15–19% <br> 1–4 | 5–8% <br> 0–1 | 31–37% <br> 6–8 | 2–4% <br> 0 | 4–7% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 2–4% <br> 0 | 3–5% <br> 0 |
 | [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 20–24% <br> 2–3 | 19–23% <br> 3–4 | 5–8% <br> 0 | 32–37% <br> 5–6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 |
-| [3–15 October 2022](2022-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> Sunday Times | 18–24% <br> 3 | 19–25% <br> 4 | 5–8% <br> 0 | 31–37% <br> 6 | 5–8% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 |
 | [1–6 September 2022](2022-09-06-RedC.html) | Red C <br> Business Post | 16–21% <br> 2–3 | 15–19% <br> 1–4 | 6–10% <br> 0–1 | 32–38% <br> 6–8 | 3–5% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 3–5% <br> 0 | 1–3% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
