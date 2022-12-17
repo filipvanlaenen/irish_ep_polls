@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-12-17T16:03:31.732716+01:00</updated>
+  <updated>2022-12-17T21:54:10.918725+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 20.4–25.8%, 3–4 seats</li><li>Fianna Fáil (RE): 18.5–23.8%, 2–4 seats</li><li>Sinn Féin (GUE/NGL): 31.0–37.1%, 6 seats</li><li>Labour Party (S&amp;D): 2.1–4.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%, 0 seats</li><li>Social Democrats (S&amp;D): 0.5–1.8%, 0 seats</li><li>Green Party (Greens/EFA): 3.7–6.6%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.7–5.2%, 0 seats</li><li>Independents (*): 6.3–9.8%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2022-12-06-BehaviourandAttitudes.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Ireland Thinks for Sunday Independent, 1–2 December 2022</title>
     <updated>2022-12-17T16:03:31.732716+01:00</updated>
     <dc:date>2022-12-17T16:03:31.732716+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 21.6–27.0%, 4–5 seats</li><li>Fianna Fáil (RE): 13.1–17.6%, 1–2 seats</li><li>Sinn Féin (GUE/NGL): 28.5–34.2%, 5–6 seats</li><li>Labour Party (S&amp;D): 2.9–5.4%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.1–4.3%, 0 seats</li><li>Social Democrats (S&amp;D): 2.9–5.4%, 1 seats</li><li>Green Party (Greens/EFA): 3.9–6.6%, 0 seats</li><li>Aontú (*): 1.3–3.1%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.5–4.8%, 0 seats</li><li>Independents (*): 5.9–9.2%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.html"/>
+    <title>Opinion Poll by Red C for Business Post, 18–23 November 2022</title>
+    <updated>2022-12-17T21:54:10.918725+01:00</updated>
+    <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 18.5–23.8%, 2–3 seats</li><li>Fianna Fáil (RE): 20.4–25.8%, 4 seats</li><li>Sinn Féin (GUE/NGL): 31.0–37.1%, 6 seats</li><li>Labour Party (S&amp;D): 3.7–6.6%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 0.5–1.8%, 0 seats</li><li>Social Democrats (S&amp;D): 1.2–3.1%, 0–1 seats</li><li>Green Party (Greens/EFA): 2.9–5.5%, 0 seats</li><li>Aontú (*): 0.5–1.8%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 1.9–4.1%, 0 seats</li><li>Independents (*): 4.6–7.7%, 0 seats</li></ul></div></content>
@@ -767,5 +775,5 @@
     <updated>2020-03-06T18:12:24+01:00</updated>
     <dc:date>2020-03-06T18:12:24+01:00</dc:date>
   </entry>
-  <dc:date>2022-12-17T16:03:31.732716+01:00</dc:date>
+  <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
 </feed>
