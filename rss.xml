@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 17 Dec 2022 16:03:31 +0100</pubDate>
+    <pubDate>Sat, 17 Dec 2022 21:54:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 24 November–6 December 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-12-06-BehaviourandAttitudes.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sat, 17 Dec 2022 16:03:31 +0100</pubDate>
       <dc:date>2022-12-17T16:03:31.732716+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 18–23 November 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC-seats.png"
+        length="221358"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 21:54:10 +0100</pubDate>
+      <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 18–23 November 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC-coalitions-seats.png"
+        length="141948"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 21:54:10 +0100</pubDate>
+      <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 18–23 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 21.6–27.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 13.1–17.6%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 28.5–34.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Aontú (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Independents (*): 5.9–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2022-11-23-RedC.png"
+        length="314118"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 21:54:10 +0100</pubDate>
+      <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 27 October–8 November 2022 – Seat Projections for the Parties</title>
@@ -2859,6 +2889,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2022-12-17T16:03:31.732716+01:00</dc:date>
+    <dc:date>2022-12-17T21:54:10.918725+01:00</dc:date>
   </channel>
 </rss>
