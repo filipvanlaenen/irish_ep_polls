@@ -10,7 +10,10 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 17.7–22.7% | 17.1–23.3% | 16.5–23.7% | 15.7–24.6% |
+| N/A | [Poll Average](average.html) | 22.5% | 20.8–24.3% | 20.4–24.8% | 20.0–25.3% | 19.2–26.2% |
+| [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.0% | 21.3–24.8% | 20.8–25.3% | 20.4–25.8% | 19.6–26.7% |
+| [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 22.8% | 21.4–24.3% | 21.0–24.7% | 20.6–25.1% | 20.0–25.8% |
+| [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post | 24.2% | N/A | N/A | N/A | N/A |
 | [27 October–8 November 2022](2022-11-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 21.0% | 19.4–22.8% | 18.9–23.3% | 18.5–23.8% | 17.7–24.7% |
 | [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.8% | 19.2–22.5% | 18.7–23.0% | 18.4–23.4% | 17.6–24.2% |
 | [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 21.8% | 20.3–23.3% | 19.9–23.8% | 19.5–24.2% | 18.8–25.0% |
@@ -118,20 +121,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 2% | 99.6% |  |
-| 16.5–17.5% | 6% | 97% |  |
-| 17.5–18.5% | 9% | 92% |  |
-| 18.5–19.5% | 12% | 82% |  |
-| 19.5–20.5% | 17% | 70% |  |
-| 20.5–21.5% | 22% | 53% | Median |
-| 21.5–22.5% | 18% | 30% | Last Result |
-| 22.5–23.5% | 9% | 12% |  |
-| 23.5–24.5% | 3% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.5% |  |
-| 25.5–26.5% | 0% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 1.0% | 99.9% |  |
+| 19.5–20.5% | 6% | 98.9% |  |
+| 20.5–21.5% | 17% | 93% |  |
+| 21.5–22.5% | 28% | 77% | Last Result |
+| 22.5–23.5% | 26% | 49% | Median |
+| 23.5–24.5% | 16% | 23% |  |
+| 24.5–25.5% | 6% | 7% |  |
+| 25.5–26.5% | 1.3% | 2% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -142,7 +143,10 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [27 October–8 November 2022](2022-11-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 3 | 2–3 | 2–3 |
 | [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3 | 2–3 | 2–3 | 2–3 | 2–5 |
@@ -252,10 +256,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 50% | 100% |  |
-| 3 | 46% | 50% | Median |
-| 4 | 4% | 5% | Last Result |
-| 5 | 0.4% | 0.4% |  |
+| 2 | 11% | 100% |  |
+| 3 | 58% | 89% | Median |
+| 4 | 15% | 30% | Last Result |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 

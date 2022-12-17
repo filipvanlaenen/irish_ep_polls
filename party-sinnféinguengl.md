@@ -10,7 +10,10 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.3% | 32.3–36.4% | 31.8–36.9% | 31.3–37.4% | 30.3–38.4% |
+| N/A | [Poll Average](average.html) | 34.1% | 32.3–36.0% | 31.8–36.6% | 31.3–37.1% | 30.4–38.0% |
+| [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 34.0% | 32.1–36.1% | 31.5–36.6% | 31.0–37.1% | 30.1–38.1% |
+| [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 33.7% | 32.0–35.3% | 31.6–35.8% | 31.2–36.2% | 30.4–37.0% |
+| [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post | 31.3% | N/A | N/A | N/A | N/A |
 | [27 October–8 November 2022](2022-11-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 34.0% | 32.1–36.1% | 31.5–36.6% | 31.0–37.1% | 30.1–38.1% |
 | [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 33.6% | 31.7–35.6% | 31.2–36.1% | 30.8–36.6% | 29.9–37.6% |
 | [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 34.7% | 32.9–36.5% | 32.4–37.0% | 32.0–37.4% | 31.2–38.3% |
@@ -128,18 +131,17 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.7% | 99.9% |  |
-| 30.5–31.5% | 3% | 99.2% |  |
-| 31.5–32.5% | 9% | 96% |  |
-| 32.5–33.5% | 18% | 87% |  |
-| 33.5–34.5% | 25% | 70% | Median |
-| 34.5–35.5% | 23% | 45% |  |
-| 35.5–36.5% | 14% | 22% |  |
-| 36.5–37.5% | 6% | 8% |  |
-| 37.5–38.5% | 2% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.4% |  |
+| 29.5–30.5% | 0.6% | 99.9% |  |
+| 30.5–31.5% | 3% | 99.4% |  |
+| 31.5–32.5% | 10% | 96% |  |
+| 32.5–33.5% | 21% | 86% |  |
+| 33.5–34.5% | 27% | 65% | Median |
+| 34.5–35.5% | 22% | 39% |  |
+| 35.5–36.5% | 12% | 17% |  |
+| 36.5–37.5% | 4% | 5% |  |
+| 37.5–38.5% | 1.0% | 1.1% |  |
+| 38.5–39.5% | 0.2% | 0.2% |  |
 | 39.5–40.5% | 0% | 0% |  |
-| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -150,7 +152,10 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–8 | 5–8 |
+| [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 6–7 |
+| [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [27 October–8 November 2022](2022-11-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6 | 6 | 6 | 6 | 6 |
 | [4 November 2022](2022-11-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [23–25 October 2022](2022-10-25-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 6 | 6 | 5–6 | 5–7 |
@@ -262,9 +267,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 85% | 98% | Median |
-| 7 | 10% | 13% | Majority |
+| 5 | 7% | 100% |  |
+| 6 | 85% | 93% | Median |
+| 7 | 6% | 9% | Majority |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
