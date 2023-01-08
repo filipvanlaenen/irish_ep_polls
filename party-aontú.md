@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–4.3% | 0.8–4.6% | 0.7–4.9% | 0.5–5.3% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.9–3.3% | 0.8–3.6% | 0.7–3.8% | 0.5–4.3% |
+| [5–6 January 2023](2023-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
 | [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -123,12 +124,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.6% | 100% | Last Result |
 | 0.5–1.5% | 34% | 99.4% |  |
-| 1.5–2.5% | 27% | 65% | Median |
-| 2.5–3.5% | 11% | 39% |  |
-| 3.5–4.5% | 22% | 28% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 32% | 65% | Median |
+| 2.5–3.5% | 28% | 34% |  |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -140,6 +140,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–6 January 2023](2023-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [24 November–6 December 2022](2022-12-06-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [1–2 December 2022](2022-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [18–23 November 2022](2022-11-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
