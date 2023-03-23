@@ -11,6 +11,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.7% | 19.9–23.7% | 19.4–24.4% | 19.0–24.9% | 18.2–26.0% |
+| [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.0% | 21.3–24.8% | 20.8–25.4% | 20.4–25.8% | 19.6–26.7% |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.7–23.4% | 18.1–24.2% |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 21.0% | 19.4–22.8% | 19.0–23.3% | 18.6–23.7% | 17.9–24.5% |
 | [19–21 February 2023](2023-02-21-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 21.8% | 20.3–23.3% | 19.9–23.8% | 19.5–24.2% | 18.8–25.0% |
@@ -139,8 +140,8 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 16% | 28% |  |
 | 23.5–24.5% | 8% | 12% |  |
 | 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.9% | 1.0% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 25.5–26.5% | 0.8% | 1.0% |  |
+| 26.5–27.5% | 0.1% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -152,7 +153,8 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [19–21 February 2023](2023-02-21-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -273,10 +275,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 30% | 100% |  |
-| 3 | 47% | 70% | Median |
-| 4 | 21% | 23% | Last Result |
-| 5 | 2% | 2% |  |
+| 2 | 33% | 100% |  |
+| 3 | 36% | 67% | Median |
+| 4 | 27% | 31% | Last Result |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
 

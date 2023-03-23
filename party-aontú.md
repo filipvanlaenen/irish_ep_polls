@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 1.7–3.5% | 1.5–3.8% | 1.4–4.0% | 1.2–4.4% |
+| [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19–21 February 2023](2023-02-21-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -147,6 +148,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [19–21 February 2023](2023-02-21-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
