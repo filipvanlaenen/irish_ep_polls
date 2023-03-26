@@ -11,6 +11,7 @@ Last result: **1.5%** (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.6–3.4% | 1.5–3.7% | 1.4–3.9% | 1.2–4.4% |
+| [17–22 March 2023](2023-03-22-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -134,8 +135,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 7% | 100% |  |
 | 1.5–2.5% | 55% | 93% | Last Result, Median |
 | 2.5–3.5% | 31% | 38% |  |
-| 3.5–4.5% | 7% | 7% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -148,6 +149,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–22 March 2023](2023-03-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [3 March 2023](2023-03-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [17–22 February 2023](2023-02-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
