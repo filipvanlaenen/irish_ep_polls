@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 03 Apr 2023 19:35:20 +0200</pubDate>
+    <pubDate>Sun, 16 Apr 2023 12:06:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 March–4 April 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes-seats.png"
+        length="231145"
+        type="image/png"/>
+      <pubDate>Sun, 16 Apr 2023 12:06:40 +0200</pubDate>
+      <dc:date>2023-04-16T12:06:40.139617+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 March–4 April 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes-coalitions-seats.png"
+        length="154511"
+        type="image/png"/>
+      <pubDate>Sun, 16 Apr 2023 12:06:40 +0200</pubDate>
+      <dc:date>2023-04-16T12:06:40.139617+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 March–4 April 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael (EPP): 13.0–17.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 18.7–24.0%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 34.3–40.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.0–5.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 3.0–5.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 4.7–7.8%&lt;/li&gt;&lt;li&gt;Aontú (*): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.7–3.8%&lt;/li&gt;&lt;li&gt;Independents (*): 4.1–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2023-04-04-BehaviourandAttitudes.png"
+        length="312393"
+        type="image/png"/>
+      <pubDate>Sun, 16 Apr 2023 12:06:40 +0200</pubDate>
+      <dc:date>2023-04-16T12:06:40.139617+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 March–1 April 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2023-04-01-IrelandThinks.html#seats</link>
@@ -3219,6 +3249,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2023-04-03T19:35:20.308616+02:00</dc:date>
+    <dc:date>2023-04-16T12:06:40.139617+02:00</dc:date>
   </channel>
 </rss>
