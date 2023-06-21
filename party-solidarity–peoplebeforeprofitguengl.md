@@ -10,7 +10,8 @@ Last result: **1.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.9–3.3% | 0.8–3.6% | 0.6–3.9% | 0.5–4.4% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.6–3.3% | 1.5–3.6% | 1.4–3.9% | 1.2–4.4% |
+| [11–13 June 2023](2023-06-13-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [2 June 2023](2023-06-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.3–2.9% | 1.1–3.3% |
 | [19–24 May 2023](2023-05-24-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [27 April–9 May 2023](2023-05-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
@@ -138,10 +139,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% |  |
-| 0.5–1.5% | 33% | 99.0% |  |
-| 1.5–2.5% | 35% | 66% | Last Result, Median |
-| 2.5–3.5% | 25% | 31% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 57% | 93% | Last Result, Median |
+| 2.5–3.5% | 30% | 36% |  |
 | 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -156,6 +157,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–13 June 2023](2023-06-13-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [2 June 2023](2023-06-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [19–24 May 2023](2023-05-24-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [27 April–9 May 2023](2023-05-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
