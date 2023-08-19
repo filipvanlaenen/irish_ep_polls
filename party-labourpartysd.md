@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.0–5.3% | 1.8–5.7% | 1.6–6.0% | 1.3–6.6% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.6–5.8% |
+| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.7% |
 | [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
@@ -142,15 +143,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 19% | 98% |  |
-| 2.5–3.5% | 14% | 79% |  |
-| 3.5–4.5% | 35% | 65% | Median |
-| 4.5–5.5% | 23% | 30% | Last Result |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 19% | 99.7% |  |
+| 3.5–4.5% | 60% | 80% | Median |
+| 4.5–5.5% | 19% | 20% | Last Result |
+| 5.5–6.5% | 1.2% | 1.2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -162,6 +161,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
