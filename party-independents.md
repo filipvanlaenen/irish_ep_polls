@@ -171,15 +171,15 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 0–1 |
-| [11–13 June 2023](2023-06-13-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 1 | 1 |
+| [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 1 |
+| [11–13 June 2023](2023-06-13-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 1 | 1 | 1 | 1 |
 | [2 June 2023](2023-06-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–24 May 2023](2023-05-24-RedC.html) | Red C <br> Business Post | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [27 April–9 May 2023](2023-05-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 April–9 May 2023](2023-05-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 May 2023](2023-05-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–26 April 2023](2023-04-26-RedC.html) | Red C <br> Business Post | 1 | 1 | 1 | 1 | 0–1 |
 | [28 March–4 April 2023](2023-04-04-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
@@ -306,8 +306,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Median |
-| 1 | 4% | 4% |  |
+| 0 | 84% | 100% | Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 

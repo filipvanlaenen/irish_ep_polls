@@ -164,11 +164,11 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2 | 2–3 | 2–4 | 2–4 |
-| [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2 | 2–4 | 2–4 | 2–4 |
+| [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2 | 2–3 | 2–3 | 2–4 |
-| [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [23 June 2023](2023-06-23-RedC.html) | Red C <br> Business Post | 5 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [11–13 June 2023](2023-06-13-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [2 June 2023](2023-06-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [19–24 May 2023](2023-05-24-RedC.html) | Red C <br> Business Post | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -300,9 +300,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 50% | 100% | Median |
-| 3 | 48% | 50% |  |
-| 4 | 2% | 2% | Last Result |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 47% | 50% |  |
+| 4 | 3% | 3% | Last Result |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
