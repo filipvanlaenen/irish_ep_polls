@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-09-18T22:28:31.746205+02:00</updated>
+  <updated>2023-09-21T19:09:12.704543+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 19.2–23.8%, 2–5 seats</li><li>Fianna Fáil (RE): 16.3–20.7%, 1–4 seats</li><li>Sinn Féin (GUE/NGL): 31.1–36.4%, 5–7 seats</li><li>Labour Party (S&amp;D): 2.3–4.2%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.3–4.2%, 0 seats</li><li>Social Democrats (S&amp;D): 4.9–7.6%, 1–2 seats</li><li>Green Party (Greens/EFA): 1.4–3.0%, 0 seats</li><li>Aontú (*): 1.4–3.0%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.3–4.3%, 0 seats</li><li>Independents (*): 5.5–8.3%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_ep_polls/2023-09-01-IrelandThinks.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_ep_polls/2023-09-01-IrelandThinks.html"/>
+    <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 August–1 September 2023</title>
+    <updated>2023-09-21T19:09:12.704543+02:00</updated>
+    <dc:date>2023-09-21T19:09:12.704543+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael (EPP): 17.0–21.3%, 2–4 seats</li><li>Fianna Fáil (RE): 16.0–20.2%, 2–4 seats</li><li>Sinn Féin (GUE/NGL): 31.4–36.6%, 6–8 seats</li><li>Labour Party (S&amp;D): 3.1–5.2%, 0 seats</li><li>Solidarity–People Before Profit (GUE/NGL): 2.2–4.1%, 0 seats</li><li>Social Democrats (S&amp;D): 4.0–6.4%, 1 seats</li><li>Green Party (Greens/EFA): 4.0–6.4%, 0 seats</li><li>Aontú (*): 1.3–2.9%, 0 seats</li><li>Independents 4 Change (GUE/NGL): 2.3–4.3%, 0 seats</li><li>Independents (*): 5.4–8.1%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_ep_polls/2023-08-05-IrelandThinks.html</id>
@@ -943,5 +951,5 @@
     <updated>2020-03-06T18:12:24+01:00</updated>
     <dc:date>2020-03-06T18:12:24+01:00</dc:date>
   </entry>
-  <dc:date>2023-09-18T22:28:31.746205+02:00</dc:date>
+  <dc:date>2023-09-21T19:09:12.704543+02:00</dc:date>
 </feed>
