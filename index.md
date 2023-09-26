@@ -5,7 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–24% <br> 2–5 | 16–21% <br> 1–4 | 6–8% <br> 0–1 | 31–36% <br> 5–7 | 2–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–24% <br> 2–5 | 14–23% <br> 1–4 | 5–9% <br> 0–1 | 29–36% <br> 5–8 | 2–5% <br> 0 | 2–4% <br> 0 | 2–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–2 | 2–5% <br> 0 | 1–4% <br> 0 |
+| [7–12 September 2023](2023-09-12-RedC.html) | Red C <br> Business Post | 19–24% <br> 2–5 | 14–19% <br> 1–4 | 6–10% <br> 0–1 | 29–34% <br> 5–8 | 3–5% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 3–5% <br> 0 | 2–4% <br> 0 |
+| [31 August–12 September 2023](2023-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18–23% <br> 2–4 | 19–24% <br> 4 | 5–8% <br> 0–1 | 30–36% <br> 5–7 | 3–6% <br> 0 | 1–3% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [31 August–1 September 2023](2023-09-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19–24% <br> 2–5 | 16–21% <br> 1–4 | 5–8% <br> 0–1 | 31–36% <br> 5–7 | 2–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
