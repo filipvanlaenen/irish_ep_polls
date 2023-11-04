@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 2.0% | 0.8–3.6% | 0.7–3.8% | 0.6–4.0% | 0.5–4.5% |
 | [28–29 September 2023](2023-09-29-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.1% | 1.9–4.5% |
 | [26 September 2023](2023-09-26-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
-| [7–12 September 2023](2023-09-12-RedC.html) | Red C <br> Business Post | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
+| [7–12 September 2023](2023-09-12-RedC.html) | Red C <br> Business Post | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 | [31 August–12 September 2023](2023-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [31 August–1 September 2023](2023-09-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.5–2.6% | 1.4–2.7% | 1.3–2.9% | 1.2–3.2% |
@@ -54,7 +54,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | [1 July 2022](2022-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [17–22 June 2022](2022-06-22-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [25 May–7 June 2022](2022-06-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
-| [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.1% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.6% |
+| [4 June 2022](2022-06-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [20–25 May 2022](2022-05-25-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [28 April–10 May 2022](2022-05-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [7 May 2022](2022-05-07-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
@@ -76,10 +76,10 @@ Last result: **0.0%** (General Election of 24 May 2019)
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
 | [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.2% | N/A | N/A | N/A | N/A |
-| [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.1% | N/A | N/A | N/A | N/A |
+| [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.0% | N/A | N/A | N/A | N/A |
+| [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1.0% | N/A | N/A | N/A | N/A |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
-| [18 September 2021](2021-09-18-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.3% | N/A | N/A | N/A | N/A |
+| [18 September 2021](2021-09-18-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | N/A | N/A | N/A | N/A |
 | [3–9 September 2021](2021-09-09-RedC.html) | Red C <br> Business Post | 2.0% | N/A | N/A | N/A | N/A |
 | [26 August–8 September 2021](2021-09-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | N/A | N/A | N/A | N/A |
 | [21 August 2021](2021-08-21-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.0% | N/A | N/A | N/A | N/A |

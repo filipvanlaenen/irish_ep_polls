@@ -13,9 +13,9 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | N/A | [Poll Average](average.html) | 3.5% | 2.6–4.7% | 2.5–5.0% | 2.3–5.2% | 2.0–5.8% |
 | [28–29 September 2023](2023-09-29-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.7% | 2.3–4.0% | 2.2–4.1% | 1.9–4.5% |
 | [26 September 2023](2023-09-26-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
-| [7–12 September 2023](2023-09-12-RedC.html) | Red C <br> Business Post | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
+| [7–12 September 2023](2023-09-12-RedC.html) | Red C <br> Business Post | 4.0% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [31 August–12 September 2023](2023-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [31 August–1 September 2023](2023-09-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.3–4.2% | 2.0–4.6% |
+| [31 August–1 September 2023](2023-09-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.8% | 2.4–4.0% | 2.3–4.2% | 2.0–4.6% |
 | [4–5 August 2023](2023-08-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.7% |
 | [28 June–12 July 2023](2023-07-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [30 June–1 July 2023](2023-07-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
@@ -26,7 +26,7 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | [27 April–9 May 2023](2023-05-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [5–6 May 2023](2023-05-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [21–26 April 2023](2023-04-26-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–5.0% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [28 March–4 April 2023](2023-04-04-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.1% | 3.3–5.0% | 3.1–5.3% | 3.0–5.6% | 2.7–6.1% |
+| [28 March–4 April 2023](2023-04-04-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.6% | 2.7–6.1% |
 | [31 March–1 April 2023](2023-04-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [17–22 March 2023](2023-03-22-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [4–14 March 2023](2023-03-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.2–6.0% | 3.9–6.3% | 3.8–6.6% | 3.4–7.1% |
@@ -72,14 +72,14 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | [12 December 2021](2021-12-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.5% | 2.6–6.0% |
 | [5–8 December 2021](2021-12-08-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [25 November–8 December 2021](2021-12-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.6% | 3.4–7.2% |
-| [19–25 November 2021](2021-11-25-RedC.html) | Red C <br> Business Post | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [19–25 November 2021](2021-11-25-RedC.html) | Red C <br> Business Post | 4.0% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [14 November 2021](2021-11-14-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.4–7.1% |
-| [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
+| [28 October–9 November 2021](2021-11-09-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.0% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
 | [22 October 2021](2021-10-22-RedC.html) | Red C <br> Business Post | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
-| [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.2% | N/A | N/A | N/A | N/A |
-| [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.1% | N/A | N/A | N/A | N/A |
+| [16 October 2021](2021-10-16-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | N/A | N/A | N/A | N/A |
+| [30 September–12 October 2021](2021-10-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | N/A | N/A | N/A | N/A |
 | [2–5 October 2021](2021-10-05-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [18 September 2021](2021-09-18-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.3% | N/A | N/A | N/A | N/A |
+| [18 September 2021](2021-09-18-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | N/A | N/A | N/A | N/A |
 | [3–9 September 2021](2021-09-09-RedC.html) | Red C <br> Business Post | 5.0% | N/A | N/A | N/A | N/A |
 | [26 August–8 September 2021](2021-09-08-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | N/A | N/A | N/A | N/A |
 | [21 August 2021](2021-08-21-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 6.0% | N/A | N/A | N/A | N/A |
@@ -92,20 +92,20 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | [21–27 May 2021](2021-05-27-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [4–18 May 2021](2021-05-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.0% |
 | [15 May 2021](2021-05-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 4.0% | 3.3–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.6% |
-| [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
+| [16–22 April 2021](2021-04-22-RedC.html) | Red C <br> Business Post | 5.0% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [14–15 April 2021](2021-04-15-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [19–25 March 2021](2021-03-25-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [20 March 2021](2021-03-20-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [18–25 February 2021](2021-02-25-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [22–23 February 2021](2021-02-23-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
-| [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.1% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.6–7.1% |
+| [12 February 2021](2021-02-12-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.0% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.6–7.1% |
 | [21–28 January 2021](2021-01-28-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.1% | 4.3–5.9% | 4.1–6.2% | 4.0–6.4% | 3.6–6.9% |
+| [17 January 2021](2021-01-17-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 5.0% | 4.3–5.9% | 4.1–6.2% | 4.0–6.4% | 3.6–6.9% |
 | [3–15 December 2020](2020-12-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.6% | 3.4–7.2% |
 | [29 November 2020](2020-11-29-IrelandThinks.html) | Ireland Thinks <br> Irish Mail on Sunday | 3.9% | 3.2–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.7% |
 | [19–25 November 2020](2020-11-25-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [24 October 2020](2020-10-24-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [17 October 2020](2020-10-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.6% | 2.7–6.1% |
+| [17 October 2020](2020-10-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.4–5.0% | 3.2–5.3% | 3.0–5.6% | 2.7–6.1% |
 | [3–6 October 2020](2020-10-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [26 September 2020](2020-09-26-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.7% |
 | [4–15 September 2020](2020-09-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
@@ -119,27 +119,27 @@ Last result: **5.3%** (General Election of 24 May 2019)
 | [19–23 May 2020](2020-05-23-IrelandThinks.html) | Ireland Thinks <br> Mail on Sunday | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [23–29 April 2020](2020-04-29-RedC.html) | Red C <br> Business Post | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [20–25 March 2020](2020-03-25-RedC.html) | Red C <br> The Sunday Business Post | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
-| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
+| [27 February–10 March 2020](2020-03-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.0% | 2.5–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
 | [17–25 February 2020](2020-02-25-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.1% | 2.4–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.8% |
 | [16 February 2020](2020-02-16-AmárachResearch.html) | Amárach Research <br> Extra.ie | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.3–8.1% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
-| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 6.7% | 5.7–7.8% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 5.0% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 5.0% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 6.1% | 5.7–7.8% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.4% | 3.7–5.4% | 3.4–5.7% | 3.3–5.9% | 2.9–6.4% |
-| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 5.7% | 5.0–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.4% |
-| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.5% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.7–5.4% | 3.4–5.7% | 3.3–5.9% | 2.9–6.4% |
+| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 5.0% | 5.0–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.4% |
+| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.0% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.7% | 5.8–7.9% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
+| [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.0% | 5.8–7.9% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.6% | 4.7–6.7% | 4.4–7.0% | 4.2–7.3% | 3.9–7.8% |
-| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 6.1% | 5.3–7.1% | 5.0–7.3% | 4.9–7.6% | 4.5–8.1% |
-| [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.3–4.7% | 2.1–5.2% |
-| [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
-| [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.1% | 4.3–6.2% | 4.0–6.5% | 3.8–6.7% | 3.5–7.3% |
+| [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.7–6.7% | 4.4–7.0% | 4.2–7.3% | 3.9–7.8% |
+| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 6.0% | 5.3–7.1% | 5.0–7.3% | 4.9–7.6% | 4.5–8.1% |
+| [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3.0% | 2.7–4.2% | 2.5–4.5% | 2.3–4.7% | 2.1–5.2% |
+| [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 6.0% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.3–6.2% | 4.0–6.5% | 3.8–6.7% | 3.5–7.3% |
 | [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
 
 ### Probability Mass Function
