@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.6% | 2.8–5.9% | 2.7–6.2% | 2.4–6.7% |
-| [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–7.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.6% | 3.6–5.9% | 3.4–6.2% | 3.1–6.7% |
+| [1–2 December 2023](2023-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.2–5.5% | 3.0–5.9% |
+| [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [2–3 November 2023](2023-11-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.4% | 2.8–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.8% |
 | [20–25 October 2023](2023-10-25-RedC.html) | Red C <br> Business Post | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [28–29 September 2023](2023-09-29-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.7% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
@@ -153,12 +154,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 29% | 98.9% |  |
-| 3.5–4.5% | 32% | 70% | Median |
-| 4.5–5.5% | 27% | 37% |  |
-| 5.5–6.5% | 10% | 10% |  |
-| 6.5–7.5% | 0.8% | 0.9% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 41% | 95% |  |
+| 4.5–5.5% | 43% | 54% | Median |
+| 5.5–6.5% | 11% | 12% |  |
+| 6.5–7.5% | 0.7% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -171,6 +172,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–2 December 2023](2023-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [2–3 November 2023](2023-11-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [20–25 October 2023](2023-10-25-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
