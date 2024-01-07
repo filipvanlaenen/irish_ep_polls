@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 18.9–22.0% | 18.5–22.5% | 18.1–22.9% | 17.4–23.6% |
+| N/A | [Poll Average](average.html) | 19.9% | 18.3–21.6% | 17.8–22.1% | 17.4–22.5% | 16.7–23.4% |
+| [6 January 2024](2024-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19.9% | 18.3–21.6% | 17.8–22.1% | 17.4–22.5% | 16.7–23.4% |
 | [1–2 December 2023](2023-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.8% | 19.4–22.3% | 19.0–22.8% | 18.7–23.1% | 18.1–23.9% |
 | [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 20.0% | 18.6–21.5% | 18.2–22.0% | 17.8–22.3% | 17.1–23.1% |
 | [2–3 November 2023](2023-11-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 21.0% | 19.6–22.4% | 19.2–22.8% | 18.9–23.2% | 18.3–23.9% |
@@ -152,17 +153,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.7% | 100% |  |
-| 17.5–18.5% | 5% | 99.3% |  |
-| 18.5–19.5% | 17% | 94% |  |
-| 19.5–20.5% | 30% | 77% | Median |
-| 20.5–21.5% | 28% | 47% |  |
-| 21.5–22.5% | 14% | 18% | Last Result |
-| 22.5–23.5% | 4% | 4% |  |
-| 23.5–24.5% | 0.5% | 0.6% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 3% | 99.6% |  |
+| 17.5–18.5% | 12% | 97% |  |
+| 18.5–19.5% | 25% | 85% |  |
+| 19.5–20.5% | 29% | 60% | Median |
+| 20.5–21.5% | 20% | 31% |  |
+| 21.5–22.5% | 8% | 11% | Last Result |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.3% | 0.3% |  |
 | 24.5–25.5% | 0% | 0% |  |
-| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -174,6 +175,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [6 January 2024](2024-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [1–2 December 2023](2023-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3 | 2–4 | 2–4 | 2–5 |
 | [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [2–3 November 2023](2023-11-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -317,10 +319,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 21% | 100% |  |
-| 3 | 46% | 79% | Median |
-| 4 | 12% | 33% | Last Result |
-| 5 | 21% | 21% |  |
+| 2 | 37% | 100% |  |
+| 3 | 26% | 63% | Median |
+| 4 | 22% | 37% | Last Result |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 
