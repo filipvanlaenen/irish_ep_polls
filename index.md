@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | I | SF | Lab | S-PBP | GP | IA | RI | SD | I4C | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–22% <br> 2–5 | 15–19% <br> 1–4 | 9–13% <br> 1–2 | 27–33% <br> 5–7 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 4–7% <br> 0–1 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–23% <br> 2–5 | 15–20% <br> 1–4 | 9–14% <br> 1–2 | 23–32% <br> 4–7 | 2–5% <br> 0 | 2–4% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 4–7% <br> 0–1 | 2–4% <br> 0 |
+| [19–24 January 2024](2024-01-24-RedC.html) | Red C <br> Business Post | 18–23% <br> 2–5 | 15–20% <br> 1–4 | 10–14% <br> 1–2 | 22–28% <br> 4–5 | 3–5% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | 4–7% <br> 0–1 | 2–4% <br> 0 |
 | [6 January 2024](2024-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 17–23% <br> 2–5 | 15–19% <br> 1–4 | 9–13% <br> 1–2 | 27–33% <br> 5–7 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 4–7% <br> 0–1 | 2–4% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
