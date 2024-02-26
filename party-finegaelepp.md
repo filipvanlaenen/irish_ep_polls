@@ -10,7 +10,8 @@ Last result: **22.3%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 17.7–21.0% | 17.4–21.5% | 17.0–22.0% | 16.3–22.9% |
+| N/A | [Poll Average](average.html) | 19.3% | 17.7–21.0% | 17.3–21.5% | 17.0–22.0% | 16.3–22.9% |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.5% |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18.8% | 17.5–20.2% | 17.1–20.6% | 16.8–20.9% | 16.2–21.6% |
 | [19–24 January 2024](2024-01-24-RedC.html) | Red C <br> Business Post | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.5% |
@@ -177,7 +178,8 @@ Last result: **4** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [19–24 January 2024](2024-01-24-RedC.html) | Red C <br> Business Post | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -325,10 +327,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 44% | 100% |  |
-| 3 | 38% | 56% | Median |
-| 4 | 11% | 17% | Last Result |
-| 5 | 6% | 6% |  |
+| 2 | 42% | 100% |  |
+| 3 | 30% | 58% | Median |
+| 4 | 15% | 28% | Last Result |
+| 5 | 13% | 13% |  |
 | 6 | 0% | 0% |  |
 
 
