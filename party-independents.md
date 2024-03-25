@@ -10,8 +10,8 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.5–13.9% | 11.2–14.3% | 11.0–14.6% | 10.4–15.3% |
-| [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 12.7% | 11.5–13.9% | 11.2–14.3% | 10.9–14.6% | 10.4–15.3% |
+| N/A | [Poll Average](average.html) | 13.1% | 11.9–14.4% | 11.6–14.8% | 11.3–15.1% | 10.8–15.7% |
+| [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 13.1% | 11.9–14.4% | 11.6–14.8% | 11.3–15.1% | 10.7–15.7% |
 | [1–2 December 2023](2023-12-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.3% |
 | [17–22 November 2023](2023-11-22-RedC.html) | Red C <br> Business Post | 10.6% | 9.5–11.8% | 9.2–12.1% | 8.9–12.5% | 8.5–13.1% |
 | [2–3 November 2023](2023-11-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 7.3% | 6.4–8.3% | 6.2–8.5% | 6.0–8.8% | 5.7–9.3% |
@@ -154,13 +154,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 10% | 99.2% |  |
-| 11.5–12.5% | 33% | 90% |  |
-| 12.5–13.5% | 38% | 57% | Median |
-| 13.5–14.5% | 16% | 19% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 4% | 99.8% |  |
+| 11.5–12.5% | 23% | 95% |  |
+| 12.5–13.5% | 40% | 73% | Median |
+| 13.5–14.5% | 25% | 33% |  |
+| 14.5–15.5% | 7% | 7% |  |
+| 15.5–16.5% | 0.8% | 0.8% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
