@@ -16,7 +16,7 @@ Last result: **22.3%** (General Election of 24 May 2019)
 | [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.9% | N/A | N/A | N/A | N/A |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 21.2% | N/A | N/A | N/A | N/A |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 19.6% | 18.2–21.1% | 17.8–21.5% | 17.4–21.9% | 16.8–22.6% |
-| [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 19.6% | N/A | N/A | N/A | N/A |
+| [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 19.6% | 18.2–21.2% | 17.8–21.6% | 17.4–22.0% | 16.8–22.8% |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19.6% | N/A | N/A | N/A | N/A |
 | [19–24 January 2024](2024-01-24-RedC.html) | Red C <br> Business Post | 21.0% | N/A | N/A | N/A | N/A |
 | [6 January 2024](2024-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.7% | N/A | N/A | N/A | N/A |
@@ -192,7 +192,7 @@ Last result: **4** seats (General Election of 24 May 2019)
 | [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 3 | 3 | 3 | 3 | 3–4 |
-| [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times |  |  |  |  |  |
+| [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 3 | 3 | 3 | 3 | 3 |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
 | [19–24 January 2024](2024-01-24-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [6 January 2024](2024-01-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
