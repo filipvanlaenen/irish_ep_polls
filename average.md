@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 18–24% <br> 3–5 | 15–19% <br> 2–4 | 11–15% <br> 1–2 | 24–30% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 0–2 | 3–6% <br> 0 |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20–24% <br> 3–5 | 15–19% <br> 2–4 | 11–14% <br> 1–2 | 25–30% <br> 6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 0–1 | 3–5% <br> 0 |
+| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20–24% <br> 3–5 | 15–19% <br> 2–4 | 11–14% <br> 1–2 | 25–30% <br> 6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 0 | 3–5% <br> 0 |
 | [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 18–23% <br> 3–5 | 15–19% <br> 2–4 | 11–15% <br> 1–2 | 24–29% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 0–2 | 4–7% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -253,9 +253,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
-| 3 | 56% | 99.8% | Median |
-| 4 | 17% | 44% | Last Result |
-| 5 | 26% | 26% |  |
+| 3 | 51% | 99.8% | Median |
+| 4 | 19% | 48% | Last Result |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -267,9 +267,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 38% | 100% |  |
-| 3 | 15% | 62% | Median |
-| 4 | 47% | 47% |  |
+| 2 | 42% | 100% |  |
+| 3 | 15% | 58% | Median |
+| 4 | 42% | 42% |  |
 | 5 | 0% | 0% |  |
 
 ### Independents (*)
@@ -280,8 +280,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% |  |
+| 1 | 87% | 100% | Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Sinn Féin (GUE/NGL)
@@ -360,8 +360,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 8% | 11% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 8% | 10% |  |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -396,9 +396,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
-| 3 | 56% | 99.8% | Median |
-| 4 | 17% | 44% | Last Result |
-| 5 | 26% | 26% |  |
+| 3 | 51% | 99.8% | Median |
+| 4 | 19% | 48% | Last Result |
+| 5 | 30% | 30% |  |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -408,9 +408,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 38% | 100% |  |
-| 3 | 15% | 62% | Median |
-| 4 | 47% | 47% |  |
+| 2 | 42% | 100% |  |
+| 3 | 15% | 58% | Median |
+| 4 | 42% | 42% |  |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -436,5 +436,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 2
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.96%
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.36%
