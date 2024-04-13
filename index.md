@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 30 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 18–24% <br> 3–5 | 15–19% <br> 2–4 | 11–15% <br> 1–2 | 24–30% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 0–2 | 3–6% <br> 0 |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20–24% <br> 3–5 | 15–19% <br> 2–4 | 11–14% <br> 1–2 | 25–30% <br> 6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 0–1 | 3–5% <br> 0 |
+| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20–24% <br> 3–5 | 15–19% <br> 2–4 | 11–14% <br> 1–2 | 25–30% <br> 6 | 2–4% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–7% <br> 0 | 3–5% <br> 0 |
 | [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 18–23% <br> 3–5 | 15–19% <br> 2–4 | 11–15% <br> 1–2 | 24–29% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 0–2 | 4–7% <br> 0 |
 | 24 May 2019 | General Election | 22.3% <br> 4 | 22.3% <br> 1 | 19.8% <br> 3 | 19.5% <br> 3 | 5.3% <br> 0 | 1.5% <br> 0 | 4.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
