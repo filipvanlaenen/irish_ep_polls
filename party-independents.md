@@ -10,11 +10,8 @@ Last result: **19.8%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.6–14.3% | 11.2–14.7% | 11.0–15.1% | 10.4–15.9% |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 12.5% | 11.4–13.8% | 11.1–14.1% | 10.8–14.4% | 10.3–15.1% |
-| [23 March 2024](2024-03-23-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 9.7% | 8.7–10.9% | 8.4–11.2% | 8.2–11.5% | 7.7–12.1% |
-| [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 13.2% | 11.9–14.7% | 11.5–15.1% | 11.2–15.5% | 10.6–16.2% |
-| [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 11.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 12.4% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–14.9% |
+| [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–14.9% |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 11.1% | N/A | N/A | N/A | N/A |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 13.1% | 11.9–14.4% | 11.6–14.8% | 11.3–15.1% | 10.7–15.7% |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 11.6% | 10.5–12.9% | 10.2–13.3% | 9.9–13.6% | 9.4–14.2% |
@@ -164,14 +161,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.8% | 100% |  |
-| 10.5–11.5% | 9% | 99.2% |  |
-| 11.5–12.5% | 28% | 91% |  |
-| 12.5–13.5% | 36% | 62% | Median |
-| 13.5–14.5% | 20% | 27% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 1.0% | 1.1% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 2% | 100% |  |
+| 10.5–11.5% | 16% | 98% |  |
+| 11.5–12.5% | 39% | 82% | Median |
+| 12.5–13.5% | 32% | 43% |  |
+| 13.5–14.5% | 10% | 11% |  |
+| 14.5–15.5% | 1.2% | 1.2% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% | Last Result |
@@ -185,11 +182,8 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 1–2 | 1–2 |
-| [23 March 2024](2024-03-23-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 1 | 1 |
-| [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 1 | 1 | 1 | 1 | 1–2 |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 1 | 1 | 1 | 1 | 1–2 |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 1 | 1 | 1 | 1 | 1 |
@@ -340,8 +334,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% |  |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% | Last Result |
 
 

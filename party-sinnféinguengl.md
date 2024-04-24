@@ -10,11 +10,8 @@ Last result: **19.5%** (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.8% | 25.0–28.6% | 24.5–29.1% | 24.0–29.6% | 23.1–30.4% |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 27.3% | 25.7–29.0% | 25.3–29.4% | 24.9–29.8% | 24.2–30.6% |
-| [23 March 2024](2024-03-23-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 28.3% | 26.7–30.0% | 26.3–30.5% | 25.9–30.9% | 25.1–31.7% |
-| [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 26.3% | 24.5–28.2% | 24.0–28.7% | 23.6–29.1% | 22.8–30.0% |
-| [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 28.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.9% | 22.4–25.5% | 22.0–25.9% | 21.6–26.3% | 20.9–27.1% |
+| [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 23.9% | 22.4–25.5% | 22.0–25.9% | 21.6–26.3% | 20.9–27.1% |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 29.6% | N/A | N/A | N/A | N/A |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 26.8% | 25.2–28.5% | 24.8–29.0% | 24.4–29.4% | 23.6–30.2% |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 28.9% | 27.3–30.7% | 26.8–31.2% | 26.4–31.6% | 25.6–32.4% |
@@ -163,19 +160,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% | Last Result |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.0% | 99.9% |  |
-| 23.5–24.5% | 5% | 98.8% |  |
-| 24.5–25.5% | 13% | 94% |  |
-| 25.5–26.5% | 23% | 82% |  |
-| 26.5–27.5% | 27% | 58% | Median |
-| 27.5–28.5% | 20% | 31% |  |
-| 28.5–29.5% | 9% | 11% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.3% | 0.4% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.2% | 100% | Last Result |
+| 20.5–21.5% | 2% | 99.8% |  |
+| 21.5–22.5% | 10% | 98% |  |
+| 22.5–23.5% | 25% | 88% |  |
+| 23.5–24.5% | 32% | 62% | Median |
+| 24.5–25.5% | 21% | 30% |  |
+| 25.5–26.5% | 8% | 9% |  |
+| 26.5–27.5% | 1.4% | 2% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -186,11 +181,8 @@ Last result: **3** seats (General Election of 24 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6 | 6 | 5–6 | 4–6 |
-| [5–6 April 2024](2024-04-06-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6 | 6 | 6 | 6 | 5–6 |
-| [23 March 2024](2024-03-23-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6 | 6 | 6 | 6 | 5–6 |
-| [20 March 2024](2024-03-20-RedC.html) | Red C <br> Business Post | 6 | 6 | 5–6 | 5–6 | 4–6 |
-| [1–2 March 2024](2024-03-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 6 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 6 | 6 | 6 | 5–6 | 4–6 |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 6 | 6 | 6 | 6 | 6 |
@@ -341,10 +333,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 0.6% | 100% |  |
-| 5 | 4% | 99.4% |  |
-| 6 | 96% | 96% | Median |
+| 3 | 1.2% | 100% | Last Result |
+| 4 | 10% | 98.8% |  |
+| 5 | 11% | 88% |  |
+| 6 | 78% | 78% | Median |
 | 7 | 0% | 0% |  |
 
 
