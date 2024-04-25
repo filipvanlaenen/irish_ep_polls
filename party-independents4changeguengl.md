@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 24 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 5.0–6.7% | 4.8–6.9% | 4.6–7.2% | 4.3–7.6% |
 | [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 5.7% | 5.0–6.7% | 4.8–6.9% | 4.6–7.2% | 4.3–7.6% |
-| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 5.2% | N/A | N/A | N/A | N/A |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 5.2% | 4.4–6.2% | 4.1–6.6% | 3.9–6.8% | 3.6–7.3% |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.5–8.1% |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 5.4% | 4.6–6.4% | 4.4–6.6% | 4.3–6.9% | 3.9–7.4% |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.7% | N/A | N/A | N/A | N/A |
@@ -182,7 +182,7 @@ Last result: **0** seats (General Election of 24 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–2 |
 | [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 0 | 0 | 0 | 0–1 | 0–2 |
-| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0–1 |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 0 | 0 | 0 | 0 | 0–2 |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |

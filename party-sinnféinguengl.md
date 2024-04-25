@@ -12,7 +12,7 @@ Last result: **19.5%** (General Election of 24 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.9% | 22.4–25.5% | 22.0–25.9% | 21.6–26.3% | 20.9–27.1% |
 | [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 23.9% | 22.4–25.5% | 22.0–25.9% | 21.6–26.3% | 20.9–27.1% |
-| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 29.6% | N/A | N/A | N/A | N/A |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 29.6% | 27.7–31.6% | 27.2–32.1% | 26.7–32.6% | 25.9–33.5% |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 26.8% | 25.2–28.5% | 24.8–29.0% | 24.4–29.4% | 23.6–30.2% |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 28.9% | 27.3–30.7% | 26.8–31.2% | 26.4–31.6% | 25.6–32.4% |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 29.9% | N/A | N/A | N/A | N/A |
@@ -183,7 +183,7 @@ Last result: **3** seats (General Election of 24 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [6–7 April 2024](2024-04-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
-| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [16–21 February 2024](2024-02-21-RedC.html) | Red C <br> Business Post | 6 | 6 | 6–7 | 6–7 | 5–8 |
 | [2–7 February 2024](2024-02-07-IrelandThinks.html) | Ireland Thinks <br> The Journal | 6 | 6 | 6 | 5–6 | 4–6 |
 | [2–6 February 2024](2024-02-06-IpsosBA.html) | Ipsos B&A <br> Irish Times | 6 | 6 | 6 | 6 | 6 |
 | [1–2 February 2024](2024-02-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
