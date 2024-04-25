@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 24 Apr 2024 22:45:54 +0200</pubDate>
+    <pubDate>Wed, 24 Apr 2024 22:53:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Journal, 6–7 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–6 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (*): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks-seats.png"
+        length="299409"
+        type="image/png"/>
+      <pubDate>Wed, 24 Apr 2024 22:53:18 +0200</pubDate>
+      <dc:date>2024-04-24T22:53:18.011311+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Journal, 6–7 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks-coalitions-seats.png"
+        length="209124"
+        type="image/png"/>
+      <pubDate>Wed, 24 Apr 2024 22:53:18 +0200</pubDate>
+      <dc:date>2024-04-24T22:53:18.011311+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Journal, 6–7 April 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-04-07-IrelandThinks.png"
         length="319192"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2024 22:45:54 +0200</pubDate>
-      <dc:date>2024-04-24T22:45:54.613695+02:00</dc:date>
+      <pubDate>Wed, 24 Apr 2024 22:53:18 +0200</pubDate>
+      <dc:date>2024-04-24T22:53:18.011311+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Journal, 2–7 February 2024 – Seat Projections for the Parties</title>
@@ -3859,6 +3879,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2024-04-24T22:45:54.613695+02:00</dc:date>
+    <dc:date>2024-04-24T22:53:18.011311+02:00</dc:date>
   </channel>
 </rss>
