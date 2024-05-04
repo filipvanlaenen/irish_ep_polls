@@ -16,7 +16,7 @@ Only polls for which at least the sample size has been published are included in
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
 + **FG:** Fine Gael (EPP)
 + **FF:** Fianna Fáil (RE)
-+ **I:** Independents (*)
++ **I:** Independents (GUE/NGL)
 + **SF:** Sinn Féin (GUE/NGL)
 + **Lab:** Labour Party (S&D)
 + **S-PBP:** Solidarity–People Before Profit (GUE/NGL)
