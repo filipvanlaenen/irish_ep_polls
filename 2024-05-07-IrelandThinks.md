@@ -33,7 +33,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 5 | 3–5 |3–5 |3–6 |3–6 |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 3 | 5 | 3–5 |3–6 |3–6 |3–6 |
 | <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 4 | 3 | 3–4 |3–4 |3–4 |3–5 |
 | <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 1 | 2 | 2–4 |2–4 |2–4 |2–4 |
 | <a href="#independents-(gue/ngl)">Independents (GUE/NGL)</a> | 3 | 2 | 2 |2 |2 |1–3 |
@@ -52,10 +52,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 29% | 100% | Last Result |
-| 4 | 16% | 71% |  |
-| 5 | 51% | 55% | Median |
-| 6 | 4% | 4% |  |
+| 3 | 23% | 100% | Last Result |
+| 4 | 23% | 77% |  |
+| 5 | 45% | 54% | Median |
+| 6 | 9% | 9% |  |
 | 7 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -67,8 +67,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 86% | 99.9% | Median |
-| 4 | 12% | 14% | Last Result |
+| 3 | 83% | 99.9% | Median |
+| 4 | 15% | 17% | Last Result |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -81,9 +81,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 58% | 100% | Median |
-| 3 | 15% | 42% |  |
-| 4 | 27% | 27% |  |
+| 2 | 60% | 100% | Median |
+| 3 | 17% | 40% |  |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### Independents (GUE/NGL)
@@ -94,10 +94,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% |  |
-| 2 | 97% | 98.9% | Median |
-| 3 | 2% | 2% | Last Result |
-| 4 | 0.5% | 0.5% |  |
+| 1 | 1.2% | 100% |  |
+| 2 | 97% | 98.8% | Median |
+| 3 | 1.4% | 2% | Last Result |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 ### Independents 4 Change (GUE/NGL)
@@ -108,9 +108,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 7% | 94% |  |
-| 2 | 87% | 87% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 10% | 92% |  |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -121,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 ### Aontú (*)
@@ -186,8 +186,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 86% | 99.9% | Median |
-| 4 | 12% | 14% | Last Result |
+| 3 | 83% | 99.9% | Median |
+| 4 | 15% | 17% | Last Result |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -198,9 +198,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 58% | 100% | Median |
-| 3 | 15% | 42% |  |
-| 4 | 27% | 27% |  |
+| 2 | 60% | 100% | Median |
+| 3 | 17% | 40% |  |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -209,8 +209,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 ### Labour Party (S&D) – Social Democrats (S&D)
@@ -233,6 +233,6 @@
 ### Calculations
 
 + **Sample size:** 1570
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.74%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.25%
 
