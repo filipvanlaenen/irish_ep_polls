@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Jun 2024 20:51:52 +0200</pubDate>
+    <pubDate>Sat, 01 Jun 2024 23:02:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Journal, 27 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-05-27-IrelandThinks.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-05-27-IrelandThinks-seats.png"
         length="312582"
         type="image/png"/>
-      <pubDate>Sat, 01 Jun 2024 20:51:52 +0200</pubDate>
-      <dc:date>2024-06-01T20:51:52.532315+02:00</dc:date>
+      <pubDate>Sat, 01 Jun 2024 23:02:41 +0200</pubDate>
+      <dc:date>2024-06-01T23:02:41.676649+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Journal, 27 May 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-05-27-IrelandThinks-coalitions-seats.png"
         length="176220"
         type="image/png"/>
-      <pubDate>Sat, 01 Jun 2024 20:51:52 +0200</pubDate>
-      <dc:date>2024-06-01T20:51:52.532315+02:00</dc:date>
+      <pubDate>Sat, 01 Jun 2024 23:02:41 +0200</pubDate>
+      <dc:date>2024-06-01T23:02:41.676649+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Journal, 27 May 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-05-27-IrelandThinks.png"
         length="321186"
         type="image/png"/>
-      <pubDate>Sat, 01 Jun 2024 20:51:52 +0200</pubDate>
-      <dc:date>2024-06-01T20:51:52.532315+02:00</dc:date>
+      <pubDate>Sat, 01 Jun 2024 23:02:41 +0200</pubDate>
+      <dc:date>2024-06-01T23:02:41.676649+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Red C for Business Post, 17–22 May 2024 – Seat Projections for the Parties</title>
@@ -4029,6 +4029,6 @@
       <pubDate>Fri, 06 Mar 2020 18:12:24 +0100</pubDate>
       <dc:date>2020-03-06T18:12:24+01:00</dc:date>
     </item>
-    <dc:date>2024-06-01T20:51:52.532315+02:00</dc:date>
+    <dc:date>2024-06-01T23:02:41.676649+02:00</dc:date>
   </channel>
 </rss>
