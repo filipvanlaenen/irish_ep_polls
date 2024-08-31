@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 06 Aug 2024 22:48:43 +0200</pubDate>
+    <pubDate>Sat, 31 Aug 2024 19:12:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 29–30 August 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 3–5 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks-seats.png"
+        length="284438"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2024 19:12:55 +0200</pubDate>
+      <dc:date>2024-08-31T19:12:55.443418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 29–30 August 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks-coalitions-seats.png"
+        length="183158"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2024 19:12:55 +0200</pubDate>
+      <dc:date>2024-08-31T19:12:55.443418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 29–30 August 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Aontú (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 15.7–20.6%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 22.4–27.9%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 18.5–23.7%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Independents (*): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Independents (RE): 1.2–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-30-IrelandThinks.png"
+        length="375879"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2024 19:12:55 +0200</pubDate>
+      <dc:date>2024-08-31T19:12:55.443418+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 2 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-02-IrelandThinks.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Sat, 27 Jul 2024 22:45:02 +0200</pubDate>
       <dc:date>2024-07-27T22:45:02.090504+02:00</dc:date>
     </item>
-    <dc:date>2024-08-06T22:48:43.277166+02:00</dc:date>
+    <dc:date>2024-08-31T19:12:55.443418+02:00</dc:date>
   </channel>
 </rss>
