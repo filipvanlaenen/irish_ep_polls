@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.6% | 1.5–3.8% | 1.4–4.0% | 1.2–4.5% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.5% | 1.6–3.8% | 1.5–4.0% | 1.3–4.5% |
+| [31 August 2024](2024-08-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.5% | 1.4–2.7% | 1.4–2.8% | 1.2–3.1% |
 | [29–30 August 2024](2024-08-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [2 August 2024](2024-08-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.2–3.2% |
 | [5 July 2024](2024-07-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.0% | 2.0–4.4% |
@@ -24,9 +25,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 44% | 95% |  |
-| 2.5–3.5% | 41% | 51% | Median |
-| 3.5–4.5% | 10% | 10% |  |
+| 1.5–2.5% | 49% | 95% | Median |
+| 2.5–3.5% | 37% | 47% |  |
+| 3.5–4.5% | 9% | 10% |  |
 | 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -40,6 +41,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 August 2024](2024-08-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [29–30 August 2024](2024-08-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [2 August 2024](2024-08-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [5 July 2024](2024-07-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 0–1 | 0–1 |
