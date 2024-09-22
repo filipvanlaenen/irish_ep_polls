@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.2% | 20.0–26.0% | 19.4–26.5% | 19.0–27.0% | 18.1–27.8% |
+| N/A | [Poll Average](average.html) | 24.7% | 22.3–27.4% | 21.7–28.1% | 21.2–28.7% | 20.3–29.7% |
+| [13–19 September 2024](2024-09-19-Opinions.html) | Opinions <br> The Sunday Times | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [14–17 September 2024](2024-09-17-IpsosBA.html) | Ipsos B&A <br> Irish Times | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
+| [5–10 September 2024](2024-09-10-RedC.html) | Red C <br> Business Post | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [31 August 2024](2024-08-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 25.0% | 23.6–26.5% | 23.2–27.0% | 22.8–27.3% | 22.2–28.1% |
 | [29–30 August 2024](2024-08-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 25.1% | 23.3–26.9% | 22.8–27.5% | 22.4–27.9% | 21.6–28.8% |
 | [2 August 2024](2024-08-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 24.0% | 22.6–25.5% | 22.2–25.9% | 21.8–26.3% | 21.1–27.1% |
@@ -40,20 +43,22 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.0% | 99.9% |  |
-| 18.5–19.5% | 5% | 98.8% |  |
-| 19.5–20.5% | 11% | 94% |  |
-| 20.5–21.5% | 15% | 82% |  |
-| 21.5–22.5% | 12% | 67% |  |
-| 22.5–23.5% | 9% | 55% | Median |
-| 23.5–24.5% | 13% | 47% |  |
-| 24.5–25.5% | 17% | 33% |  |
-| 25.5–26.5% | 12% | 17% |  |
-| 26.5–27.5% | 4% | 5% |  |
-| 27.5–28.5% | 0.7% | 0.8% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.7% | 99.9% |  |
+| 20.5–21.5% | 3% | 99.2% |  |
+| 21.5–22.5% | 9% | 96% |  |
+| 22.5–23.5% | 15% | 87% |  |
+| 23.5–24.5% | 19% | 72% |  |
+| 24.5–25.5% | 19% | 53% | Median |
+| 25.5–26.5% | 15% | 34% |  |
+| 26.5–27.5% | 10% | 20% |  |
+| 27.5–28.5% | 6% | 9% |  |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,7 +69,10 @@ Last result: **0** seats (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5 | 5 |
+| [13–19 September 2024](2024-09-19-Opinions.html) | Opinions <br> The Sunday Times | 5 | 5 | 5 | 5 | 4–5 |
+| [14–17 September 2024](2024-09-17-IpsosBA.html) | Ipsos B&A <br> Irish Times | 5 | 5 | 5 | 5 | 5 |
+| [5–10 September 2024](2024-09-10-RedC.html) | Red C <br> Business Post | 5 | 5 | 5 | 5 | 4–5 |
 | [31 August 2024](2024-08-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5 | 5 | 5 | 5 |
 | [29–30 August 2024](2024-08-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5 | 5 | 5 | 5 |
 | [2 August 2024](2024-08-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5 | 5 | 5 | 5 |
@@ -82,9 +90,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.6% | 100% |  |
-| 4 | 5% | 99.4% |  |
-| 5 | 94% | 94% | Median |
+| 3 | 0% | 100% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 99.7% | 99.7% | Median |
 | 6 | 0% | 0% |  |
 
 
