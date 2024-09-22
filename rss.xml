@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Sep 2024 10:18:39 +0200</pubDate>
+    <pubDate>Sat, 21 Sep 2024 10:17:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-31-IrelandThinks.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 5 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-31-IrelandThinks-seats.png"
-        length="257575"
+        length="277427"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 10:18:39 +0200</pubDate>
-      <dc:date>2024-09-08T10:18:39.098306+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:17:18 +0200</pubDate>
+      <dc:date>2024-09-21T10:17:18.956278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 August 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2024-08-31-IrelandThinks.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-31-IrelandThinks-coalitions-seats.png"
-        length="137439"
+        length="164224"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 10:18:39 +0200</pubDate>
-      <dc:date>2024-09-08T10:18:39.098306+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:17:18 +0200</pubDate>
+      <dc:date>2024-09-21T10:17:18.956278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 August 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2024-08-31-IrelandThinks.png"
         length="363251"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 10:18:39 +0200</pubDate>
-      <dc:date>2024-09-08T10:18:39.098306+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:17:18 +0200</pubDate>
+      <dc:date>2024-09-21T10:17:18.956278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 29–30 August 2024 – Seat Projections for the Parties</title>
@@ -159,6 +159,6 @@
       <pubDate>Sat, 27 Jul 2024 22:45:02 +0200</pubDate>
       <dc:date>2024-07-27T22:45:02.090504+02:00</dc:date>
     </item>
-    <dc:date>2024-09-08T10:18:39.098306+02:00</dc:date>
+    <dc:date>2024-09-21T10:17:18.956278+02:00</dc:date>
   </channel>
 </rss>
