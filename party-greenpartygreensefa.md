@@ -53,7 +53,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [29–30 August 2024](2024-08-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [2 August 2024](2024-08-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5 July 2024](2024-07-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
-| [26 June 2024](2024-06-26-RedC.html) | Red C <br> Business Post | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| [26 June 2024](2024-06-26-RedC.html) | Red C <br> Business Post | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
