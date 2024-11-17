@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [7–13 November 2024](2024-11-13-Opinions.html) | Opinions <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0–1 |
+| [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
