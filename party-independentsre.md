@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.1% | 1.3–3.5% |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.1–2.8% |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 2.2% | N/A | N/A | N/A | N/A |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.7% |
@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0–1 |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |

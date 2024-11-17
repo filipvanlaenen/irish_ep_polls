@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% | 1.9–4.5% |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 4.0% | N/A | N/A | N/A | N/A |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.0% | 4.3–5.8% | 4.1–6.0% | 3.9–6.2% | 3.6–6.6% |
@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 1 | 1 | 1 | 1 | 1 |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 0–1 | 0–1 |

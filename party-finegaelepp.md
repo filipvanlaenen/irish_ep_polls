@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.8–24.4% | 19.1–25.2% |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 26.0% | 24.7–27.3% | 24.3–27.7% | 24.0–28.0% | 23.4–28.7% |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 22.0% | N/A | N/A | N/A | N/A |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 22.0% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 25.8% | 24.3–27.3% | 23.9–27.7% | 23.5–28.1% | 22.9–28.9% |
@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 5 | 5 | 5 | 5 | 5 |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5 | 5 | 5 | 5 |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 5 | 5 | 4–5 | 4–5 | 3–5 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 5 | 5 | 5 | 5 | 5 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 5 | 5 | 5 | 5 |

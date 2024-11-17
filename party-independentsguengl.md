@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% | 1.9–4.5% |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 3.1% | N/A | N/A | N/A | N/A |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.4% | 1.9–4.8% |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

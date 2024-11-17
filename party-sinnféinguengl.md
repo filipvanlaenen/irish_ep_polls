@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 18.0% | 16.6–19.4% | 16.2–19.9% | 15.9–20.2% | 15.3–21.0% |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18.0% | 16.9–19.2% | 16.6–19.6% | 16.3–19.8% | 15.8–20.4% |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 17.0% | N/A | N/A | N/A | N/A |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 17.0% | 15.6–18.7% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18.8% | 17.5–20.2% | 17.2–20.6% | 16.9–21.0% | 16.3–21.6% |
@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 3 | 3 | 3 | 3–4 | 3–5 |
 | [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 3 | 3 | 3 | 3 | 2–4 |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 3 | 3 | 3 | 3 | 2–4 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
