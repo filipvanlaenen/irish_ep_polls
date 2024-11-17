@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.0% | 15.5–20.5% | 15.0–21.1% | 14.5–21.6% | 13.7–22.5% |
+| N/A | [Poll Average](average.html) | 18.3% | 16.8–19.8% | 16.4–20.3% | 16.1–20.7% | 15.4–21.5% |
+| [7–13 November 2024](2024-11-13-Opinions.html) | Opinions <br> The Sunday Times | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
+| [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 18.0% | 16.6–19.4% | 16.2–19.9% | 15.9–20.2% | 15.3–21.0% |
+| [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18.0% | 16.9–19.2% | 16.6–19.6% | 16.3–19.8% | 15.8–20.4% |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post | 17.0% | N/A | N/A | N/A | N/A |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 18.8% | 17.5–20.2% | 17.2–20.6% | 16.9–21.0% | 16.3–21.6% |
@@ -42,17 +47,17 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 8% | 97% |  |
-| 15.5–16.5% | 15% | 89% |  |
-| 16.5–17.5% | 16% | 75% |  |
-| 17.5–18.5% | 17% | 58% | Median |
-| 18.5–19.5% | 18% | 41% |  |
-| 19.5–20.5% | 14% | 23% |  |
-| 20.5–21.5% | 7% | 10% |  |
-| 21.5–22.5% | 2% | 3% |  |
-| 22.5–23.5% | 0.4% | 0.4% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.7% | 100% |  |
+| 15.5–16.5% | 6% | 99.3% |  |
+| 16.5–17.5% | 20% | 94% |  |
+| 17.5–18.5% | 34% | 74% | Median |
+| 18.5–19.5% | 26% | 40% |  |
+| 19.5–20.5% | 11% | 14% |  |
+| 20.5–21.5% | 3% | 3% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
+| 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -64,7 +69,12 @@ Last result: **0** seats (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [7–13 November 2024](2024-11-13-Opinions.html) | Opinions <br> The Sunday Times | 3 | 3 | 3 | 3–4 | 3–4 |
+| [12–13 November 2024](2024-11-13-IpsosBA.html) | Ipsos B&A <br> Irish Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1–7 November 2024](2024-11-07-RedC.html) | Red C <br> Business Post | 3 | 3 | 3 | 3–4 | 3–5 |
+| [1–2 November 2024](2024-11-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18–23 October 2024](2024-10-23-RedC.html) | Red C <br> Business Post |  |  |  |  |  |
 | [16–22 October 2024](2024-10-22-RedC.html) | Red C <br> Business Post | 3 | 3 | 3 | 3 | 2–4 |
 | [10–16 October 2024](2024-10-16-Opinions.html) | Opinions <br> The Sunday Times | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [4 October 2024](2024-10-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -87,10 +97,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 65% | 97% | Median |
-| 4 | 21% | 32% |  |
-| 5 | 10% | 10% |  |
+| 2 | 0% | 100% |  |
+| 3 | 84% | 100% | Median |
+| 4 | 15% | 16% |  |
+| 5 | 1.1% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 
