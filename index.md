@@ -1,11 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 39 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 53 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | SF | Ind.L | S-PBP | I4C | GP | Lab | SD | FF | Ind.RE | II | FG | Ind | IA | RI | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–22% <br> 3 | 1–3% <br> 0 | 2–3% <br> 0 | 1–3% <br> 0 | 2–3% <br> 0 | 3–5% <br> 0–1 | 6–9% <br> 0–2 | 22–26% <br> 3–5 | 1–2% <br> 0 | 4–6% <br> 0–1 | 20–25% <br> 3–5 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 18–24% <br> 3–6 | 1–4% <br> 0–1 | 1–3% <br> 0 | 1–4% <br> 0 | 2–4% <br> 0 | 2–5% <br> 0–1 | 6–9% <br> 0–2 | 20–26% <br> 3–5 | 1–3% <br> 0 | 2–6% <br> 0 | 18–24% <br> 3–5 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 |
+| [22 January 2025](2025-01-22-RedC.html) | Red C <br> Business Post | 20–25% <br> 3–6 | 2–4% <br> 0–1 | 1–3% <br> 0–1 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | 6–9% <br> 0–2 | 20–25% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 | 18–23% <br> 3–5 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 |
 | [10–11 January 2025](2025-01-11-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 17–22% <br> 3 | 1–3% <br> 0 | 2–3% <br> 0 | 1–3% <br> 0 | 2–3% <br> 0 | 3–5% <br> 0–1 | 6–9% <br> 0–2 | 21–26% <br> 3–5 | 1–2% <br> 0 | 4–6% <br> 0–1 | 20–25% <br> 3–5 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 |
 | 7 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
