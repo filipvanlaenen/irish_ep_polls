@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 04 Feb 2025 22:48:27 +0100</pubDate>
+    <pubDate>Sun, 23 Feb 2025 12:02:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 19 February 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC-seats.png"
+        length="292281"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 12:02:22 +0100</pubDate>
+      <dc:date>2025-02-23T12:02:22.073452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 19 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC-coalitions-seats.png"
+        length="184176"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 12:02:22 +0100</pubDate>
+      <dc:date>2025-02-23T12:02:22.073452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Business Post, 19 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Independents (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Independents (RE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 20.6–25.7%&lt;/li&gt;&lt;li&gt;Aontú (*): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2025-02-19-RedC.png"
+        length="375324"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 12:02:22 +0100</pubDate>
+      <dc:date>2025-02-23T12:02:22.073452+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 January–1 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2025-02-01-IrelandThinks.html#seats</link>
@@ -669,6 +699,6 @@
       <pubDate>Thu, 26 Sep 2024 22:26:25 +0200</pubDate>
       <dc:date>2024-09-26T22:26:25.115885+02:00</dc:date>
     </item>
-    <dc:date>2025-02-04T22:48:27.162654+01:00</dc:date>
+    <dc:date>2025-02-23T12:02:22.073452+01:00</dc:date>
   </channel>
 </rss>
