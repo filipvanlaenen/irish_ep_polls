@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 63 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 83 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | SF | Ind.L | S-PBP | I4C | GP | Lab | SD | FF | Ind.RE | II | FG | Ind | IA | RI | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
