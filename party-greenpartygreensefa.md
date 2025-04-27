@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.7% | 1.9–3.6% | 1.7–3.9% | 1.6–4.1% | 1.4–4.5% |
+| [18–23 April 2025](2025-04-23-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [17 April 2025](2025-04-17-IpsosBA.html) | Ipsos B&A <br> Irish Times | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [3–4 April 2025](2025-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.0% | 1.6–2.4% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [26 March 2025](2025-03-26-RedC.html) | Red C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
@@ -63,6 +64,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–23 April 2025](2025-04-23-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [17 April 2025](2025-04-17-IpsosBA.html) | Ipsos B&A <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [3–4 April 2025](2025-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [26 March 2025](2025-03-26-RedC.html) | Red C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
