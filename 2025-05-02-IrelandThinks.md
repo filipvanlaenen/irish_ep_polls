@@ -37,13 +37,13 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–5 |
-| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 0 | 4 | 4 |4–5 |4–5 |3–5 |
-| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
-| <a href="#social-democrats-(s&d)">Social Democrats (S&D)</a> | 0 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–5 |
+| <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 0 | 3 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#social-democrats-(s&d)">Social Democrats (S&D)</a> | 0 | 2 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#independent-ireland-(re)">Independent Ireland (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#aontú-(*)">Aontú (*)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
-| <a href="#solidarity–people-before-profit-(gue/ngl)">Solidarity–People Before Profit (GUE/NGL)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#solidarity–people-before-profit-(gue/ngl)">Solidarity–People Before Profit (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#independents-(*)">Independents (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#independents-(gue/ngl)">Independents (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -61,9 +61,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 76% | 95% | Median |
-| 5 | 19% | 19% |  |
+| 3 | 4% | 100% |  |
+| 4 | 53% | 96% | Median |
+| 5 | 43% | 43% |  |
 | 6 | 0% | 0% |  |
 
 ### Sinn Féin (GUE/NGL)
@@ -77,9 +77,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 89% | 98% | Median |
-| 5 | 9% | 9% |  |
+| 3 | 5% | 100% |  |
+| 4 | 84% | 95% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -93,9 +93,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 46% | 100% |  |
-| 4 | 20% | 54% | Median |
-| 5 | 34% | 34% |  |
+| 3 | 65% | 100% | Median |
+| 4 | 14% | 35% |  |
+| 5 | 21% | 21% |  |
 | 6 | 0% | 0% |  |
 
 ### Social Democrats (S&D)
@@ -106,9 +106,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 33% | 79% | Median |
-| 2 | 46% | 46% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 22% | 82% |  |
+| 2 | 60% | 60% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -120,8 +120,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 30% | 30% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -132,8 +132,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 ### Aontú (*)
@@ -144,8 +144,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 ### Solidarity–People Before Profit (GUE/NGL)
@@ -156,8 +156,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Independents (*)
@@ -219,9 +219,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
-| Fine Gael (EPP) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
-| Social Democrats (S&D) – Labour Party (S&D) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
+| Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE) | 0 | 5 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
+| Fine Gael (EPP) | 0 | 3 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Social Democrats (S&D) – Labour Party (S&D) | 0 | 2 | 0% | 1–2 | 0–2 | 0–2 | 0–2 |
 | Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE)
@@ -233,10 +233,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 55% | 99.2% | Median |
-| 5 | 44% | 45% |  |
-| 6 | 0.4% | 0.4% |  |
+| 3 | 2% | 100% |  |
+| 4 | 34% | 98% | Median |
+| 5 | 63% | 64% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 ### Fine Gael (EPP)
@@ -248,9 +248,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 46% | 100% |  |
-| 4 | 20% | 54% | Median |
-| 5 | 34% | 34% |  |
+| 3 | 65% | 100% | Median |
+| 4 | 14% | 35% |  |
+| 5 | 21% | 21% |  |
 | 6 | 0% | 0% |  |
 
 ### Social Democrats (S&D) – Labour Party (S&D)
@@ -259,9 +259,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 43% | 98% | Median |
-| 2 | 54% | 54% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 27% | 92% |  |
+| 2 | 64% | 65% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -285,6 +285,6 @@
 ### Calculations
 
 + **Sample size:** 1649
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.16%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.28%
 
