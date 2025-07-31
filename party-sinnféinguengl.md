@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.1% | 19.5–26.7% | 19.0–27.4% | 18.7–27.9% | 18.0–28.8% |
+| N/A | [Poll Average](average.html) | 21.0% | 19.2–23.0% | 18.8–23.5% | 18.4–23.9% | 17.7–24.8% |
+| [15 July 2025](2025-07-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
+| [4 July 2025](2025-07-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.0–22.1% | 17.5–22.7% |
+| [25 June 2025](2025-06-25-RedC.html) | Red C <br> Business Post | 21.0% | 19.4–22.8% | 19.0–23.2% | 18.6–23.7% | 17.9–24.5% |
 | [30 May 2025](2025-05-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.0% | 18.8–21.2% | 18.5–21.6% | 18.2–21.9% | 17.7–22.5% |
 | [22 May 2025](2025-05-22-RedC.html) | Red C <br> Business Post | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [1–2 May 2025](2025-05-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 22.0% | 20.7–23.4% | 20.4–23.7% | 20.1–24.1% | 19.5–24.7% |
@@ -66,21 +69,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 9% | 98% |  |
-| 19.5–20.5% | 17% | 89% |  |
-| 20.5–21.5% | 15% | 72% |  |
-| 21.5–22.5% | 12% | 57% | Median |
-| 22.5–23.5% | 8% | 45% |  |
-| 23.5–24.5% | 6% | 37% |  |
-| 24.5–25.5% | 9% | 30% |  |
-| 25.5–26.5% | 10% | 22% |  |
-| 26.5–27.5% | 7% | 11% |  |
-| 27.5–28.5% | 3% | 4% |  |
-| 28.5–29.5% | 0.7% | 0.8% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.3% | 100% |  |
+| 17.5–18.5% | 3% | 99.7% |  |
+| 18.5–19.5% | 12% | 97% |  |
+| 19.5–20.5% | 23% | 85% |  |
+| 20.5–21.5% | 26% | 62% | Median |
+| 21.5–22.5% | 20% | 36% |  |
+| 22.5–23.5% | 11% | 16% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 0.7% | 0.8% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,7 +90,10 @@ Last result: **0** seats (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [15 July 2025](2025-07-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [4 July 2025](2025-07-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [25 June 2025](2025-06-25-RedC.html) | Red C <br> Business Post | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [30 May 2025](2025-05-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [22 May 2025](2025-05-22-RedC.html) | Red C <br> Business Post | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [1–2 May 2025](2025-05-02-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -134,11 +136,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 27% | 95% |  |
-| 4 | 12% | 68% |  |
-| 5 | 53% | 56% | Median |
-| 6 | 4% | 4% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 33% | 99.7% |  |
+| 4 | 31% | 67% | Median |
+| 5 | 35% | 36% |  |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 
