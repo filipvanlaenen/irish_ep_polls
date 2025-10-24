@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.8–6.4% | 1.7–6.7% | 1.5–7.0% | 1.3–7.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–6.4% | 2.4–6.7% | 2.2–7.0% | 2.0–7.5% |
+| [13–15 October 2025](2025-10-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [2–3 October 2025](2025-10-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [4–9 September 2025](2025-09-09-REDC.html) | RED C <br> Business Post | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [5 September 2025](2025-09-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
@@ -57,11 +58,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 31% | 97% |  |
-| 2.5–3.5% | 26% | 66% | Median |
-| 3.5–4.5% | 6% | 40% |  |
-| 4.5–5.5% | 7% | 33% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 45% | 90% | Median |
+| 3.5–4.5% | 12% | 45% |  |
+| 4.5–5.5% | 7% | 34% |  |
 | 5.5–6.5% | 20% | 26% |  |
 | 6.5–7.5% | 7% | 7% |  |
 | 7.5–8.5% | 0.4% | 0.4% |  |
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 October 2025](2025-10-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2025](2025-10-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 1 | 1 | 1 | 0–1 |
 | [4–9 September 2025](2025-09-09-REDC.html) | RED C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [5 September 2025](2025-09-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
