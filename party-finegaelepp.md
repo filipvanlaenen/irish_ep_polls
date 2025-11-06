@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 17.2–21.7% | 16.8–22.2% | 16.4–22.6% | 15.7–23.4% |
+| N/A | [Poll Average](average.html) | 18.6% | 17.0–20.0% | 16.6–20.4% | 16.2–20.8% | 15.6–21.5% |
+| [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 19.0% | 17.8–20.3% | 17.5–20.7% | 17.2–21.0% | 16.6–21.7% |
+| [21 October 2025](2025-10-21-REDC.html) | RED C <br> Business Post | 19.0% | N/A | N/A | N/A | N/A |
 | [13–15 October 2025](2025-10-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.3–21.0% |
 | [2–3 October 2025](2025-10-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [4–9 September 2025](2025-09-09-REDC.html) | RED C <br> Business Post | 19.0% | 17.5–20.7% | 17.1–21.2% | 16.7–21.6% | 16.0–22.4% |
@@ -72,17 +74,15 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 3% | 99.6% |  |
-| 16.5–17.5% | 11% | 97% |  |
-| 17.5–18.5% | 20% | 86% |  |
-| 18.5–19.5% | 21% | 66% | Median |
-| 19.5–20.5% | 18% | 46% |  |
-| 20.5–21.5% | 16% | 27% |  |
-| 21.5–22.5% | 9% | 11% |  |
-| 22.5–23.5% | 2% | 3% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.5% | 100% |  |
+| 15.5–16.5% | 4% | 99.5% |  |
+| 16.5–17.5% | 15% | 96% |  |
+| 17.5–18.5% | 30% | 81% |  |
+| 18.5–19.5% | 31% | 51% | Median |
+| 19.5–20.5% | 16% | 20% |  |
+| 20.5–21.5% | 4% | 4% |  |
+| 21.5–22.5% | 0.4% | 0.4% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -93,7 +93,9 @@ Last result: **0** seats (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [21 October 2025](2025-10-21-REDC.html) | RED C <br> Business Post |  |  |  |  |  |
 | [13–15 October 2025](2025-10-15-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [2–3 October 2025](2025-10-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [4–9 September 2025](2025-09-09-REDC.html) | RED C <br> Business Post | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -144,10 +146,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 24% | 99.9% |  |
-| 4 | 41% | 76% | Median |
-| 5 | 35% | 35% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 62% | 99.8% | Median |
+| 4 | 35% | 38% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 
