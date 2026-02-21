@@ -14,6 +14,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | [3 February 2026](2026-02-03-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 6.9% | 6.1–7.9% | 5.8–8.2% | 5.6–8.4% | 5.2–8.9% |
 | [30 January 2026](2026-01-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.5–11.8% | 8.0–12.4% |
 | [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [19 December 2025](2025-12-19-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 10.0% | N/A | N/A | N/A | N/A |
 | [4–5 December 2025](2025-12-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.4% |
 | [26 November 2025](2025-11-26-REDC.html) | RED C <br> Business Post | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
@@ -92,7 +93,8 @@ Last result: **0** seats (General Election of 7 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | [3 February 2026](2026-02-03-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [30 January 2026](2026-01-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [19 December 2025](2025-12-19-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
 | [4–5 December 2025](2025-12-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [26 November 2025](2025-11-26-REDC.html) | RED C <br> Business Post | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -146,9 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
-| 1 | 25% | 92% |  |
-| 2 | 53% | 67% | Median |
-| 3 | 14% | 14% |  |
+| 1 | 24% | 92% |  |
+| 2 | 48% | 67% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0% | 0% |  |
 
 

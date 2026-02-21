@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.4–6.4% | 3.2–6.8% | 3.1–7.1% | 2.8–7.6% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.4–6.4% | 3.2–6.8% | 3.0–7.1% | 2.7–7.6% |
 | [3 February 2026](2026-02-03-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [30 January 2026](2026-01-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.5–8.0% |
-| [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [19 December 2025](2025-12-19-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.0% | N/A | N/A | N/A | N/A |
 | [4–5 December 2025](2025-12-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [26 November 2025](2025-11-26-REDC.html) | RED C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 5.0% | 4.3–5.7% | 4.2–6.0% | 4.0–6.2% | 3.7–6.5% |
@@ -69,7 +70,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 14% | 99.9% |  |
 | 3.5–4.5% | 41% | 86% | Median |
-| 4.5–5.5% | 19% | 46% |  |
+| 4.5–5.5% | 18% | 45% |  |
 | 5.5–6.5% | 19% | 27% |  |
 | 6.5–7.5% | 7% | 8% |  |
 | 7.5–8.5% | 0.6% | 0.7% |  |
@@ -88,6 +89,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | [3 February 2026](2026-02-03-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 0 | 0 | 0 | 0 | 0–1 |
 | [30 January 2026](2026-01-30-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–21 January 2026](2026-01-21-REDC.html) | RED C <br> Business Post | 0 | 0 | 0 | 0 | 0–1 |
+| [19 December 2025](2025-12-19-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
 | [4–5 December 2025](2025-12-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26 November 2025](2025-11-26-REDC.html) | RED C <br> Business Post | 0 | 0 | 0 | 0 | 0–1 |
 | [31 October 2025](2025-10-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0–1 | 0–1 | 0–1 |
