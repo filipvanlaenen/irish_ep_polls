@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Apr 2026 22:48:48 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2026 16:04:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by RED C for Business Post, 20–25 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-03-25-REDC.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 4–5 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-03-25-REDC-seats.png"
-        length="345777"
+        length="334826"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 22:48:48 +0200</pubDate>
-      <dc:date>2026-04-03T22:48:48.096893+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 16:04:55 +0200</pubDate>
+      <dc:date>2026-04-04T16:04:55.823948+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RED C for Business Post, 20–25 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-03-25-REDC.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-03-25-REDC-coalitions-seats.png"
-        length="200042"
+        length="193103"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 22:48:48 +0200</pubDate>
-      <dc:date>2026-04-03T22:48:48.096893+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 16:04:55 +0200</pubDate>
+      <dc:date>2026-04-04T16:04:55.823948+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RED C for Business Post, 20–25 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-03-25-REDC.png"
         length="372915"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 22:48:48 +0200</pubDate>
-      <dc:date>2026-04-03T22:48:48.096893+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 16:04:55 +0200</pubDate>
+      <dc:date>2026-04-04T16:04:55.823948+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 27 February 2026 – Seat Projections for the Parties</title>
@@ -1119,6 +1119,6 @@
       <pubDate>Sat, 27 Jul 2024 22:32:20 +0200</pubDate>
       <dc:date>2024-07-27T22:32:20.107289+02:00</dc:date>
     </item>
-    <dc:date>2026-04-03T22:48:48.096893+02:00</dc:date>
+    <dc:date>2026-04-04T16:04:55.823948+02:00</dc:date>
   </channel>
 </rss>
