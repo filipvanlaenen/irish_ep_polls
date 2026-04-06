@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.3–4.8% | 3.1–5.0% | 3.0–5.3% | 2.7–5.7% |
+| [3–4 April 2026](2026-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [27 February 2026](2026-02-27-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [13–19 February 2026](2026-02-19-REDC.html) | RED C <br> Business Post | 5.0% | 4.3–6.1% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–4 April 2026](2026-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 February 2026](2026-02-27-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–19 February 2026](2026-02-19-REDC.html) | RED C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -146,8 +148,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 

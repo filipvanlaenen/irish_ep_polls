@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.6–4.6% | 2.4–4.9% | 2.2–5.1% | 1.9–5.6% |
+| [3–4 April 2026](2026-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [27 February 2026](2026-02-27-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
 | [13–19 February 2026](2026-02-19-REDC.html) | RED C <br> Business Post | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–4 April 2026](2026-04-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
 | [27 February 2026](2026-02-27-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [13–19 February 2026](2026-02-19-REDC.html) | RED C <br> Business Post | 0 | 0 | 0 | 0 | 0 |
