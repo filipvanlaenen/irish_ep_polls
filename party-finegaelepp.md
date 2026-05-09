@@ -105,8 +105,8 @@ Last result: **0** seats (General Election of 7 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [17–22 April 2026](2026-04-22-REDC.html) | RED C <br> Business Post | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [17–22 April 2026](2026-04-22-REDC.html) | RED C <br> Business Post | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [2–3 April 2026](2026-04-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [27 February 2026](2026-02-27-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -169,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 80% | 94% | Median |
+| 2 | 8% | 100% |  |
+| 3 | 79% | 92% | Median |
 | 4 | 12% | 13% |  |
 | 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
