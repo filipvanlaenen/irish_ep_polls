@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 7 June 2024)
 | N/A | [Poll Average](average.html) | 20.5% | 19.0–22.2% | 18.6–22.7% | 18.3–23.2% | 17.7–24.1% |
 | [5 June 2026](2026-06-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 20.0% | 18.8–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
 | [22–27 May 2026](2026-05-27-REDC.html) | RED C <br> Business Post | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 22.0% | N/A | N/A | N/A | N/A |
+| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 22.0% | 20.8–23.3% | 20.4–23.7% | 20.1–24.0% | 19.5–24.6% |
 | [17–22 April 2026](2026-04-22-REDC.html) | RED C <br> Business Post | 25.0% | N/A | N/A | N/A | N/A |
 | [2–3 April 2026](2026-04-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 22.0% | N/A | N/A | N/A | N/A |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post | 24.0% | N/A | N/A | N/A | N/A |
@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [5 June 2026](2026-06-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [22–27 May 2026](2026-05-27-REDC.html) | RED C <br> Business Post | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
+| [1 May 2026](2026-05-01-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [17–22 April 2026](2026-04-22-REDC.html) | RED C <br> Business Post |  |  |  |  |  |
 | [2–3 April 2026](2026-04-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent |  |  |  |  |  |
 | [20–25 March 2026](2026-03-25-REDC.html) | RED C <br> Business Post |  |  |  |  |  |
