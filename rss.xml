@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Jul 2026 23:37:31 +0200</pubDate>
+    <pubDate>Wed, 08 Jul 2026 19:50:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 3 July 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Independents (*): 0 seats&lt;/li&gt;&lt;li&gt;Independents (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Social Democrats (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Aontú (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks-seats.png"
+        length="359046"
+        type="image/png"/>
+      <pubDate>Wed, 08 Jul 2026 19:50:36 +0200</pubDate>
+      <dc:date>2026-07-08T19:50:36.025621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 3 July 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks-coalitions-seats.png"
+        length="182720"
+        type="image/png"/>
+      <pubDate>Wed, 08 Jul 2026 19:50:36 +0200</pubDate>
+      <dc:date>2026-07-08T19:50:36.025621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for Sunday Independent, 3 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil (RE): 15.0–19.1%&lt;/li&gt;&lt;li&gt;Independent Ireland (RE): 5.8–8.6%&lt;/li&gt;&lt;li&gt;Independents (GUE/NGL): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Independents 4 Change (GUE/NGL): 1.4–3.1%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Independents (*): 2.1–4.0%&lt;/li&gt;&lt;li&gt;Independents (RE): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Fine Gael (EPP): 17.9–22.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit (GUE/NGL): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats (GUE/NGL): 10.3–13.9%&lt;/li&gt;&lt;li&gt;Sinn Féin (GUE/NGL): 16.9–21.2%&lt;/li&gt;&lt;li&gt;Aontú (*): 4.8–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-07-03-IrelandThinks.png"
+        length="378719"
+        type="image/png"/>
+      <pubDate>Wed, 08 Jul 2026 19:50:36 +0200</pubDate>
+      <dc:date>2026-07-08T19:50:36.025621+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by RED C for Business Post, 24 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-06-24-REDC.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Mon, 22 Jun 2026 20:58:39 +0200</pubDate>
       <dc:date>2026-06-22T20:58:39.402943+02:00</dc:date>
     </item>
-    <dc:date>2026-07-04T23:37:31.526678+02:00</dc:date>
+    <dc:date>2026-07-08T19:50:36.025621+02:00</dc:date>
   </channel>
 </rss>
