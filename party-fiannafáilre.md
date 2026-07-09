@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 13.1–16.8% | 12.6–17.2% | 12.3–17.6% | 11.6–18.2% |
+| N/A | [Poll Average](average.html) | 15.6% | 13.1–17.9% | 12.6–18.4% | 12.3–18.8% | 11.6–19.5% |
+| [3 July 2026](2026-07-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 17.0% | 15.7–18.4% | 15.3–18.8% | 15.0–19.1% | 14.4–19.8% |
 | [24 June 2026](2026-06-24-REDC.html) | RED C <br> Business Post | 14.0% | 12.6–15.5% | 12.3–15.9% | 11.9–16.2% | 11.4–17.0% |
 | [5 June 2026](2026-06-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 16.0% | 14.9–17.2% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
 | [22–27 May 2026](2026-05-27-REDC.html) | RED C <br> Business Post | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
@@ -88,13 +89,14 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.4% | 100% |  |
 | 11.5–12.5% | 4% | 99.6% |  |
 | 12.5–13.5% | 13% | 96% |  |
-| 13.5–14.5% | 20% | 83% |  |
-| 14.5–15.5% | 24% | 63% | Median |
-| 15.5–16.5% | 25% | 39% |  |
-| 16.5–17.5% | 12% | 15% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 13.5–14.5% | 18% | 83% |  |
+| 14.5–15.5% | 15% | 65% |  |
+| 15.5–16.5% | 16% | 50% | Median |
+| 16.5–17.5% | 19% | 34% |  |
+| 17.5–18.5% | 12% | 15% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.4% | 0.5% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,7 +107,8 @@ Last result: **0** seats (General Election of 7 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [3 July 2026](2026-07-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [24 June 2026](2026-06-24-REDC.html) | RED C <br> Business Post | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [5 June 2026](2026-06-05-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–27 May 2026](2026-05-27-REDC.html) | RED C <br> Business Post | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -172,10 +175,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 30% | 99.9% |  |
-| 2 | 47% | 70% | Median |
-| 3 | 22% | 22% |  |
-| 4 | 0.2% | 0.2% |  |
+| 1 | 28% | 99.9% |  |
+| 2 | 31% | 72% | Median |
+| 3 | 40% | 41% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 
