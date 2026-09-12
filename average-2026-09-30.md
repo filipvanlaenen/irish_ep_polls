@@ -378,8 +378,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 55% | 99.9% | Median |
-| 4 | 23% | 45% |  |
+| 3 | 56% | 99.9% | Median |
+| 4 | 22% | 44% |  |
 | 5 | 22% | 22% |  |
 | 6 | 0% | 0% |  |
 
@@ -443,7 +443,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 28% | 99.9% |  |
 | 2 | 22% | 72% |  |
 | 3 | 50% | 50% | Median |
-| 4 | 0.1% | 0.1% |  |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Independents (RE)
@@ -482,8 +482,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.1% | 100% |  |
-| 3 | 42% | 98.9% |  |
-| 4 | 54% | 57% | Median |
+| 3 | 41% | 98.9% |  |
+| 4 | 55% | 58% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -544,8 +544,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.1% | 100% |  |
-| 3 | 42% | 98.9% |  |
-| 4 | 54% | 57% | Median |
+| 3 | 41% | 98.9% |  |
+| 4 | 55% | 58% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -558,9 +558,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 22% | 100% |  |
 | 2 | 23% | 77% |  |
-| 3 | 9% | 55% |  |
-| 4 | 45% | 46% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 3 | 10% | 55% |  |
+| 4 | 45% | 45% | Median |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -585,6 +585,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 2.50%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.95%
