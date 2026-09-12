@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/irish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 11 Sep 2026 23:47:26 +0200</pubDate>
+    <pubDate>Fri, 11 Sep 2026 23:58:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 4 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_ep_polls/2026-09-04-IrelandThinks.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-09-04-IrelandThinks-seats.png"
         length="313069"
         type="image/png"/>
-      <pubDate>Fri, 11 Sep 2026 23:47:26 +0200</pubDate>
-      <dc:date>2026-09-11T23:47:26.645217+02:00</dc:date>
+      <pubDate>Fri, 11 Sep 2026 23:58:56 +0200</pubDate>
+      <dc:date>2026-09-11T23:58:56.257167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 4 September 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-09-04-IrelandThinks-coalitions-seats.png"
         length="159473"
         type="image/png"/>
-      <pubDate>Fri, 11 Sep 2026 23:47:26 +0200</pubDate>
-      <dc:date>2026-09-11T23:47:26.645217+02:00</dc:date>
+      <pubDate>Fri, 11 Sep 2026 23:58:56 +0200</pubDate>
+      <dc:date>2026-09-11T23:58:56.257167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 4 September 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_ep_polls/2026-09-04-IrelandThinks.png"
         length="383242"
         type="image/png"/>
-      <pubDate>Fri, 11 Sep 2026 23:47:26 +0200</pubDate>
-      <dc:date>2026-09-11T23:47:26.645217+02:00</dc:date>
+      <pubDate>Fri, 11 Sep 2026 23:58:56 +0200</pubDate>
+      <dc:date>2026-09-11T23:58:56.257167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for Sunday Independent, 31 July 2026 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Mon, 22 Jun 2026 20:58:39 +0200</pubDate>
       <dc:date>2026-06-22T20:58:39.402943+02:00</dc:date>
     </item>
-    <dc:date>2026-09-11T23:47:26.645217+02:00</dc:date>
+    <dc:date>2026-09-11T23:58:56.257167+02:00</dc:date>
   </channel>
 </rss>
