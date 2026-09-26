@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Ind.L | I4C | SF | SD | S-PBP | GP | Lab | FF | Ind.RE | II | FG | Ind | IA | RI | Aon |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 1–4% <br> 0–1 | 1–4% <br> 0 | 19–25% <br> 3–5 | 7–13% <br> 1–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–5% <br> 0–1 | 12–20% <br> 1–3 | 1–3% <br> 0 | 3–8% <br> 0–1 | 15–21% <br> 3–4 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 0–1 |
+| N/A | Poll Average | 1–4% <br> 0–1 | 1–4% <br> 0 | 19–25% <br> 3–5 | 7–13% <br> 1–3 | 2–4% <br> 0–1 | 2–4% <br> 0 | 2–5% <br> 0–1 | 12–20% <br> 1–3 | 1–3% <br> 0 | 3–8% <br> 0–1 | 15–21% <br> 3–4 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 0–1 |
 | [21–22 September 2026](2026-09-22-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 2–4% <br> 0–1 | 2–4% <br> 0 | 21–25% <br> 4–6 | 7–10% <br> 0–2 | 2–4% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0–1 | 16–20% <br> 3–4 | 1–3% <br> 0 | 3–5% <br> 0 | 15–19% <br> 3–4 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 |
 | [4–9 September 2026](2026-09-09-REDC.html) | RED C <br> Business Post | 2–4% <br> 0–1 | 2–4% <br> 0 | 19–24% <br> 3–5 | 9–13% <br> 2–3 | 2–4% <br> 0–1 | 2–4% <br> 0 | 3–5% <br> 0–1 | 12–16% <br> 1–3 | 1–3% <br> 0 | 4–7% <br> 0–1 | 16–21% <br> 3–4 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1 |
 | [4 September 2026](2026-09-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 1–3% <br> 0 | 1–3% <br> 0 | 19–24% <br> 3–4 | 8–12% <br> 2–3 | 1–3% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | 15–19% <br> 2–3 | 1–2% <br> 0 | 6–9% <br> 0–1 | 17–21% <br> 3–4 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 1 |
@@ -337,12 +337,12 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#independents-4-change-(gue/ngl)">Independents 4 Change (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#sinn-féin-(gue/ngl)">Sinn Féin (GUE/NGL)</a> | 0 | 4 | 3–5 |3–5 | 3–5 | 3–6 |
 | <a href="#social-democrats-(gue/ngl)">Social Democrats (GUE/NGL)</a> | 0 | 2 | 1–3 |1–3 | 1–3 | 0–3 |
-| <a href="#solidarity–people-before-profit-(gue/ngl)">Solidarity–People Before Profit (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#solidarity–people-before-profit-(gue/ngl)">Solidarity–People Before Profit (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 0 | 3 | 2–3 |1–3 | 1–3 | 1–4 |
+| <a href="#fianna-fáil-(re)">Fianna Fáil (RE)</a> | 0 | 3 | 2–3 |2–3 | 1–3 | 1–4 |
 | <a href="#independents-(re)">Independents (RE)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#independent-ireland-(re)">Independent Ireland (RE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#independent-ireland-(re)">Independent Ireland (RE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#fine-gael-(epp)">Fine Gael (EPP)</a> | 0 | 3 | 3–4 |3–4 | 3–4 | 3–5 |
 | <a href="#independents-(*)">Independents (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#independent-alliance-(*)">Independent Alliance (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 32% | 100% |  |
-| 4 | 36% | 68% | Median |
-| 5 | 32% | 33% |  |
+| 4 | 22% | 68% | Median |
+| 5 | 45% | 46% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
@@ -400,8 +400,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 9% | 98% |  |
-| 2 | 56% | 89% | Median |
-| 3 | 33% | 33% |  |
+| 2 | 55% | 89% | Median |
+| 3 | 34% | 34% |  |
 | 4 | 0% | 0% |  |
 
 ### Solidarity–People Before Profit (GUE/NGL)
@@ -412,8 +412,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Fianna Fáil (RE)
@@ -446,10 +446,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 6% | 99.9% |  |
-| 2 | 27% | 94% |  |
-| 3 | 66% | 68% | Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 4% | 100% |  |
+| 2 | 29% | 96% |  |
+| 3 | 66% | 67% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -461,8 +461,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 ### Independent Ireland (RE)
@@ -473,8 +473,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 58% | 58% | Median |
+| 0 | 56% | 100% | Last Result, Median |
+| 1 | 44% | 44% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -488,10 +488,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 66% | 99.8% | Median |
+| 2 | 0.1% | 100% |  |
+| 3 | 66% | 99.9% | Median |
 | 4 | 33% | 34% |  |
-| 5 | 0.7% | 0.7% |  |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Independents (*)
@@ -538,7 +538,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fine Gael (EPP) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
-| Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE) | 0 | 3 | 0% | 3–4 | 2–4 | 1–4 | 1–4 |
+| Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE) | 0 | 3 | 0% | 2–4 | 2–4 | 2–4 | 1–4 |
 | Labour Party (S&D) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Green Party (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -550,10 +550,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 66% | 99.8% | Median |
+| 2 | 0.1% | 100% |  |
+| 3 | 66% | 99.9% | Median |
 | 4 | 33% | 34% |  |
-| 5 | 0.7% | 0.7% |  |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 ### Fianna Fáil (RE) – Independent Ireland (RE) – Independents (RE)
@@ -562,12 +562,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 3% | 99.9% |  |
-| 2 | 6% | 97% |  |
-| 3 | 59% | 92% |  |
-| 4 | 32% | 33% | Median |
-| 5 | 0.3% | 0.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 2% | 100% |  |
+| 2 | 18% | 98% |  |
+| 3 | 47% | 80% | Median |
+| 4 | 32% | 32% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -576,8 +576,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -592,6 +592,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.95%
