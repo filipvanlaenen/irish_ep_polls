@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 September 2026](2026-09-22-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–9 September 2026](2026-09-09-REDC.html) | RED C <br> Business Post | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–9 September 2026](2026-09-09-REDC.html) | RED C <br> Business Post | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4 September 2026](2026-09-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [31 July 2026](2026-07-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
 | [3 July 2026](2026-07-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 0 | 0 | 0 | 0 | 0 |
@@ -168,8 +168,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 

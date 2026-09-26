@@ -120,7 +120,7 @@ Last result: **0** seats (General Election of 7 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [21–22 September 2026](2026-09-22-IpsosBA.html) | Ipsos B&A <br> The Irish Times | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [4–9 September 2026](2026-09-09-REDC.html) | RED C <br> Business Post | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [4–9 September 2026](2026-09-09-REDC.html) | RED C <br> Business Post | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [4 September 2026](2026-09-04-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [31 July 2026](2026-07-31-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3 | 3–4 | 3–4 | 3–5 |
 | [3 July 2026](2026-07-03-IrelandThinks.html) | Ireland Thinks <br> Sunday Independent | 3 | 3 | 3 | 3 | 3–4 |
@@ -193,8 +193,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 32% | 100% |  |
-| 4 | 36% | 68% | Median |
-| 5 | 32% | 33% |  |
+| 4 | 22% | 68% | Median |
+| 5 | 45% | 46% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
